@@ -1,10 +1,26 @@
 # Project Ideas
 
-An open, bottom up repository of ideas to help build the future of Iran across tech, infrastructure, economy, and society.
+An open, bottom-up repository of ideas to help build the future of Iran across tech, infrastructure, economy, and society.
 
-Anyone can contribute.
+Anyone can contribute. See [CONTRIBUTING.md](CONTRIBUTING.md) for how.
 
-See all discussions here:  (https://github.com/IranAzadAbad/ideas)
+See all discussions here: [github.com/IranAzadAbad/ideas](https://github.com/IranAzadAbad/ideas)
+
+---
+
+## Browse Ideas
+
+See the full list: **[IDEAS.md](IDEAS.md)**
+
+| Category | Ideas |
+|----------|-------|
+| [Environment](environment/) | [Wildfire Analyst](environment/wildfire-analyst/) |
+| [Literature](literature/) | [Shahnameh Analyst](literature/shahnameh-analyst/) |
+| [Infrastructure](infrastructure/) | — |
+| [Economy](economy/) | — |
+| [Education](education/) | — |
+| [Health](health/) | — |
+| [Technology](technology/) | — |
 
 ---
 
@@ -20,6 +36,8 @@ Each idea should be **1 to a few pages**, clear and actionable.
 5. **Approach** Key steps, timeline, methods.  
 6. **Help Needed** Talent, funding, data, partnerships.  
 7. **Supporting Material (recommended)** Charts, images, links, videos.  
+
+See full details in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
