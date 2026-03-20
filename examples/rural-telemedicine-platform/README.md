@@ -1,6 +1,6 @@
 # Open-Source Telemedicine Platform for Rural Iran
 
-> This is an example idea to show good structure. See [CONTRIBUTING.md](../CONTRIBUTING.md) for submission guidelines.
+> This is an example idea to show good structure. See [CONTRIBUTING.md](../../CONTRIBUTING.md) for submission guidelines.
 
 ---
 

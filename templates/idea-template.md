@@ -1,6 +1,7 @@
 # [Your Idea Title Here]
 
 > **Before submitting**: Read [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines and tips.
+> **File structure**: Save this file as `your-idea-name/README.md`. Add diagrams, images, or data files to the same folder.
 
 ---
 
@@ -71,11 +72,11 @@ What is it? Why it matters? Who benefits?
 
 ## Supporting Material
 
-[Optional: Add links, images, diagrams, or videos that help explain your idea]
+[Optional: Add links, images, diagrams, or videos that help explain your idea. Local files (images, PDFs, sketches) can be placed in this folder and linked here.]
 
 - Related projects: [Link 1, Link 2]
 - Research/data: [Link to studies, market reports]
-- Mockups or diagrams: [Describe or link]
+- Mockups or diagrams: [e.g., `![Architecture diagram](diagram.png)` or describe and link]
 
 ---
 

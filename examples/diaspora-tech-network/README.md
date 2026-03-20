@@ -1,6 +1,6 @@
 # Diaspora Tech Talent Network
 
-> This is an example idea to show good structure. See [CONTRIBUTING.md](../CONTRIBUTING.md) for submission guidelines.
+> This is an example idea to show good structure. See [CONTRIBUTING.md](../../CONTRIBUTING.md) for submission guidelines.
 
 ---
 

@@ -6,16 +6,17 @@ Thank you for contributing! This guide will help you submit a clear, actionable 
 
 - **Read the goal**: We're looking for ideas that can become real projects, teams, or companies
 - **Check discussions**: Browse [GitHub Discussions](https://github.com/IranAzadAbad/ideas/discussions) to see if your idea already exists or is being discussed
-- **Review examples**: Look at the `/examples` folder to see what good ideas look like
+- **Review examples**: Look at the [examples/](examples/) folder to see what good ideas look like
 
 ## How to Submit
 
 ### Option 1: Create a Pull Request (Recommended for new ideas)
 
 1. Fork the repository
-2. Create a new file in `/ideas` with your idea name: `ideas/your-idea-title.md`
-3. Use the [template](templates/idea-template.md)
-4. Submit a pull request with a clear description
+2. Create a folder named after your idea: `your-idea-title/`
+3. Inside it, create `README.md` using the [template](templates/idea-template.md)
+4. Add any supporting files (diagrams, images, data) to the same folder
+5. Submit a pull request with a clear description
 
 ### Option 2: Start a Discussion
 
