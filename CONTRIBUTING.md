@@ -24,7 +24,7 @@ If you want feedback before writing, start a [Discussion](https://github.com/Ira
 
 ## Structure Your Idea
 
-Follow the sections below. Don't worry about perfect prose—clarity matters more than polish.
+Follow the sections below. Don't worry about perfect prose--clarity matters more than polish.
 
 ### Title
 - Short (5-10 words), descriptive
@@ -71,21 +71,21 @@ Follow the sections below. Don't worry about perfect prose—clarity matters mor
 
 ## Tips for Strong Ideas
 
-✅ **DO:**
+**DO:**
 - Be concise (1-3 pages is ideal)
 - Focus on solving real problems
-- Show you understand the context (Iran-specific challenges, regulations, market)
+- Show you understand the context (Iran's rebuilding moment, legacy gaps, diaspora dynamics, local needs)
 - Break down complex ideas into actionable steps
 - Be specific about what help you need
 - Use visuals when they clarify (even rough sketches help)
 
-❌ **DON'T:**
+**DON'T:**
 - Write vague, aspirational essays ("improve Iran's tech ecosystem")
 - Focus on politics rather than solutions
 - Propose ideas without understanding the problem
 - Ask for help without being specific ("need smart people")
 - Ignore feasibility (be realistic about timeline and resources)
-- Make claims without context ("will create 10,000 jobs" — how? why?)
+- Make claims without context ("will create 10,000 jobs" -- how? why?)
 
 ---
 
@@ -95,7 +95,7 @@ Follow the sections below. Don't worry about perfect prose—clarity matters mor
 |---------|-----|
 | Too vague | Replace "improve X" with "reduce Y by doing Z" |
 | No specific help needed | Name roles: "1 iOS dev", "design partner", not "team" |
-| Missing Iran context | Add: regulations, market conditions, diaspora dynamics, local needs |
+| Missing Iran context | Add: rebuilding priorities, legacy gaps, diaspora dynamics, local needs |
 | Timeline is fantasy | Be honest about phases and dependencies |
 | No validation | Reference research, similar projects, or user conversations |
 

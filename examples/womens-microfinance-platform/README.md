@@ -23,16 +23,16 @@ Problem: Women entrepreneurs in Iran struggle to get small business loans. Banks
 ## Why It's Interesting
 
 **Why now**:
-- Iran's female labor force participation is low (15% of workforce) but interest is rising
-- Government prioritizes women's economic empowerment (national policy)
+- Decades of enforced exclusion suppressed women's formal economic participation -- rebuilding that is one of the most important economic priorities for a free Iran
+- Women are entering the workforce and launching businesses rapidly; financial infrastructure needs to catch up
 - Mobile banking and digital payments are now mainstream in Iran
-- Proven models globally: Kiva, Lending Club, 2X Challenge show this works
+- Proven models globally: Kiva, Lending Club, 2X Challenge show this works at scale
 
 **Why Iran**:
-- Women face structural barriers: no collateral, no credit history, limited access to formal banking
-- Informal economies (handmade crafts, services, small retail) are where many women work
-- MFI sector in Iran is underdeveloped but growing (opportunity to build from scratch)
-- Women's economic empowerment aligns with government goals (eases implementation)
+- The legacy credit gap is real: women who were excluded from formal banking for years have no credit history -- not because of capability, but because of exclusion. The platform bridges that gap.
+- A generation of women built businesses informally under difficult conditions; they are experienced operators who simply lacked access to capital
+- MFI sector is underdeveloped -- this is a greenfield opportunity to build the right infrastructure from scratch
+- Releasing suppressed economic potential: getting more women into formal business is one of the fastest ways to grow the Iranian economy
 
 **Expected impact**:
 - Year 1: 500-1,000 women on platform, $300-500K in total lending
@@ -54,7 +54,7 @@ Problem: Women entrepreneurs in Iran struggle to get small business loans. Banks
 
 2. **MVP & Pilot (Months 3-6)**: Launch basic platform
    - Simple loan application platform (online form, document upload)
-   - Credit scoring logic (alternative to traditional credit history—business viability, peer references)
+   - Credit scoring logic (alternative to traditional credit history: business viability, peer references)
    - Integration with partner MFIs for fund disbursement
    - Start with one city (e.g., Tehran) for easier operations and monitoring
 
@@ -85,7 +85,7 @@ MVP to pilot: 6 months. Pilot to multi-city scaling: 12-18 months. Profitability
 
 - **Phase 1**: Partner with established MFIs (they recruit women on their client lists)
 - **Phase 2**: Community outreach via women's cooperatives, NGOs, business centers
-- **Phase 3**: Government channels—Ministry of Cooperatives, Women & Family Ministry have programs to support this
+- **Phase 3**: Government and civil society channels -- women's economic councils, business associations, and municipal development programs
 
 ---
 
@@ -116,7 +116,7 @@ MVP to pilot: 6 months. Pilot to multi-city scaling: 12-18 months. Profitability
 
 ## Notes
 
-- **Critical assumption**: That women will use a digital platform and that MFIs are open to this model. Validate extensively in research phase.
-- **Regulatory risk**: Lending and fintech are heavily regulated in Iran. Early engagement with Central Bank is crucial—don't build and ask forgiveness.
+- **Critical assumption**: That women will use a digital platform and that MFIs are open to this model. Validate extensively in research phase -- the demand is almost certainly there, but the form factor matters.
+- **Regulatory environment**: Lending and fintech still require Central Bank engagement -- work with regulators proactively to shape the framework, not just comply with it.
 - **Sustainability question**: How to achieve profitability while keeping interest rates accessible to low-income women? This is the hardest problem. Explore: operational efficiency, government subsidies, impact investors
 - **Sequencing**: Start with lending facilitation (partner MFI model). Peer lending and own capital later (once trust is built).

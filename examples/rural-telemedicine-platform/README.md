@@ -14,7 +14,7 @@
 
 ## Abstract
 
-An offline-first, open-source telemedicine system designed specifically for Iran's rural clinics. Enables local health workers to capture patient data, take diagnostic images, and consult remotely with specialists in cities—all working reliably on low bandwidth and without requiring constant internet.
+An offline-first, open-source telemedicine system designed specifically for Iran's rural clinics. Enables local health workers to capture patient data, take diagnostic images, and consult remotely with specialists in cities -- all working reliably on low bandwidth and without requiring constant internet.
 
 Problem: Rural clinics in Iran lack diagnostic tools, specialist access, and digital records. Patients travel 4-8 hours to see a doctor. Problem solved: Digital triage, remote consultation, and persistent medical records reduce unnecessary travel and catch serious conditions early.
 
@@ -29,10 +29,10 @@ Problem: Rural clinics in Iran lack diagnostic tools, specialist access, and dig
 - Open-source models are proven (successful in other health systems) and avoid licensing costs.
 
 **Why Iran**:
-- Geography and dispersed population make rural access structurally hard
-- Government healthcare system lacks modern diagnostic tools
-- Data sovereignty concerns make closed platforms politically risky
-- Potential to be adopted by Ministry of Health if open-source
+- Geography and dispersed population make rural access structurally hard -- this is a long-term challenge regardless of governance
+- Healthcare infrastructure was chronically underfunded; rebuilding it is a national priority with real political will behind it
+- Open-source means the state doesn't depend on a single vendor and the community can maintain and improve it independently
+- Potential to become the national standard: a well-designed open platform, proven in pilots, is exactly what a rebuilding health ministry would adopt
 
 **Expected impact**:
 - Year 1: Pilot in 10-15 clinics across 3 provinces. Baseline: 50+ rural health workers trained.
@@ -54,7 +54,7 @@ Problem: Rural clinics in Iran lack diagnostic tools, specialist access, and dig
    - Patient registration and basic intake form
    - Offline data storage (syncs when connection available)
    - Image capture module for basic diagnostics (X-ray, ultrasound, photos)
-   - Messaging system for rural worker ↔ specialist consultation
+   - Messaging system for rural worker <-> specialist consultation
    - Integration with existing clinic workflows (don't redesign everything)
 
 3. **Pilot & Feedback (Months 6-9)**: Real-world testing
@@ -83,7 +83,7 @@ MVP to piloting: 6 months. Pilot to 50-clinic adoption: 12-18 months.
 ### Go-to-Market
 
 - **Phase 1**: Direct outreach to clinic networks and Ministry of Health regional offices
-- **Phase 2**: Train-the-trainer program—certify clinics in using and supporting the system locally
+- **Phase 2**: Train-the-trainer program -- certify clinics in using and supporting the system locally
 - **Phase 3**: Publish results in health journals and at conferences to build credibility for national scaling
 
 ---
@@ -111,5 +111,5 @@ MVP to piloting: 6 months. Pilot to 50-clinic adoption: 12-18 months.
 ## Notes
 
 - **Critical assumption**: That rural health workers can be trained to use the system and will actually use it. Validate through interviews and observational research.
-- **Data privacy**: Must ensure GDPR + Iran data protection law compliance. Medical data is sensitive—design with privacy-first approach.
+- **Data privacy**: Medical data is sensitive regardless of context -- design privacy-first from day one, and engage with Iran's emerging data protection framework to help shape good standards.
 - **Sustainability**: Open-source model is low-cost but how to fund maintenance long-term? Explore: government subsidy, diaspora donations, NGO support, or hybrid freemium.

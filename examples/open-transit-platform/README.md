@@ -14,9 +14,9 @@
 
 ## Abstract
 
-An open-source platform that aggregates real-time location data from Tehran's buses, metro, and BRT lines into a single unified feed — accessible via a public API and a simple mobile app. Lets citizens plan trips, reduces wait time uncertainty, and gives municipalities data they currently don't have.
+An open-source platform that aggregates real-time location data from Tehran's buses, metro, and BRT lines into a single unified feed -- accessible via a public API and a simple mobile app. Lets citizens plan trips, reduces wait time uncertainty, and gives municipalities data they currently don't have.
 
-Problem: Tehran operates one of the region's largest transit networks (metro, BRT, regular buses) but has no unified real-time tracking. Commuters wait without information. Planners make decisions without data. The city's transit potential is undermined by poor information. Problem solved: A lightweight data layer on top of existing infrastructure — no new vehicles, no new routes, just visibility.
+Problem: Tehran operates one of the region's largest transit networks (metro, BRT, regular buses) but has no unified real-time tracking. Commuters wait without information. Planners make decisions without data. The city's transit potential is undermined by poor information. Problem solved: A lightweight data layer on top of existing infrastructure -- no new vehicles, no new routes, just visibility.
 
 ---
 
@@ -24,15 +24,15 @@ Problem: Tehran operates one of the region's largest transit networks (metro, BR
 
 **Why now**:
 - GPS-enabled phones are ubiquitous among drivers and can act as low-cost tracking devices
-- Tehran's metro authority has begun digitizing operations — data exists but isn't public
+- Tehran's metro authority has begun digitizing operations -- data exists but isn't public
 - Civic tech movements in Iran are growing; developers want to build useful local tools
 - Similar open transit projects (OpenStreetMap, TransitApp, Moovit) have demonstrated the model globally
 
 **Why Iran**:
-- Tehran is among the most congested cities in the world — even marginal transit improvements have large impact
+- Tehran is among the most congested cities in the world -- even marginal transit improvements have large impact
 - No unified transit app exists; commuters rely on word of mouth and guesswork
 - Farsi-first design is essential and often missing from international transit tools
-- Municipal governments respond well to demonstrated pilots — proof of concept in Tehran opens doors to Isfahan, Mashhad, Shiraz
+- Municipal governments respond well to demonstrated pilots -- proof of concept in Tehran opens doors to Isfahan, Mashhad, Shiraz
 - Open data from this platform could enable secondary innovation: research, journalism, urban planning tools
 
 **Expected impact**:
@@ -50,7 +50,7 @@ Problem: Tehran operates one of the region's largest transit networks (metro, BR
    - Identify which transit authorities have GPS data and in what format
    - Negotiate open data agreements with Tehran Metro, BRT authority, and bus operators
    - Where data doesn't exist: prototype crowdsourced tracking via driver apps (similar to how Moovit started)
-   - Engage municipality's smart city office — they have political motivation to show innovation
+   - Engage municipality's smart city office -- they have political motivation to show innovation
 
 2. **Core Platform (Months 3-6)**: Build the data layer
    - Ingest and normalize real-time vehicle location feeds (GTFS-RT standard)
@@ -76,7 +76,7 @@ Data partnerships + first API: 6 months. Public app launch: 9 months. Multi-city
 
 ### Methods & Technology
 
-- **Standard**: GTFS and GTFS-RT (global transit data standards) — ensures compatibility with existing tools
+- **Standard**: GTFS and GTFS-RT (global transit data standards) -- ensures compatibility with existing tools
 - **Stack**: Python data ingestion pipeline, PostgreSQL + PostGIS for spatial data, REST API, React Native mobile app
 - **Crowdsourcing fallback**: Driver-side lightweight app to report position where official feeds don't exist
 - **Open source**: All code on GitHub. MIT license. Invites global transit tech community to contribute.
@@ -84,9 +84,9 @@ Data partnerships + first API: 6 months. Public app launch: 9 months. Multi-city
 
 ### Go-to-Market
 
-- **Phase 1**: Launch with a vocal commuter community — Tehran has active urban planning and civic tech groups on Telegram and Twitter/X
-- **Phase 2**: Developer outreach — open API with good docs invites third-party apps (accessibility tools, delivery routing, research)
-- **Phase 3**: Municipal engagement — bring usage data and commuter feedback to city officials as evidence for formal adoption
+- **Phase 1**: Launch with a vocal commuter community -- Tehran has active urban planning and civic tech groups on Telegram and Twitter/X
+- **Phase 2**: Developer outreach -- open API with good docs invites third-party apps (accessibility tools, delivery routing, research)
+- **Phase 3**: Municipal engagement -- bring usage data and commuter feedback to city officials as evidence for formal adoption
 
 ---
 
@@ -98,7 +98,7 @@ Data partnerships + first API: 6 months. Public app launch: 9 months. Multi-city
 - **Iran-based liaison**: 1 person in Tehran to navigate municipal relationships, attend meetings, coordinate with transit authorities.
 - **UX designer**: 1 person (part-time) for Farsi-first interface design and usability testing with real commuters.
 - **Funding**: $50-80K for 12 months (salaries, cloud infrastructure, travel for municipal meetings, user research).
-- **Partnerships**: Data access agreements with Tehran Metro, BRT, and bus operators — critical path item. Municipal smart city office endorsement helps unlock these.
+- **Partnerships**: Data access agreements with Tehran Metro, BRT, and bus operators -- critical path item. Municipal smart city office endorsement helps unlock these.
 
 ---
 
@@ -113,7 +113,7 @@ Data partnerships + first API: 6 months. Public app launch: 9 months. Multi-city
 
 ## Notes
 
-- **Critical dependency**: Data access from transit authorities. If they won't share GPS feeds, crowdsourced approach is slower but viable — Moovit proved this model.
-- **Political sensitivity**: Municipal data projects can get caught in bureaucratic or security concerns. Frame as a public service and keep the project clearly apolitical.
+- **Critical dependency**: Data access from transit authorities. If they won't share GPS feeds, crowdsourced approach is slower but viable -- Moovit proved this model.
+- **Government as partner**: Open data and civic tech are now welcomed, not feared. Transit authorities have every incentive to be seen as modern and responsive -- use that. Come with a working demo, not just a proposal.
 - **Sustainability**: Open-source core stays free. Revenue options: premium API tiers for commercial users (delivery companies, logistics), white-label app for municipalities, or sponsorship from civic foundations.
-- **RTL and Farsi**: Non-negotiable from day one. Retrofitting RTL support is painful — build it in at the start.
+- **RTL and Farsi**: Non-negotiable from day one. Retrofitting RTL support is painful -- build it in at the start.
