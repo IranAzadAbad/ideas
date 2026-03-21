@@ -7,7 +7,7 @@ PhD in Accelerator Physics
 ---
 
 ## Abstract
-This project proposes an open-source platform for simulating and optimizing Free Electron Lasers (FELs) as a ntional lab platform for Iran. FELs are advanced light sources used in cutting-edge research in physics, chemistry, and biology, but their modeling requires specialized knowledge and tools.
+This project proposes an open-source platform for simulating and optimizing Free Electron Lasers (FELs) as a ntional lab platform for Iran. FELs are advanced light sources used in cutting-edge research in physics, chemistry, and biology, but their modeling requires specialized knowledge and tools. These national lab facilities are supported by universities and govermental funding: [https://accelerators.slac.stanford.edu/research/fel]
 
 The goal is to build a modular, Python-based toolkit that enables users to simulate FEL behavior, explore parameter spaces, and optimize beamline configurations. This project aims to make FEL research more accessible to students and researchers worldwide.
 The final project can be built with collaboration with researchers in the region from countries like Israel, Turkey, Armenia, UAE and other countries in the region.
