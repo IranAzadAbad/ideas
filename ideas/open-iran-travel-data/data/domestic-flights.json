@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "tehran",
+    "destination": "isfahan",
+    "airline": "Iran Air",
+    "flight_number": "IR281",
+    "duration_minutes": 55,
+    "price_min_usd": 38.0,
+    "price_max_usd": 85.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "isfahan",
+    "airline": "Mahan Air",
+    "flight_number": "W5512",
+    "duration_minutes": 55,
+    "price_min_usd": 32.0,
+    "price_max_usd": 78.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "shiraz",
+    "airline": "Iran Air",
+    "flight_number": "IR455",
+    "duration_minutes": 80,
+    "price_min_usd": 42.0,
+    "price_max_usd": 95.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "shiraz",
+    "airline": "Zagros Airlines",
+    "flight_number": "ZV440",
+    "duration_minutes": 80,
+    "price_min_usd": 35.0,
+    "price_max_usd": 82.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "mashhad",
+    "airline": "Iran Air",
+    "flight_number": "IR313",
+    "duration_minutes": 75,
+    "price_min_usd": 40.0,
+    "price_max_usd": 90.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "mashhad",
+    "airline": "Mahan Air",
+    "flight_number": "W5350",
+    "duration_minutes": 75,
+    "price_min_usd": 35.0,
+    "price_max_usd": 85.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "tabriz",
+    "airline": "Iran Air",
+    "flight_number": "IR381",
+    "duration_minutes": 70,
+    "price_min_usd": 38.0,
+    "price_max_usd": 88.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "kerman",
+    "airline": "Mahan Air",
+    "flight_number": "W5722",
+    "duration_minutes": 85,
+    "price_min_usd": 42.0,
+    "price_max_usd": 92.0,
+    "frequency": "5x weekly"
+  },
+  {
+    "origin": "tehran",
+    "destination": "bandar-abbas",
+    "airline": "Iran Air",
+    "flight_number": "IR563",
+    "duration_minutes": 100,
+    "price_min_usd": 48.0,
+    "price_max_usd": 105.0,
+    "frequency": "daily"
+  },
+  {
+    "origin": "tehran",
+    "destination": "ahvaz",
+    "airline": "Zagros Airlines",
+    "flight_number": "ZV610",
+    "duration_minutes": 80,
+    "price_min_usd": 38.0,
+    "price_max_usd": 85.0,
+    "frequency": "4x weekly"
+  },
+  {
+    "origin": "isfahan",
+    "destination": "shiraz",
+    "airline": "Qeshm Air",
+    "flight_number": "QB712",
+    "duration_minutes": 60,
+    "price_min_usd": 30.0,
+    "price_max_usd": 70.0,
+    "frequency": "3x weekly"
+  },
+  {
+    "origin": "mashhad",
+    "destination": "isfahan",
+    "airline": "Iran Air",
+    "flight_number": "IR217",
+    "duration_minutes": 90,
+    "price_min_usd": 45.0,
+    "price_max_usd": 98.0,
+    "frequency": "4x weekly"
+  }
+]

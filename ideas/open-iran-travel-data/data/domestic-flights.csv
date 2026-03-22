@@ -1,0 +1,13 @@
+origin,destination,airline,flight_number,duration_min,price_min_usd,price_max_usd,frequency
+tehran,isfahan,Iran Air,IR281,55,38.0,85.0,daily
+tehran,isfahan,Mahan Air,W5512,55,32.0,78.0,daily
+tehran,shiraz,Iran Air,IR455,80,42.0,95.0,daily
+tehran,shiraz,Zagros Airlines,ZV440,80,35.0,82.0,daily
+tehran,mashhad,Iran Air,IR313,75,40.0,90.0,daily
+tehran,mashhad,Mahan Air,W5350,75,35.0,85.0,daily
+tehran,tabriz,Iran Air,IR381,70,38.0,88.0,daily
+tehran,kerman,Mahan Air,W5722,85,42.0,92.0,5x weekly
+tehran,bandar-abbas,Iran Air,IR563,100,48.0,105.0,daily
+tehran,ahvaz,Zagros Airlines,ZV610,80,38.0,85.0,4x weekly
+isfahan,shiraz,Qeshm Air,QB712,60,30.0,70.0,3x weekly
+mashhad,isfahan,Iran Air,IR217,90,45.0,98.0,4x weekly

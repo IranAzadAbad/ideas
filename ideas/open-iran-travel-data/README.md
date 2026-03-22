@@ -20,6 +20,13 @@ We believe the **data layer** should be open and community-driven, even as the p
 | **UNESCO Sites** | 29 | JSON, CSV | All Iranian UNESCO World Heritage Sites with coordinates and descriptions |
 | **Airports** | 55 | JSON, CSV | Domestic and international airports with IATA codes |
 | **Iconic POIs** | 18 | JSON | Must-visit landmarks and attractions |
+| **Accommodations** | 34 | JSON, CSV | Hotels, guesthouses, eco-lodges, and hostels with prices, ratings, and descriptions |
+| **Tours** | 30 | JSON, CSV | Walking, food, cultural, desert, photography, and multi-day tours with detailed stop-by-stop itineraries |
+| **Domestic Flights** | 12 | JSON, CSV | Major domestic flight routes with airlines, prices, and frequencies |
+| **Itineraries** | 3 | JSON, CSV | Sample multi-day trip itineraries (Classic Iran, Desert & Stars, Weekend Isfahan) |
+| **City Editorial Guides** | 15 | JSON | In-depth city guides with travel tips, food specialties, day trips, photography tips, and cultural notes |
+| **Border Crossings** | 31 | JSON, CSV | All land border crossings with Turkey, Armenia, Azerbaijan, Turkmenistan, Afghanistan, Pakistan, and Iraq — includes visa info, vehicle formalities, tips for cyclists/motorcyclists |
+| **Damage Assessment** | — | JSON | Framework for tracking March 2026 bombing damage to infrastructure and heritage sites |
 
 All entries include:
 - English name + Farsi name (`name` / `name_fa`)
@@ -79,6 +86,13 @@ This data is released under **CC BY-SA 4.0** — use it freely, give attribution
 | **میراث یونسکو** | ۲۹ | JSON, CSV | تمام آثار ثبت‌شده یونسکو در ایران |
 | **فرودگاه‌ها** | ۵۵ | JSON, CSV | فرودگاه‌های داخلی و بین‌المللی |
 | **جاذبه‌های شاخص** | ۱۸ | JSON | دیدنی‌های برتر ایران |
+| **اقامتگاه‌ها** | ۳۴ | JSON, CSV | هتل‌ها، مهمان‌خانه‌ها، اقامتگاه‌های بوم‌گردی با قیمت و امتیاز |
+| **تورها** | ۳۰ | JSON, CSV | تورهای پیاده‌روی، غذا، فرهنگی، صحرایی و عکاسی با جزئیات ایستگاه‌ها |
+| **پروازهای داخلی** | ۱۲ | JSON, CSV | مسیرهای پروازی داخلی اصلی |
+| **برنامه‌های سفر** | ۳ | JSON, CSV | برنامه‌های سفر نمونه چندروزه |
+| **راهنمای شهرها** | ۱۵ | JSON | راهنمای جامع شهرها با نکات سفر، غذا، عکاسی و فرهنگ |
+| **گذرگاه‌های مرزی** | ۳۱ | JSON, CSV | تمام گذرگاه‌های زمینی با اطلاعات ویزا، تشریفات خودرو و نکات دوچرخه‌سواران |
+| **ارزیابی خسارات** | — | JSON | چارچوب ردیابی خسارات بمباران اسفند ۱۴۰۴ |
 
 ### چگونه مشارکت کنیم؟
 

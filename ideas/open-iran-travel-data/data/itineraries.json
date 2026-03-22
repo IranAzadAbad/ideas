@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Classic Iran: Tehran to Shiraz",
+    "title_fa": "ایران کلاسیک: تهران تا شیراز",
+    "slug": "classic-iran-tehran-shiraz",
+    "description": "The definitive Iran circuit for first-time visitors, covering the five cities that represent Persian civilization at its richest.",
+    "description_fa": " circuits سفر ایرانی کلاسیک برای بازدیدکنندگان اول بار.",
+    "duration_days": 10,
+    "trip_type": "cultural",
+    "budget_level": "mid_range",
+    "travelers_count": 2,
+    "estimated_budget_usd": 2500,
+    "days": [
+      {
+        "day": 1,
+        "title": "Tehran: Museums & Bazaars",
+        "title_fa": "تهران: موزه‌ها و بازارها",
+        "city": "tehran"
+      },
+      {
+        "day": 2,
+        "title": "Tehran to Kashan",
+        "title_fa": "تهران به کاشان",
+        "city": "kashan"
+      },
+      {
+        "day": 3,
+        "title": "Kashan to Isfahan",
+        "title_fa": "کاشان به اصفهان",
+        "city": "isfahan"
+      },
+      {
+        "day": 4,
+        "title": "Isfahan: Naqsh-e Jahan",
+        "title_fa": "اصفهان: میدان نقش جهان",
+        "city": "isfahan"
+      },
+      {
+        "day": 5,
+        "title": "Isfahan: Bridges & Architecture",
+        "title_fa": "اصفهان: پل‌ها و معماری",
+        "city": "isfahan"
+      },
+      {
+        "day": 6,
+        "title": "Isfahan to Yazd",
+        "title_fa": "اصفهان به یزد",
+        "city": "yazd"
+      },
+      {
+        "day": 7,
+        "title": "Yazd: Old Town & Fire Temple",
+        "title_fa": "یزد: شهر قدیم و آتشکده",
+        "city": "yazd"
+      },
+      {
+        "day": 8,
+        "title": "Yazd to Shiraz via Pasargadae",
+        "title_fa": "یزد به شیراز از طریق پاسارگاد",
+        "city": "shiraz"
+      },
+      {
+        "day": 9,
+        "title": "Shiraz: Gardens & Tombs",
+        "title_fa": "شیراز: باغ‌ها و آرامگاه‌ها",
+        "city": "shiraz"
+      },
+      {
+        "day": 10,
+        "title": "Shiraz: Departure",
+        "title_fa": "شیراز: خروج",
+        "city": "shiraz"
+      }
+    ]
+  },
+  {
+    "title": "Desert & Stars: Yazd to Kerman",
+    "title_fa": "صحرا و ستارگان: یزد تا کرمان",
+    "slug": "desert-and-stars-yazd-kerman",
+    "description": "Five days through the Lut Desert, ancient villages, and the bazaars of Kerman.",
+    "description_fa": "پنج روز در صحرای لوت.",
+    "duration_days": 5,
+    "trip_type": "adventure",
+    "budget_level": "mid_range",
+    "travelers_count": 2,
+    "estimated_budget_usd": 1200
+  },
+  {
+    "title": "Weekend in Isfahan",
+    "title_fa": "آخر هفته در اصفهان",
+    "slug": "weekend-isfahan",
+    "description": "Three perfect days in Isfahan — Naqsh-e Jahan Square, the bazaar, and bridges at sunset.",
+    "description_fa": "سه روز عالی در اصفهان.",
+    "duration_days": 3,
+    "trip_type": "cultural",
+    "budget_level": "luxury",
+    "travelers_count": 2,
+    "estimated_budget_usd": 1800
+  }
+]
