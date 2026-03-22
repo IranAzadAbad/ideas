@@ -1,0 +1,44 @@
+name,name_fa,slug,province,province_fa,tier,population,population_metro,elevation_m,lat,lng,airport_codes,climate_type
+Abadan,آبادان,abadan,Khuzestan,خوزستان,2,231476,,3,30.346944,48.2825,ABD,hot desert (BWh)
+Abyaneh,ابیانه,abyaneh,Isfahan,اصفهان,2,301,,2100,33.586667,51.59,,cold semi-arid (BSk)
+Ahvaz,اهواز,ahvaz,Khuzestan,,1,1325000,,16,31.3047,48.6783,,
+Arak,اراک,arak,Markazi,مرکزی,2,520944,,1718,34.091389,49.693333,,cold semi-arid (BSk)
+Ardabil,اردبیل,ardabil,Ardabil,اردبیل,2,529374,,1351,38.251667,48.2975,ADU,cold semi-arid (BSk)
+Bam,بم,bam,Kerman,کرمان,2,127396,,1061,29.099444,58.343611,,hot desert (BWh)
+Bandar Abbas,بندرعباس,bandar-abbas,Hormozgan,,1,526648,,9,27.1961,56.2878,,
+Birjand,بیرجند,birjand,South Khorasan,خراسان جنوبی,2,203636,,1491,32.878056,59.216111,XBJ,cold semi-arid (BSk)
+Bojnurd,بجنورد,bojnurd,North Khorasan,خراسان شمالی,2,228931,,1070,37.472222,57.328889,BJB,cold semi-arid (BSk)
+Bushehr,بوشهر,bushehr,Bushehr,بوشهر,2,223504,,18,28.926389,50.851389,BUZ,hot desert (BWh)
+Chabahar,چابهار,chabahar,Sistan and Baluchestan,سیستان و بلوچستان,2,106739,,6,25.292778,60.649722,ZBR,hot desert (BWh)
+Gorgan,گرگان,gorgan,Golestan,گلستان,2,350676,,155,36.836944,54.437222,GBT,humid subtropical (Cfa)
+Hamedan,همدان,hamedan,Hamadan,,1,554406,,1850,34.79833,48.51472,,BSk
+Ilam,ایلام,ilam,Ilam,ایلام,2,194030,,1427,33.635,46.407222,IIL,hot-summer Mediterranean (Csa)
+Isfahan,اصفهان,isfahan,Isfahan,اصفهان,1,2238000,3793000,1575,32.6546,51.668,IFN,hot semi-arid (BSk)
+Kandovan,کندوان,kandovan,East Azerbaijan,آذربایجان شرقی,2,450,,2200,37.795278,46.248056,,cold semi-arid (BSk)
+Kashan,کاشان,kashan,Isfahan,,1,304487,,945,33.9825,51.4325,,BSk
+Kerman,کرمان,kerman,Kerman,,1,537718,,1749,30.2625,57.0575,,BSk
+Kermanshah,کرمانشاه,kermanshah,Kermanshah,,1,946651,,1350,34.33694,47.09111,,Csa
+Khorramabad,خرم‌آباد,khorramabad,Lorestan,لرستان,2,373416,,1147,33.4875,48.356111,KHD,hot-summer Mediterranean (Csa)
+Kish,کیش,kish,Hormozgan,,1,55205,,32,26.5333,53.9667,,
+Marvdasht,مرودشت,marvdasht,Fars,فارس,2,148858,,1620,29.878611,52.806667,,cold semi-arid (BSk)
+Mashhad,مشهد,mashhad,Razavi Khorasan,,1,3400000,,999,36.32639,59.54333,,BSk
+Masuleh,ماسوله,masuleh,Gilan,گیلان,2,393,,1050,37.155,48.989444,,humid subtropical (Cfa)
+Meybod,میبد,meybod,Yazd,یزد,2,80712,,1234,32.245556,54.015278,,hot desert (BWh)
+Palangan,پالنگان,palangan,Kurdistan,کردستان,2,821,,1350,35.068333,46.603333,,cold semi-arid (BSk)
+Qeshm,قشم,qeshm,Hormozgan,,1,148993,,0,26.6953,55.6183,,
+Qom,قم,qom,Qom,قم,2,1201158,,936,34.64,50.876389,,hot semi-arid (BSh)
+Rasht,رشت,rasht,Gilan,,1,679995,,0,37.2744,49.5889,,
+Sanandaj,سنندج,sanandaj,Kurdistan,کردستان,2,412767,,1538,35.311389,46.996111,SDG,cold semi-arid (BSk)
+Sar Agha Seyyed,سر آقا سید,sar-agha-seyyed,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,2,150,,2600,32.437,50.15,,cold semi-arid (BSk)
+Sari,ساری,sari,Mazandaran,مازندران,2,347402,,25,36.560556,53.058333,SRY,humid subtropical (Cfa)
+Semnan,سمنان,semnan,Semnan,سمنان,2,185129,,1130,35.581111,53.383333,,cold semi-arid (BSk)
+Shahr-e Kord,شهرکرد,shahr-e-kord,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,2,190441,,2070,32.332222,50.856389,,cold semi-arid (BSk)
+Shiraz,شیراز,shiraz,Fars,فارس,1,1869000,1995500,1545,29.5918,52.5837,SYZ,semi-arid (BSh/BSk)
+Shush,شوش,shush,Khuzestan,خوزستان,2,79048,,80,32.194722,48.2475,,hot desert (BWh)
+Tabriz,تبریز,tabriz,East Azerbaijan,آذربایجان شرقی,1,1700000,2025000,1351,38.0962,46.2738,TBZ,cold semi-arid (BSk)
+Tehran,تهران,tehran,Tehran,تهران,1,9500000,16800000,1189,35.6892,51.389,IKA|THR,cold semi-arid (BSk)
+Urmia,ارومیه,urmia,West Azerbaijan,آذربایجان غربی,2,736224,,1332,37.543889,45.064722,OMH,cold semi-arid (BSk)
+Yasuj,یاسوج,yasuj,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,2,134532,,1816,30.667222,51.579722,YES,cold semi-arid (BSk)
+Yazd,یزد,yazd,Yazd,یزد,1,529673,656474,1216,31.8974,54.3569,AZD,hot desert (BWk)
+Zahedan,زاهدان,zahedan,Sistan and Baluchestan,سیستان و بلوچستان,2,587730,,1352,29.5025,60.855833,ZAH,hot desert (BWh)
+Zanjan,زنجان,zanjan,Zanjan,زنجان,2,698255,,1638,36.680556,48.498889,JWN,cold semi-arid (BSk)

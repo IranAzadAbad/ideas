@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Classic Persia",
+    "slug": "classic-persia-10-days",
+    "description": "The quintessential Iran itinerary covering the ancient capitals. From Tehran's bustling bazaars to Isfahan's turquoise domes, Yazd's windcatchers, and Shiraz's poetry gardens.",
+    "duration_days": 10,
+    "trip_type": "cultural",
+    "budget_level": "mid_range",
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Golden Triangle",
+    "slug": "golden-triangle-7-days",
+    "description": "Iran's three jewels in one week. Hit the highlights of Tehran, Isfahan, and Shiraz without the rush.",
+    "duration_days": 7,
+    "trip_type": "cultural",
+    "budget_level": "mid_range",
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Weekend in Isfahan",
+    "slug": "weekend-isfahan-3-days",
+    "description": "A focused deep-dive into Half of the World. Three days exploring Isfahan's legendary squares, bridges, and bazaars.",
+    "duration_days": 3,
+    "trip_type": "cultural",
+    "budget_level": "mid_range",
+    "travel_style": "guided",
+    "best_seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Desert & Stars",
+    "slug": "desert-and-stars-5-days",
+    "description": "Sleep under desert skies, explore mud-brick villages, and discover the ancient Silk Road oases of Yazd and Kerman.",
+    "duration_days": 5,
+    "trip_type": "adventure",
+    "budget_level": "budget",
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Northern Green",
+    "slug": "northern-green-7-days",
+    "description": "Escape to Iran's lush Caspian coast. Rice paddies, misty forests, seafood feasts, and traditional villages.",
+    "duration_days": 7,
+    "trip_type": "adventure",
+    "budget_level": "mid_range",
+    "travel_style": "self_driven",
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Kurdish Highlands",
+    "slug": "kurdish-highlands-5-days",
+    "description": "Explore western Iran's dramatic mountains, ancient rock carvings, and warm Kurdish hospitality.",
+    "duration_days": 5,
+    "trip_type": "adventure",
+    "budget_level": "budget",
+    "travel_style": "self_driven",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Silk Road Explorer",
+    "slug": "silk-road-explorer-12-days",
+    "description": "Follow the ancient trade routes from Tehran through Tabriz, Isfahan, Yazd, and Kerman. The ultimate cultural immersion.",
+    "duration_days": 12,
+    "trip_type": "cultural",
+    "budget_level": "mid_range",
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Pilgrimage Trail",
+    "slug": "pilgrimage-trail-7-days",
+    "description": "Visit Iran's holiest sites from Qom to Mashhad. Stunning shrine architecture, spiritual experiences, and local traditions.",
+    "duration_days": 7,
+    "trip_type": "pilgrimage",
+    "budget_level": "budget",
+    "travel_style": "guided",
+    "best_seasons": [
+      "spring",
+      "winter"
+    ],
+    "travelers_count": 2
+  }
+]

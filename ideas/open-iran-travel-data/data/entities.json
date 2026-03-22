@@ -1,0 +1,292 @@
+{
+  "dish": [
+    {
+      "entity_type": "dish",
+      "slug": "ghormeh-sabzi",
+      "name": "Ghormeh Sabzi",
+      "name_fa": "قورمه سبزی",
+      "summary": "Iran's beloved herb stew is considered the national dish, simmered for hours with fenugreek, parsley, cilantro, and tender lamb. Served over fluffy basmati rice, it's the taste of home for every Iranian family."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "tahdig",
+      "name": "Tahdig",
+      "name_fa": "ته دیگ",
+      "summary": "The golden, crispy layer of rice from the bottom of the pot is Iran's most celebrated side dish and a point of culinary pride. Breaking the tahdig at the table is a moment of suspense and triumph in every Persian household."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "chelo-kabab-koobideh",
+      "name": "Chelo Kabab Koobideh",
+      "name_fa": "چلو کباب کوبیده",
+      "summary": "The quintessential Iranian restaurant meal: juicy, saffron-kissed skewers of ground lamb grilled over charcoal, served with buttery saffron rice and a grilled tomato. Koobideh is the benchmark by which every kabab shop in Iran is judged."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "ash-reshteh",
+      "name": "Ash Reshteh",
+      "name_fa": "آش رشته",
+      "summary": "This thick, hearty noodle-and-herb soup is Iran's ultimate comfort food, traditionally served during Nowruz and on cold winter evenings. Topped with kashk, fried mint, and crispy onions, each bowl is a symphony of textures and tangy flavors."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "tahchin",
+      "name": "Tahchin",
+      "name_fa": "ته چین",
+      "summary": "A stunning saffron rice cake with layers of tender chicken or lamb baked until the exterior is golden and crunchy. Tahchin is the showpiece of Persian celebration tables, sliced like a torte to reveal its jeweled layers."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "sangak-bread",
+      "name": "Sangak Bread",
+      "name_fa": "نان سنگک",
+      "summary": "Baked on a bed of hot river pebbles in a traditional oven, sangak is Iran's most ancient and revered bread. Its pebbly texture, slight char, and wholesome wheat flavor make it the perfect companion for every Persian meal."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "faloodeh",
+      "name": "Faloodeh",
+      "name_fa": "فالوده",
+      "summary": "One of the world's oldest frozen desserts, faloodeh features thin rice vermicelli frozen in a rose-water and lime syrup. This refreshing Shirazi specialty is the perfect antidote to Iran's summer heat."
+    },
+    {
+      "entity_type": "dish",
+      "slug": "zereshk-polo",
+      "name": "Zereshk Polo",
+      "name_fa": "زرشک پلو",
+      "summary": "Jeweled saffron rice studded with ruby-red barberries and served with tender chicken — zereshk polo ba morgh is the dish that graces every Iranian wedding and celebration table. Its sweet-tart flavor profile is uniquely Persian."
+    }
+  ],
+  "dynasty": [
+    {
+      "entity_type": "dynasty",
+      "slug": "achaemenid",
+      "name": "Achaemenid Empire",
+      "name_fa": "هخامنشیان",
+      "summary": "The first Persian Empire and one of history's greatest, the Achaemenids united lands from Egypt to India under a remarkably tolerant rule. Their legacy at Persepolis remains Iran's most magnificent archaeological site and a UNESCO World Heritage treasure."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "parthian",
+      "name": "Parthian Empire",
+      "name_fa": "اشکانیان",
+      "summary": "Rome's greatest eastern rival, the Parthian Empire ruled Iran for nearly 500 years and was famed for its mounted archers and decentralized feudal system. Their legacy lives on in caravanserais and trade routes across the Iranian plateau."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "sassanid",
+      "name": "Sassanid Empire",
+      "name_fa": "ساسانیان",
+      "summary": "The last great pre-Islamic Persian empire, the Sassanids presided over a golden age of art, architecture, and Zoroastrian culture. Their rock reliefs, fire temples, and the magnificent Taq-e Bostan carvings remain among Iran's most powerful monuments."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "safavid",
+      "name": "Safavid Dynasty",
+      "name_fa": "صفویان",
+      "summary": "The dynasty that unified Iran and established Shia Islam as the state religion, the Safavids transformed Isfahan into one of the world's most beautiful cities. Their architectural masterpieces — Naqsh-e Jahan Square, the Shah Mosque, and the Ali Qapu Palace — define Iran's cultural identity."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "qajar",
+      "name": "Qajar Dynasty",
+      "name_fa": "قاجاریه",
+      "summary": "The Qajar era saw Iran navigate the treacherous waters of European colonialism while developing a distinctive artistic style blending Persian and Western influences. Their palaces, portrait photography, and early constitutional movement shaped Iran's path to modernity."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "zand",
+      "name": "Zand Dynasty",
+      "name_fa": "زندیه",
+      "summary": "The brief but culturally brilliant Zand era transformed Shiraz into a city of gardens, poetry, and refined architecture. Under the benevolent Karim Khan, Iran enjoyed a rare period of peace, prosperity, and artistic flowering."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "afsharid",
+      "name": "Afsharid Dynasty",
+      "name_fa": "افشاریان",
+      "summary": "Founded by the military genius Nader Shah — called the Napoleon of Persia — the Afsharid dynasty briefly restored Iran's imperial reach from Delhi to Baghdad. Nader Shah's capture of the Peacock Throne remains one of history's most audacious military campaigns."
+    },
+    {
+      "entity_type": "dynasty",
+      "slug": "pahlavi",
+      "name": "Pahlavi Dynasty",
+      "name_fa": "پهلوی",
+      "summary": "Iran's last monarchy oversaw a dramatic modernization that transformed a traditional society into a 20th-century nation-state. From Reza Shah's railroads and universities to the White Revolution and the 1979 upheaval, the Pahlavi era reshaped every aspect of Iranian life."
+    }
+  ],
+  "historical_figure": [
+    {
+      "entity_type": "historical_figure",
+      "slug": "cyrus-the-great",
+      "name": "Cyrus the Great",
+      "name_fa": "کوروش بزرگ",
+      "summary": "Founder of the Achaemenid Empire and author of the world's first declaration of human rights, Cyrus the Great is the most revered figure in Iranian history. His tomb at Pasargadae remains a place of pilgrimage and national pride."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "ferdowsi",
+      "name": "Ferdowsi",
+      "name_fa": "فردوسی",
+      "summary": "The poet who saved the Persian language. Ferdowsi spent 30 years composing the Shahnameh (Book of Kings), the world's longest poem by a single author, preserving Iran's pre-Islamic myths and history for all time. His tomb in Tus is a shrine to Persian identity."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "hafez",
+      "name": "Hafez",
+      "name_fa": "حافظ",
+      "summary": "Iran's most beloved poet, whose ghazals on love, wine, and mysticism are memorized by every Persian speaker. Iranians consult his Divan for fortune-telling (fal-e Hafez), and his tomb in Shiraz is the country's most visited literary shrine."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "rumi",
+      "name": "Rumi",
+      "name_fa": "مولانا جلال‌الدین محمد بلخی",
+      "summary": "The 13th-century mystic poet whose works of spiritual ecstasy transcend all boundaries of culture and religion. Rumi is the best-selling poet in the Western world and the inspiration behind the Whirling Dervishes and the Mevlevi Sufi order."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "avicenna",
+      "name": "Avicenna (Ibn Sina)",
+      "name_fa": "ابوعلی سینا",
+      "summary": "The father of early modern medicine, whose Canon of Medicine was the standard medical textbook in Europe for 600 years. Avicenna was also a groundbreaking philosopher whose reconciliation of Aristotle with Islamic thought shaped centuries of Western and Eastern philosophy."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "khayyam",
+      "name": "Omar Khayyam",
+      "name_fa": "عمر خیام",
+      "summary": "Mathematician, astronomer, and poet, Omar Khayyam created a calendar more accurate than the Gregorian and composed the Rubaiyat — quatrains on mortality, pleasure, and cosmic mystery that captivated the Victorian world and remain universally beloved."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "nader-shah",
+      "name": "Nader Shah",
+      "name_fa": "نادرشاه",
+      "summary": "The self-made military genius who rose from tribal obscurity to conquer an empire from Delhi to Baghdad, Nader Shah is one of history's most audacious commanders. His capture of the Mughal Peacock Throne and the Koh-i-Noor diamond is the stuff of legend."
+    },
+    {
+      "entity_type": "historical_figure",
+      "slug": "shah-abbas-i",
+      "name": "Shah Abbas I",
+      "name_fa": "شاه عباس بزرگ",
+      "summary": "The greatest Safavid ruler who transformed Isfahan into \"half the world\" and forged Iran into a major global power. Shah Abbas I's military reforms, diplomatic innovations, and monumental building program created the Isfahan that captivates travelers today."
+    }
+  ],
+  "nature": [
+    {
+      "entity_type": "nature",
+      "slug": "mount-damavand",
+      "name": "Mount Damavand",
+      "name_fa": "دماوند",
+      "summary": "The highest volcano in Asia and the tallest peak in the Middle East, Mount Damavand is Iran's most iconic natural landmark. This snow-capped giant rising to 5,610 meters dominates the Tehran skyline and holds a mythic place in Persian culture as the prison of the dragon Zahhak."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "dasht-e-lut",
+      "name": "Dasht-e Lut",
+      "name_fa": "دشت لوت",
+      "summary": "The hottest place on Earth, Iran's Lut Desert holds the world record for the highest land surface temperature ever recorded (70.7°C). This UNESCO-listed alien landscape of towering sand castles, yardangs, and star dunes is one of the planet's most extreme and beautiful wildernesses."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "caspian-hyrcanian-forests",
+      "name": "Caspian Hyrcanian Forests",
+      "name_fa": "جنگل‌های هیرکانی",
+      "summary": "A UNESCO World Heritage relict forest stretching along the Caspian coast, the Hyrcanian forests have survived since the Tertiary era (25-50 million years ago). This green, misty world of ancient trees, ferns, and biodiversity feels like stepping into a temperate jungle."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "urmia-lake",
+      "name": "Lake Urmia",
+      "name_fa": "دریاچه ارومیه",
+      "summary": "Once the largest lake in the Middle East and one of the world's largest saltwater lakes, Urmia is both a natural wonder and an environmental cautionary tale. Its dramatic red-and-blue seasonal color changes and surrounding mountains create a hauntingly beautiful landscape."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "badab-e-surt",
+      "name": "Badab-e Surt",
+      "name_fa": "باداب سورت",
+      "summary": "Iran's stunning travertine terraces, formed over thousands of years by mineral-rich hot springs, create a surreal stepped landscape of orange, red, and yellow pools. Often compared to Pamukkale in Turkey, Badab-e Surt is one of the rarest geological formations on Earth."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "qeshm-island",
+      "name": "Qeshm Island",
+      "name_fa": "جزیره قشم",
+      "summary": "The largest island in the Persian Gulf is a geological wonderland of mangrove forests, salt caves, and dramatic canyons. Qeshm's UNESCO-listed geopark, Hara mangrove forests, and traditional Bandari culture make it one of Iran's most unexpected and rewarding destinations."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "alisadr-cave",
+      "name": "Ali Sadr Cave",
+      "name_fa": "غار علیصدر",
+      "summary": "The world's largest water cave, Ali Sadr offers an underground boat journey through crystalline subterranean lakes and towering stalactite galleries. Located near Hamadan, this Jurassic-era cave system is one of Iran's most visited natural wonders."
+    },
+    {
+      "entity_type": "nature",
+      "slug": "maranjab-desert",
+      "name": "Maranjab Desert",
+      "name_fa": "کویر مرنجاب",
+      "summary": "A vast salt lake and dune field just south of Kashan, Maranjab is Iran's most accessible desert experience. Its Safavid-era caravanserai, star-filled night skies, and golden sand dunes make it a must for anyone seeking the romance of the Persian desert."
+    }
+  ],
+  "handicraft": [
+    {
+      "entity_type": "handicraft",
+      "slug": "persian-carpet",
+      "name": "Persian Carpet",
+      "name_fa": "فرش ایرانی",
+      "summary": "The world's most renowned textile art form, Persian carpets have been woven in Iran for over 2,500 years. Each region produces distinctive patterns and techniques, from the floral medallions of Isfahan to the geometric tribals of Shiraz — every carpet tells a story."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "minakari",
+      "name": "Minakari (Enamelwork)",
+      "name_fa": "میناکاری",
+      "summary": "The delicate art of painting and firing vivid enamel designs onto copper and silver, Isfahan's minakari tradition produces some of Iran's most beautiful decorative objects. The intricate floral patterns in turquoise, cobalt, and white are instantly recognizable."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "khatam-kari",
+      "name": "Khatam-kari (Marquetry)",
+      "name_fa": "خاتم‌کاری",
+      "summary": "The mesmerizing art of inlaying thousands of tiny triangles of wood, bone, and metal into geometric star patterns, khatam-kari produces some of Iran's most mathematically elegant decorative objects. Each piece may contain hundreds of thousands of individual inlay elements."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "ghalamzani",
+      "name": "Ghalamzani (Metal Engraving)",
+      "name_fa": "قلم‌زنی",
+      "summary": "The ancient art of hand-engraving intricate designs onto copper, brass, and silver using small chisels and hammers. The rhythmic tapping of ghalamzani artisans echoes through Isfahan's bazaar, creating plates, vases, and trays adorned with scenes from Persian poetry and mythology."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "persian-miniature",
+      "name": "Persian Miniature Painting",
+      "name_fa": "نگارگری ایرانی",
+      "summary": "One of the world's great painting traditions, Persian miniature art depicts scenes from poetry, mythology, and court life with jewel-like colors and impossible detail. This UNESCO-recognized art form has flourished for over 800 years and continues in workshops across Iran."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "termeh",
+      "name": "Termeh (Handwoven Cashmere)",
+      "name_fa": "ترمه",
+      "summary": "A luxurious handwoven fabric of silk and wool featuring intricate paisley (boteh) patterns, termeh has been the textile of Iranian royalty for centuries. Yazd's master termeh weavers produce some of the most complex handwoven textiles in the world."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "meenakari-tilework",
+      "name": "Persian Tilework (Kashi-kari)",
+      "name_fa": "کاشی‌کاری",
+      "summary": "The art that made Isfahan's mosques glow with celestial blue, Persian tilework is one of the world's great architectural decorative traditions. From seven-color haft-rang tiles to intricate mosaic (moarraq) work, kashi-kari transforms buildings into canvases of infinite pattern."
+    },
+    {
+      "entity_type": "handicraft",
+      "slug": "filigree-jewelry",
+      "name": "Filigree Jewelry (Malileh-kari)",
+      "name_fa": "ملیله‌کاری",
+      "summary": "The delicate art of twisting and soldering fine silver or gold wire into lace-like jewelry and decorative objects. Zanjan's master filigree artisans create pieces of astonishing intricacy that seem impossibly light and ethereal for metalwork."
+    }
+  ]
+}

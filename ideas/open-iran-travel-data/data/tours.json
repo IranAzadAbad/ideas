@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "Isfahan Bazaar & Imam Square Walking Tour",
+    "name_fa": "تور پیاده‌روی بازار و میدان امام اصفهان",
+    "slug": "isfahan-bazaar-imam-square-walking-tour",
+    "city": "isfahan",
+    "type": "walking",
+    "duration_hours": 3.5,
+    "price_usd": 28.0,
+    "max_group_size": 12,
+    "lat": 32.6576,
+    "lng": 51.6777,
+    "rating": 4.8,
+    "review_count": 72,
+    "stops": [
+      {
+        "time": "09:00",
+        "place": "Imam Square north gate",
+        "description": "Meet your guide at the north entrance. Overview of the square layout and history."
+      },
+      {
+        "time": "09:20",
+        "place": "Shah Mosque (Masjed-e Shah)",
+        "description": "Admire the turquoise tilework of this Safavid masterpiece from the exterior courtyard."
+      },
+      {
+        "time": "09:50",
+        "place": "Ali Qapu Palace terrace",
+        "description": "Ascend to the music room and enjoy panoramic views across the square."
+      },
+      {
+        "time": "10:30",
+        "place": "Qeysarieh Gate & Grand Bazaar",
+        "description": "Enter the main bazaar gate and explore carpet, spice, and silversmith sections."
+      },
+      {
+        "time": "11:40",
+        "place": "Sheikh Lotfollah Mosque",
+        "description": "Step inside for the famous dome optical illusion—no minaret, private royal access."
+      },
+      {
+        "time": "12:15",
+        "place": "Bastani Traditional Teahouse",
+        "description": "Rest with Persian tea and gaz (nougat) overlooking the square."
+      }
+    ]
+  },
+  {
+    "name": "Shiraz Old City & Poets' Quarter Walking Tour",
+    "name_fa": "تور پیاده‌روی شهر قدیم و محله شعرا شیراز",
+    "slug": "shiraz-old-city-poets-quarter-walking-tour",
+    "city": "shiraz",
+    "type": "walking",
+    "duration_hours": 3.0,
+    "price_usd": 24.0,
+    "max_group_size": 10,
+    "lat": 29.6117,
+    "lng": 52.5422,
+    "rating": 4.7,
+    "review_count": 55,
+    "stops": [
+      {
+        "time": "08:30",
+        "place": "Vakil Bath (Hammam-e Vakil)",
+        "description": "Begin at the restored Zand-era bathhouse, now a museum of mannequins depicting traditional life."
+      },
+      {
+        "time": "09:00",
+        "place": "Vakil Bazaar",
+        "description": "Walk through 275-year-old vaulted brick corridors lined with spice, carpet, and jewelry merchants."
+      },
+      {
+        "time": "09:50",
+        "place": "Vakil Mosque",
+        "description": "Enter the mosque famous for its twisted stone columns and intricate tile mihrabs."
+      },
+      {
+        "time": "10:30",
+        "place": "Arg of Karim Khan",
+        "description": "Stroll past the citadel exterior and explore the Zand district square."
+      },
+      {
+        "time": "11:00",
+        "place": "Tomb of Hafez (Hafezieh)",
+        "description": "Visit the alabaster tomb of Persia's greatest lyric poet in the rose garden."
+      },
+      {
+        "time": "12:00",
+        "place": "Tomb of Saadi",
+        "description": "End at the poet Saadi's tranquil mausoleum surrounded by cypresses and a reflecting pool."
+      }
+    ]
+  },
+  {
+    "name": "Yazd Wind-Towers & Old Fabric Walking Tour",
+    "name_fa": "تور پیاده‌روی بادگیرها و بافت قدیم یزد",
+    "slug": "yazd-wind-towers-old-fabric-walking-tour",
+    "city": "yazd",
+    "type": "walking",
+    "duration_hours": 4.0,
+    "price_usd": 30.0,
+    "max_group_size": 10,
+    "lat": 31.8974,
+    "lng": 54.3678,
+    "rating": 4.9,
+    "review_count": 63,
+    "stops": [
+      {
+        "time": "08:00",
+        "place": "Amir Chakhmaq Square",
+        "description": "Start at the iconic triple-storey facade; enjoy the square before the crowds arrive."
+      },
+      {
+        "time": "08:30",
+        "place": "Yazd Water Museum (Ab Anbar)",
+        "description": "Descend into a Qanat-fed cistern to understand Yazd's ancient water engineering."
+      },
+      {
+        "time": "09:15",
+        "place": "Jame Mosque of Yazd",
+        "description": "Walk to the tallest minarets in Iran and study the intricate tiling of the Timurid portal."
+      },
+      {
+        "time": "10:00",
+        "place": "Dolat Abad Garden",
+        "description": "See the 33-metre wind-tower — the world's tallest — cooling the garden's central pool."
+      },
+      {
+        "time": "11:00",
+        "place": "Atash Behram Fire Temple",
+        "description": "Visit the Zoroastrian sacred fire burning continuously since 470 CE."
+      },
+      {
+        "time": "12:00",
+        "place": "Rooftop tea stop",
+        "description": "Refresh with dates and herb tea on a traditional rooftop cafe with panoramic views."
+      }
+    ]
+  },
+  {
+    "name": "Kashan Historic Houses & Rose-Water District Walking Tour",
+    "name_fa": "تور پیاده‌روی خانه‌های تاریخی و منطقه گلاب کاشان",
+    "slug": "kashan-historic-houses-rosewater-walking-tour",
+    "city": "kashan",
+    "type": "walking",
+    "duration_hours": 3.5,
+    "price_usd": 26.0,
+    "max_group_size": 10,
+    "lat": 33.9849,
+    "lng": 51.4105,
+    "rating": 4.6,
+    "review_count": 41,
+    "stops": [
+      {
+        "time": "09:00",
+        "place": "Fin Garden (Bagh-e Fin)",
+        "description": "Walk through Iran's oldest surviving formal garden; hear the story of Amir Kabir's assassination."
+      },
+      {
+        "time": "10:00",
+        "place": "Tabatabaei House",
+        "description": "Explore four courtyards of the grandest merchant mansion in Kashan."
+      },
+      {
+        "time": "10:45",
+        "place": "Borujerdi House",
+        "description": "Admire the 18-metre wind-catcher and the intricate stucco portrait frieze."
+      },
+      {
+        "time": "11:30",
+        "place": "Sultan Amir Ahmad Bathhouse",
+        "description": "View the domed hammam with its star-shaped skylights, beautifully restored."
+      },
+      {
+        "time": "12:00",
+        "place": "Kashan Grand Bazaar",
+        "description": "Walk the carpet and copper sections; pick up saffron or rosewater as a souvenir."
+      }
+    ]
+  },
+  {
+    "name": "Tehran Darband & Northern Hills Walking Tour",
+    "name_fa": "تور پیاده‌روی دربند و ارتفاعات شمالی تهران",
+    "slug": "tehran-darband-hills-walking-tour",
+    "city": "tehran",
+    "type": "walking",
+    "duration_hours": 4.5,
+    "price_usd": 22.0,
+    "max_group_size": 14,
+    "lat": 35.8122,
+    "lng": 51.4318,
+    "rating": 4.5,
+    "review_count": 38,
+    "stops": [
+      {
+        "time": "07:30",
+        "place": "Darband Metro Square",
+        "description": "Meet at the square and walk the initial paved street up to the gorge entrance."
+      },
+      {
+        "time": "08:00",
+        "place": "Lower Darband teahouses",
+        "description": "Pass the first cluster of stream-side cafes; optional light breakfast."
+      },
+      {
+        "time": "09:00",
+        "place": "Mid-gorge viewpoint",
+        "description": "Rest at the flat stone ledge with views south across the sprawling city."
+      },
+      {
+        "time": "10:00",
+        "place": "Upper Darband & Shirpala",
+        "description": "Optional 30-minute extension to the rock climbing crags for great mountain views."
+      },
+      {
+        "time": "11:00",
+        "place": "Descent and Tochal observation point",
+        "description": "Return trail with views of Tochal peak (3,964 m) to the west."
+      },
+      {
+        "time": "12:00",
+        "place": "Tajrish Bazaar",
+        "description": "Browse fresh herbs, pickles, and sweets; visit the Imamzadeh Saleh shrine."
+      }
+    ]
+  },
+  {
+    "name": "Tehran Street Food & Southern Bazaar Food Tour",
+    "name_fa": "تور غذای خیابانی و بازار جنوب تهران",
+    "slug": "tehran-street-food-southern-bazaar-tour",
+    "city": "tehran",
+    "type": "food",
+    "duration_hours": 4.0,
+    "price_usd": 45.0,
+    "max_group_size": 10,
+    "lat": 35.6716,
+    "lng": 51.4225,
+    "rating": 4.7,
+    "review_count": 49,
+    "stops": [
+      {
+        "time": "11:00",
+        "place": "Molavi Street entrance",
+        "description": "Meet at the bazaar entrance; guide explains the food geography of south Tehran."
+      },
+      {
+        "time": "11:20",
+        "place": "Abgoosht (Dizi) House",
+        "description": "Taste Iran's oldest dish: lamb, chickpea and potato stew mashed tableside."
+      },
+      {
+        "time": "12:10",
+        "place": "Ghormeh-sabzi counter (est. 1934)",
+        "description": "Sample herb-and-kidney-bean stew from a kitchen that hasn't changed its recipe in 90 years."
+      },
+      {
+        "time": "13:00",
+        "place": "Spice alley of the Grand Bazaar",
+        "description": "Smell and taste saffron, dried limes, barberries, and sumac with the merchant's commentary."
+      },
+      {
+        "time": "13:30",
+        "place": "Bakery & pastry shop",
+        "description": "Hot sangak flatbread from a stone-bed oven, sohan sesame brittle, and baklava."
+      },
+      {
+        "time": "14:30",
+        "place": "Rooftop cooking session",
+        "description": "Guide prepares ash-e reshteh while you look out over the Grand Bazaar domes."
+      }
+    ]
+  },
+  {
+    "name": "Isfahan Traditional Cuisine & Madar-e Shah Caravanserai Food Tour",
+    "name_fa": "تور غذای سنتی اصفهان و کاروانسرای مادر شاه",
+    "slug": "isfahan-traditional-cuisine-food-tour",
+    "city": "isfahan",
+    "type": "food",
+    "duration_hours": 4.0,
+    "price_usd": 42.0,
+    "max_group_size": 10,
+    "lat": 32.6603,
+    "lng": 51.6755,
+    "rating": 4.6,
+    "review_count": 37,
+    "stops": [
+      {
+        "time": "11:00",
+        "place": "Imam Square tea stall",
+        "description": "Start with cardamom-spiced chai and qottab almond pastries."
+      },
+      {
+        "time": "11:30",
+        "place": "Historic beryani shop",
+        "description": "Taste Isfahan's signature lamb-offal flatbread wrap, a 300-year-old recipe."
+      },
+      {
+        "time": "12:15",
+        "place": "Neighborhood lunch kitchen",
+        "description": "Sit-down fesenjan and joojeh kabab with saffron rice."
+      },
+      {
+        "time": "13:30",
+        "place": "Madar-e Shah Caravanserai kitchen",
+        "description": "Watch a tahdig demonstration: how to achieve the perfect golden rice crust."
+      },
+      {
+        "time": "14:30",
+        "place": "Faloodeh & bastani stall",
+        "description": "Finish with rosewater sorbet noodles and saffron ice cream."
+      }
+    ]
+  },
+  {
+    "name": "Tabriz Grand Bazaar & Azerbaijani Table Food Tour",
+    "name_fa": "تور غذایی بازار بزرگ تبریز و سفره آذربایجانی",
+    "slug": "tabriz-grand-bazaar-azerbaijani-food-tour",
+    "city": "tabriz",
+    "type": "food",
+    "duration_hours": 4.5,
+    "price_usd": 40.0,
+    "max_group_size": 12,
+    "lat": 38.0806,
+    "lng": 46.2876,
+    "rating": 4.8,
+    "review_count": 44,
+    "stops": [
+      {
+        "time": "10:00",
+        "place": "Tabriz Grand Bazaar south gate",
+        "description": "Enter the bazaar and orient with a short history of its 1,000-year trading role."
+      },
+      {
+        "time": "10:30",
+        "place": "Nut & dried fruit section",
+        "description": "Taste pistachios, mulberries, barberries and learn how to shop like a local."
+      },
+      {
+        "time": "11:15",
+        "place": "Spice merchants",
+        "description": "Meet a spice blender who creates custom mixes for the regional stew repertoire."
+      },
+      {
+        "time": "12:00",
+        "place": "Traditional restaurant — Azerbaijani lunch",
+        "description": "Sit down to kufteh Tabrizi, ash-e doogh (yogurt soup), and tahdig."
+      },
+      {
+        "time": "13:30",
+        "place": "Halva and pastry makers",
+        "description": "Watch saffron halva being poured and taste warm from the tray."
+      },
+      {
+        "time": "14:00",
+        "place": "Grandmother''s pasta session",
+        "description": "Roll Tabriz-style reshteh pasta by hand and take home your efforts."
+      }
+    ]
+  },
+  {
+    "name": "Rasht Caspian Kitchen & Gilaki Market Food Tour",
+    "name_fa": "تور غذایی آشپزخانه کاسپین و بازار گیلکی رشت",
+    "slug": "rasht-caspian-kitchen-gilaki-market-food-tour",
+    "city": "rasht",
+    "type": "food",
+    "duration_hours": 5.0,
+    "price_usd": 50.0,
+    "max_group_size": 8,
+    "lat": 37.2809,
+    "lng": 49.5832,
+    "rating": 4.9,
+    "review_count": 28,
+    "stops": [
+      {
+        "time": "09:00",
+        "place": "Bazar-e Bozorg entrance",
+        "description": "Navigate Rasht's chaotic market for spring onions, herbs, salted fish, and pickles."
+      },
+      {
+        "time": "10:00",
+        "place": "Smoked fish vendors",
+        "description": "Taste Caspian smoked carp and white fish; learn how they are cold-smoked over rice straw."
+      },
+      {
+        "time": "10:45",
+        "place": "Family kitchen cooking class",
+        "description": "Hands-on session making mirza ghasemi: charring eggplant, folding in eggs and garlic."
+      },
+      {
+        "time": "12:30",
+        "place": "Lunch — full Gilaki spread",
+        "description": "Sit down to baghali ghatogh, Gilaki rice, pickled garlic, and smoked fish."
+      },
+      {
+        "time": "14:00",
+        "place": "Sweet shop",
+        "description": "Finish with lavashak (sour fruit leather) and fresh pomegranate juice."
+      }
+    ]
+  },
+  {
+    "name": "Isfahan Armenian Quarter & Vank Cathedral Cultural Tour",
+    "name_fa": "تور فرهنگی محله ارامنه و کلیسای وانک اصفهان",
+    "slug": "isfahan-armenian-quarter-vank-cultural-tour",
+    "city": "isfahan",
+    "type": "cultural",
+    "duration_hours": 3.5,
+    "price_usd": 32.0,
+    "max_group_size": 12,
+    "lat": 32.6335,
+    "lng": 51.6878,
+    "rating": 4.7,
+    "review_count": 31,
+    "stops": [
+      {
+        "time": "09:00",
+        "place": "Vank Cathedral exterior",
+        "description": "Admire the blended Safavid-Armenian architecture before the doors open."
+      },
+      {
+        "time": "09:30",
+        "place": "Cathedral interior & frescoes",
+        "description": "Guided explanation of the biblical scenes painted by 17th-century Armenian artists."
+      },
+      {
+        "time": "10:30",
+        "place": "Museum of the Armenian Genocide",
+        "description": "Small but powerful collection of documents and artefacts; respectful discussion."
+      },
+      {
+        "time": "11:15",
+        "place": "Armenian bakery",
+        "description": "Watch gata pastry being rolled and taste fresh from the oven."
+      },
+      {
+        "time": "12:00",
+        "place": "Armenian community home",
+        "description": "Tea and conversation with a host family about daily life as Christians in Iran."
+      }
+    ]
+  },
+  {
+    "name": "Shiraz Persian Gardens & Sufi Shrine Cultural Tour",
+    "name_fa": "تور فرهنگی باغ‌های ایرانی و خانقاه صوفیان شیراز",
+    "slug": "shiraz-persian-gardens-sufi-cultural-tour",
+    "city": "shiraz",
+    "type": "cultural",
+    "duration_hours": 5.0,
+    "price_usd": 38.0,
+    "max_group_size": 12,
+    "lat": 29.6068,
+    "lng": 52.5374,
+    "rating": 4.8,
+    "review_count": 26,
+    "stops": [
+      {
+        "time": "09:00",
+        "place": "Eram Garden",
+        "description": "Iran's most celebrated UNESCO Persian garden; stroll among ancient cypresses and orange trees."
+      },
+      {
+        "time": "10:00",
+        "place": "Narenjestan-e Qavam",
+        "description": "Enter the 19th-century Qajar mansion and its orange-blossom garden."
+      },
+      {
+        "time": "11:00",
+        "place": "Shah Cheragh Shrine",
+        "description": "Visit the mirror-mosaic mausoleum of Ahmad ibn Musa (non-Muslim visitors welcome with head covering)."
+      },
+      {
+        "time": "12:30",
+        "place": "Lunch at Haft Khan restaurant",
+        "description": "Traditional Persian lunch in one of Shiraz's landmark restaurants."
+      },
+      {
+        "time": "14:00",
+        "place": "Sufi Khanqah (lodge)",
+        "description": "Attend a sama ceremony and speak with the sheikh about Sufi philosophy."
+      }
+    ]
+  },
+  {
+    "name": "Persepolis Day Trip from Isfahan — Cultural Heritage Tour",
+    "name_fa": "تور میراث فرهنگی تخت جمشید — یک‌روزه از اصفهان",
+    "slug": "persepolis-day-trip-from-isfahan-cultural",
+    "city": "isfahan",
+    "type": "cultural",
+    "duration_hours": 12.0,
+    "price_usd": 95.0,
+    "max_group_size": 8,
+    "lat": 29.935,
+    "lng": 52.8911,
+    "rating": 4.9,
+    "review_count": 58,
+    "stops": [
+      {
+        "time": "06:30",
+        "place": "Isfahan hotel pickup",
+        "description": "Depart early to arrive before the heat and tour groups."
+      },
+      {
+        "time": "10:00",
+        "place": "Persepolis — Gate of All Nations",
+        "description": "Enter through the lamassu-guarded gateway; overview of the site plan."
+      },
+      {
+        "time": "10:30",
+        "place": "Apadana Palace bas-reliefs",
+        "description": "Study the delegation friezes: 28 nations represented in stone."
+      },
+      {
+        "time": "11:30",
+        "place": "Throne Hall (Hall of 100 Columns)",
+        "description": "Explore the largest hall of the complex; understand military and administrative function."
+      },
+      {
+        "time": "12:30",
+        "place": "Lunch near Persepolis",
+        "description": "Traditional lunch at a local restaurant in Marvdasht."
+      },
+      {
+        "time": "14:00",
+        "place": "Naqsh-e Rostam",
+        "description": "Four royal tombs carved into a cliff; Sassanid victory reliefs below."
+      },
+      {
+        "time": "15:30",
+        "place": "Pasargadae — Tomb of Cyrus",
+        "description": "Stand before the simple limestone tomb of the founder of the Persian Empire."
+      },
+      {
+        "time": "20:00",
+        "place": "Isfahan return",
+        "description": "Arrive back at Isfahan hotels."
+      }
+    ]
+  },
+  {
+    "name": "Yazd Zoroastrian Heritage & Tower of Silence Cultural Tour",
+    "name_fa": "تور میراث زرتشتی و دخمه یزد",
+    "slug": "yazd-zoroastrian-heritage-towers-silence-tour",
+    "city": "yazd",
+    "type": "cultural",
+    "duration_hours": 6.0,
+    "price_usd": 45.0,
+    "max_group_size": 10,
+    "lat": 31.9096,
+    "lng": 54.4248,
+    "rating": 4.8,
+    "review_count": 33,
+    "stops": [
+      {
+        "time": "08:00",
+        "place": "Atash Behram Fire Temple",
+        "description": "View the sacred flame burning since 470 CE through the temple window; explanation of fire symbolism."
+      },
+      {
+        "time": "09:00",
+        "place": "Tower of Silence (Dakhmeh)",
+        "description": "Hike to the two hilltop circular platforms used until the 1970s for sky burials."
+      },
+      {
+        "time": "10:30",
+        "place": "Yazd Zoroastrian Community Center",
+        "description": "Meet community members; hear first-hand accounts of faith and identity."
+      },
+      {
+        "time": "12:00",
+        "place": "Traditional lunch",
+        "description": "Shared meal with a Zoroastrian host family."
+      },
+      {
+        "time": "13:30",
+        "place": "Ritual objects workshop",
+        "description": "Watch artisans making sudreh (sacred shirt) and kusti cord worn by the faithful."
+      },
+      {
+        "time": "14:30",
+        "place": "Yazd old city rooftop",
+        "description": "Panoramic view over the desert city; closing discussion on Iran's religious diversity."
+      }
+    ]
+  },
+  {
+    "name": "Persepolis & Naqsh-e Rostam Full-Day Historical Tour from Shiraz",
+    "name_fa": "تور تاریخی تخت جمشید و نقش رستم — یک‌روزه از شیراز",
+    "slug": "persepolis-naqsh-rostam-full-day-shiraz",
+    "city": "shiraz",
+    "type": "historical",
+    "duration_hours": 10.0,
+    "price_usd": 80.0,
+    "max_group_size": 10,
+    "lat": 29.935,
+    "lng": 52.8911,
+    "rating": 4.9,
+    "review_count": 67,
+    "stops": [
+      {
+        "time": "07:30",
+        "place": "Shiraz hotel pickup",
+        "description": "Air-conditioned minibus departs for the 60 km drive north."
+      },
+      {
+        "time": "09:00",
+        "place": "Persepolis entrance & Stairway of Nations",
+        "description": "Context lecture on the Achaemenid Empire before entering."
+      },
+      {
+        "time": "09:30",
+        "place": "Apadana Palace",
+        "description": "Deep study of the eastern and northern staircase reliefs."
+      },
+      {
+        "time": "11:00",
+        "place": "Royal residential quarters",
+        "description": "Explore the Palace of Darius, Xerxes, and the 100-Column Hall."
+      },
+      {
+        "time": "12:30",
+        "place": "Lunch in Marvdasht",
+        "description": "Simple local lunch with lamb stew and flatbread."
+      },
+      {
+        "time": "14:00",
+        "place": "Naqsh-e Rostam",
+        "description": "Four royal tombs of Darius I, Xerxes, Artaxerxes I, and Darius II."
+      },
+      {
+        "time": "15:30",
+        "place": "Naqsh-e Rajab",
+        "description": "Sassanid investiture reliefs 2 km south."
+      },
+      {
+        "time": "17:30",
+        "place": "Return to Shiraz",
+        "description": "Drop-off at hotels by early evening."
+      }
+    ]
+  },
+  {
+    "name": "Isfahan Safavid Dynasty Historical Deep-Dive Tour",
+    "name_fa": "تور تاریخ عمیق دوره صفوی اصفهان",
+    "slug": "isfahan-safavid-dynasty-historical-tour",
+    "city": "isfahan",
+    "type": "historical",
+    "duration_hours": 6.0,
+    "price_usd": 55.0,
+    "max_group_size": 10,
+    "lat": 32.6591,
+    "lng": 51.666,
+    "rating": 4.7,
+    "review_count": 29,
+    "stops": [
+      {
+        "time": "09:00",
+        "place": "Imam Square — historical orientation",
+        "description": "The square as a political and commercial stage; role of urban design in Safavid statecraft."
+      },
+      {
+        "time": "09:30",
+        "place": "Ali Qapu Palace",
+        "description": "Royal reception hall, throne room, and the music room with plaster vessel alcoves."
+      },
+      {
+        "time": "10:30",
+        "place": "Shah Mosque (Masjed-e Shah)",
+        "description": "Theological significance of its angled entry: reconciling city grid with Mecca alignment."
+      },
+      {
+        "time": "11:30",
+        "place": "Chehel Sotoun Palace",
+        "description": "Safavid frescoes of battles, banquets, and diplomatic receptions; hidden symbolism."
+      },
+      {
+        "time": "12:30",
+        "place": "Hasht Behesht Palace ruins",
+        "description": "The Eight Paradises palace garden; remaining tilework and iwan."
+      },
+      {
+        "time": "13:30",
+        "place": "Discussion lunch",
+        "description": "Lunch at a historic caravanserai with a continuation of the historical narrative."
+      }
+    ]
+  },
+  {
+    "name": "Taq-e Bostan & Kermanshah Ancient Reliefs Day Trip from Tehran",
+    "name_fa": "تور طاق بستان و نقوش برجسته باستانی کرمانشاه از تهران",
+    "slug": "taq-bostan-kermanshah-ancient-reliefs-day-trip",
+    "city": "tehran",
+    "type": "historical",
+    "duration_hours": 10.0,
+    "price_usd": 120.0,
+    "max_group_size": 8,
+    "lat": 34.3887,
+    "lng": 47.0833,
+    "rating": 4.8,
+    "review_count": 19,
+    "stops": [
+      {
+        "time": "06:00",
+        "place": "Tehran Mehrabad Airport",
+        "description": "Early flight to Kermanshah (1 hour)."
+      },
+      {
+        "time": "08:30",
+        "place": "Taq-e Bostan — Small Iwan",
+        "description": "Relief of Ardashir II investiture; earlier Sassanid style."
+      },
+      {
+        "time": "09:30",
+        "place": "Taq-e Bostan — Large Iwan",
+        "description": "Khusraw II on armored horse Shabdiz; royal hunt scenes in upper panels."
+      },
+      {
+        "time": "11:00",
+        "place": "Drive to Bisotun (35 km)",
+        "description": "En route discuss Achaemenid versus Sassanid artistic traditions."
+      },
+      {
+        "time": "11:30",
+        "place": "Bisotun UNESCO Inscription",
+        "description": "Darius I's trilingual proclamation 100 metres up the cliff face; Henry Rawlinson's 1835 copy."
+      },
+      {
+        "time": "13:00",
+        "place": "Lunch in Kermanshah",
+        "description": "Local khorak and lamb kebab."
+      },
+      {
+        "time": "15:00",
+        "place": "Return flight to Tehran",
+        "description": "Transfer to Kermanshah airport for evening flight."
+      }
+    ]
+  },
+  {
+    "name": "Hamadan — Tomb of Avicenna & Ancient Ecbatana Historical Tour",
+    "name_fa": "تور تاریخی همدان — آرامگاه ابن سینا و اکباتان باستانی",
+    "slug": "hamadan-avicenna-ecbatana-historical-tour",
+    "city": "tehran",
+    "type": "historical",
+    "duration_hours": 11.0,
+    "price_usd": 110.0,
+    "max_group_size": 10,
+    "lat": 34.7962,
+    "lng": 48.515,
+    "rating": 4.7,
+    "review_count": 15,
+    "stops": [
+      {
+        "time": "05:30",
+        "place": "Tehran hotel pickup",
+        "description": "Depart early for the 340 km drive (4 hours) to Hamadan."
+      },
+      {
+        "time": "09:30",
+        "place": "Avicenna Mausoleum",
+        "description": "The 1950s modernist tower houses the tomb of Ibn Sina (980–1037 CE); museum of his medical manuscripts."
+      },
+      {
+        "time": "10:30",
+        "place": "Stone Lion of Hamadan",
+        "description": "2,500-year-old Median lion sculpture at the base of Hegmataneh hill."
+      },
+      {
+        "time": "11:00",
+        "place": "Hegmataneh Archaeological Park",
+        "description": "Excavated Median and Achaemenid settlement; on-site guide explains stratigraphy."
+      },
+      {
+        "time": "12:30",
+        "place": "Lunch in Hamadan city",
+        "description": "Hamadan's signature dish: ab doogh khiar cold yogurt soup and lamb kebab."
+      },
+      {
+        "time": "14:00",
+        "place": "Esther and Mordecai Tomb",
+        "description": "Biblical-era tomb; speak with the Jewish custodian about the community's 2,700-year presence in Iran."
+      },
+      {
+        "time": "15:30",
+        "place": "Ali Sadr Cave (optional extension)",
+        "description": "Optional: the world's largest water cave, 60 km north; boat tour inside."
+      },
+      {
+        "time": "20:00",
+        "place": "Tehran return",
+        "description": "Arrive back in Tehran."
+      }
+    ]
+  },
+  {
+    "name": "Mesr Desert Overnight Camel Trek",
+    "name_fa": "کاروان شتری و اقامت شبانه کویر مصر",
+    "slug": "mesr-desert-overnight-camel-trek",
+    "city": "yazd",
+    "type": "desert",
+    "duration_hours": 24.0,
+    "price_usd": 150.0,
+    "max_group_size": 8,
+    "lat": 34.125,
+    "lng": 54.7583,
+    "rating": 4.9,
+    "review_count": 22,
+    "stops": [
+      {
+        "time": "14:00",
+        "place": "Khur village assembly point",
+        "description": "Meet guides and camels; load saddlebags with overnight gear."
+      },
+      {
+        "time": "15:00",
+        "place": "Camel trek begins",
+        "description": "2-hour ride across the erg to the overnight camp."
+      },
+      {
+        "time": "17:00",
+        "place": "Desert camp setup",
+        "description": "Erect traditional tents; explore the dune crests for sunset views."
+      },
+      {
+        "time": "19:30",
+        "place": "Open-fire dinner",
+        "description": "Lamb kebab, flatbread, salad, and desert tea under the stars."
+      },
+      {
+        "time": "22:00",
+        "place": "Stargazing session",
+        "description": "Guide identifies constellations used by desert navigators; zero light pollution."
+      },
+      {
+        "time": "05:30",
+        "place": "Dawn on the dunes",
+        "description": "Climb the highest dune for the color-shift of sunrise across the sand sea."
+      },
+      {
+        "time": "07:00",
+        "place": "Breakfast and return ride",
+        "description": "Light breakfast; camel ride back to Khur by 09:00."
+      }
+    ]
+  },
+  {
+    "name": "Varzaneh Salt Lake & White Desert Photography Safari",
+    "name_fa": "سافاری عکاسی دریاچه نمک و کویر سفید ورزنه",
+    "slug": "varzaneh-salt-lake-white-desert-safari",
+    "city": "isfahan",
+    "type": "desert",
+    "duration_hours": 10.0,
+    "price_usd": 75.0,
+    "max_group_size": 8,
+    "lat": 32.4211,
+    "lng": 52.6658,
+    "rating": 4.7,
+    "review_count": 17,
+    "stops": [
+      {
+        "time": "05:30",
+        "place": "Isfahan hotel pickup",
+        "description": "Pre-dawn departure in 4x4 vehicles."
+      },
+      {
+        "time": "07:30",
+        "place": "Salt flat crossing at sunrise",
+        "description": "Drive onto the flat; photograph the mirror reflections in the salt crust."
+      },
+      {
+        "time": "09:00",
+        "place": "Flamingo observation point",
+        "description": "Seasonal flamingo colony on the lake margins; bird and wildlife spotting."
+      },
+      {
+        "time": "10:30",
+        "place": "Varzaneh sand dunes",
+        "description": "Dune-boarding and photography on the 30-metre crescent dunes."
+      },
+      {
+        "time": "12:30",
+        "place": "Varzaneh village caravanserai lunch",
+        "description": "Traditional lunch in a restored caravanserai courtyard."
+      },
+      {
+        "time": "14:30",
+        "place": "Varzaneh historic pigeon towers",
+        "description": "Round towers built to collect pigeon dung for fertilizer; unique desert architecture."
+      },
+      {
+        "time": "16:30",
+        "place": "Return to Isfahan",
+        "description": "Arrive back by early evening."
+      }
+    ]
+  },
+  {
+    "name": "Maranjab Desert Jeep & Camping Adventure",
+    "name_fa": "ماجراجویی جیپ و کمپینگ کویر مرنجاب",
+    "slug": "maranjab-desert-jeep-camping-adventure",
+    "city": "isfahan",
+    "type": "desert",
+    "duration_hours": 22.0,
+    "price_usd": 130.0,
+    "max_group_size": 6,
+    "lat": 34.27,
+    "lng": 51.98,
+    "rating": 4.8,
+    "review_count": 14,
+    "stops": [
+      {
+        "time": "13:00",
+        "place": "Kashan meeting point",
+        "description": "Load equipment into 4x4 jeeps; safety and desert briefing."
+      },
+      {
+        "time": "15:00",
+        "place": "Aran o Bidgol salt lake edge",
+        "description": "First stop: vast white salt expanse with Alborz mountains visible to the north."
+      },
+      {
+        "time": "16:30",
+        "place": "Maranjab Caravanserai",
+        "description": "Explore the Safavid waystation on the historic Silk Road; rooftop sunset view."
+      },
+      {
+        "time": "18:00",
+        "place": "Desert camp setup",
+        "description": "Pitch insulated tents; guide prepares fireside cooking."
+      },
+      {
+        "time": "20:00",
+        "place": "Dinner and desert lore",
+        "description": "Lamb and vegetable stew; stories of Silk Road caravans and desert survival."
+      },
+      {
+        "time": "22:00",
+        "place": "Night photography session",
+        "description": "Long-exposure shooting of the Milky Way with equipment guidance."
+      },
+      {
+        "time": "06:00",
+        "place": "Dawn playa walk",
+        "description": "Walk the cracked salt surface at sunrise before returning to Kashan by 09:00."
+      }
+    ]
+  },
+  {
+    "name": "Yazd Rooftop & Golden Hour Photography Workshop",
+    "name_fa": "کارگاه عکاسی بام‌ها و ساعت طلایی یزد",
+    "slug": "yazd-rooftop-golden-hour-photography-workshop",
+    "city": "yazd",
+    "type": "photography",
+    "duration_hours": 5.0,
+    "price_usd": 65.0,
+    "max_group_size": 6,
+    "lat": 31.8964,
+    "lng": 54.3661,
+    "rating": 4.9,
+    "review_count": 21,
+    "stops": [
+      {
+        "time": "05:00",
+        "place": "Yazd old city meeting point",
+        "description": "Pre-dawn start; guide reviews camera settings for low-light mud-brick scenes."
+      },
+      {
+        "time": "05:30",
+        "place": "First rooftop — badgir cluster",
+        "description": "Shoot the iconic wind-catcher skyline in the blue hour before sunrise."
+      },
+      {
+        "time": "06:15",
+        "place": "Second rooftop — mosque minarets",
+        "description": "Frame the Jame Mosque minarets against changing sky colors."
+      },
+      {
+        "time": "07:00",
+        "place": "Alleyway light shafts",
+        "description": "Narrow passages where morning sun creates dramatic directional light beams."
+      },
+      {
+        "time": "08:00",
+        "place": "Third rooftop — city panorama",
+        "description": "Wide landscape shots of the entire old city."
+      },
+      {
+        "time": "09:00",
+        "place": "Rooftop breakfast & post-processing",
+        "description": "Lightroom tips over tea and flatbread; review the morning's work."
+      }
+    ]
+  },
+  {
+    "name": "Isfahan Bridges at Dusk Photography Tour",
+    "name_fa": "تور عکاسی پل‌های اصفهان در غروب",
+    "slug": "isfahan-bridges-dusk-photography-tour",
+    "city": "isfahan",
+    "type": "photography",
+    "duration_hours": 4.0,
+    "price_usd": 45.0,
+    "max_group_size": 8,
+    "lat": 32.637,
+    "lng": 51.664,
+    "rating": 4.7,
+    "review_count": 18,
+    "stops": [
+      {
+        "time": "16:30",
+        "place": "North bank of Zayanderud (Si-o-se Pol)",
+        "description": "Arrive 90 minutes before sunset for the warm-light arch reflections."
+      },
+      {
+        "time": "17:15",
+        "place": "Bridge underpass teahouse",
+        "description": "Capture locals sipping tea in the atmospheric arch niches."
+      },
+      {
+        "time": "18:30",
+        "place": "Khaju Bridge — sunset position",
+        "description": "Cross to the east side for the sun-behind-bridge silhouette shot."
+      },
+      {
+        "time": "19:15",
+        "place": "Khaju Bridge — lit arches",
+        "description": "Tripod long-exposure of the illuminated arches reflected in the river."
+      },
+      {
+        "time": "20:00",
+        "place": "Shahrestan Bridge",
+        "description": "The oldest bridge in Isfahan (Sassanid foundations); atmospheric and tourist-free."
+      }
+    ]
+  },
+  {
+    "name": "Hormozgan Qeshm Island & Mangrove Photography Expedition",
+    "name_fa": "اکسپدیشن عکاسی جزیره قشم و جنگل مانگرو هرمزگان",
+    "slug": "hormozgan-qeshm-mangrove-photography-expedition",
+    "city": "tehran",
+    "type": "photography",
+    "duration_hours": 60.0,
+    "price_usd": 320.0,
+    "max_group_size": 6,
+    "lat": 26.8271,
+    "lng": 55.9368,
+    "rating": 4.8,
+    "review_count": 11,
+    "stops": [
+      {
+        "time": "Day 1 — 14:00",
+        "place": "Qeshm Town arrival",
+        "description": "Fly or ferry from Bandar Abbas; settle into guest house; evening briefing."
+      },
+      {
+        "time": "Day 1 — 17:30",
+        "place": "Valley of Stars",
+        "description": "Shoot the eroded limestone canyon in golden hour light."
+      },
+      {
+        "time": "Day 2 — 05:30",
+        "place": "Hara mangrove boat launch",
+        "description": "Local fishing boat into the mangrove channels before sunrise."
+      },
+      {
+        "time": "Day 2 — 09:00",
+        "place": "Eastern tidal flats",
+        "description": "Flamingo colony photography from shallow-draft skiff."
+      },
+      {
+        "time": "Day 2 — 16:00",
+        "place": "Laft traditional village",
+        "description": "Shoot the old Portuguese-era wind-towers and harbor at dusk."
+      },
+      {
+        "time": "Day 3 — 06:00",
+        "place": "Chahkouh Canyon",
+        "description": "Dramatic narrow canyon with freshwater spring; post-processed at breakfast."
+      },
+      {
+        "time": "Day 3 — 13:00",
+        "place": "Departure",
+        "description": "Return ferry or flight from Qeshm."
+      }
+    ]
+  },
+  {
+    "name": "Classic Iran 7-Day Tour: Tehran–Kashan–Isfahan–Yazd–Shiraz",
+    "name_fa": "تور ۷ روزه کلاسیک ایران: تهران–کاشان–اصفهان–یزد–شیراز",
+    "slug": "classic-iran-7-day-tour",
+    "city": "tehran",
+    "type": "multi_day",
+    "duration_hours": 168.0,
+    "price_usd": 780.0,
+    "max_group_size": 8,
+    "lat": 35.6892,
+    "lng": 51.389,
+    "rating": 4.9,
+    "review_count": 80,
+    "stops": [
+      {
+        "time": "Day 1",
+        "place": "Tehran",
+        "description": "National Museum, Treasury of National Jewels, Grand Bazaar, Golestan Palace."
+      },
+      {
+        "time": "Day 2",
+        "place": "Tehran → Kashan",
+        "description": "Drive south; Tabatabaei and Borujerdi Houses, Fin Garden, Bazaar."
+      },
+      {
+        "time": "Day 3",
+        "place": "Kashan → Isfahan",
+        "description": "Drive to Isfahan; Armenian Julfa quarter, Vank Cathedral, riverside walk."
+      },
+      {
+        "time": "Day 4",
+        "place": "Isfahan",
+        "description": "Full day: Imam Square, Shah Mosque, Ali Qapu, Chehel Sotoun, Si-o-se Pol at dusk."
+      },
+      {
+        "time": "Day 5",
+        "place": "Isfahan → Yazd",
+        "description": "Drive through central Iran; Yazd old city, Jame Mosque, Dolat Abad, wind-towers."
+      },
+      {
+        "time": "Day 6",
+        "place": "Yazd → Shiraz",
+        "description": "Tower of Silence, Zoroastrian fire temple, drive to Shiraz; Hafez tomb at night."
+      },
+      {
+        "time": "Day 7",
+        "place": "Shiraz → Persepolis → Shiraz",
+        "description": "Full morning at Persepolis and Naqsh-e Rostam; afternoon Vakil Bazaar; flight home."
+      }
+    ]
+  },
+  {
+    "name": "Silk Road Iran: 10-Day Tour Tehran–Tabriz–Zanjan–Hamadan–Kermanshah",
+    "name_fa": "تور ۱۰ روزه جاده ابریشم ایران",
+    "slug": "silk-road-iran-10-day-tour",
+    "city": "tehran",
+    "type": "multi_day",
+    "duration_hours": 240.0,
+    "price_usd": 650.0,
+    "max_group_size": 8,
+    "lat": 35.6892,
+    "lng": 51.389,
+    "rating": 4.7,
+    "review_count": 24,
+    "stops": [
+      {
+        "time": "Days 1–2",
+        "place": "Tehran",
+        "description": "National Museum, Tehran Bazaar, Sa'dabad Palace complex."
+      },
+      {
+        "time": "Days 3–4",
+        "place": "Tabriz",
+        "description": "Grand Bazaar (UNESCO), Blue Mosque, Kandovan cliff village day trip."
+      },
+      {
+        "time": "Day 5",
+        "place": "Zanjan & Soltaniyeh",
+        "description": "UNESCO Soltaniyeh dome (14th century); world's third-largest masonry dome."
+      },
+      {
+        "time": "Days 6–7",
+        "place": "Hamadan",
+        "description": "Avicenna Mausoleum, Hegmataneh excavations, stone lion, Esther Tomb."
+      },
+      {
+        "time": "Days 8–9",
+        "place": "Kermanshah",
+        "description": "Taq-e Bostan, Bisotun UNESCO inscription, Zagros village homestay."
+      },
+      {
+        "time": "Day 10",
+        "place": "Return to Tehran",
+        "description": "Scenic drive back through Zagros mountains; evening flight connections."
+      }
+    ]
+  },
+  {
+    "name": "Northern Iran Caspian Circuit: 5-Day Tour Rasht–Gilan–Talesh–Masuleh",
+    "name_fa": "تور ۵ روزه مدار شمالی ایران: رشت–گیلان–طالش–ماسوله",
+    "slug": "northern-iran-caspian-circuit-5-day-tour",
+    "city": "tehran",
+    "type": "multi_day",
+    "duration_hours": 120.0,
+    "price_usd": 480.0,
+    "max_group_size": 8,
+    "lat": 35.6892,
+    "lng": 51.389,
+    "rating": 4.8,
+    "review_count": 19,
+    "stops": [
+      {
+        "time": "Day 1",
+        "place": "Tehran → Rasht",
+        "description": "Drive through Alborz; arrive in Rasht; market tour and Gilaki dinner."
+      },
+      {
+        "time": "Day 2",
+        "place": "Rasht & surroundings",
+        "description": "Rasht food tour; rice paddy walk; UNESCO Creative Gastronomy city."
+      },
+      {
+        "time": "Day 3",
+        "place": "Masuleh & Rudkhan Castle",
+        "description": "Morning in the car-free hillside village; afternoon castle trek through forest."
+      },
+      {
+        "time": "Day 4",
+        "place": "Talesh forest villages",
+        "description": "Off-road into the Talesh highlands; traditional Gilaki village homestay."
+      },
+      {
+        "time": "Day 5",
+        "place": "Anzali Lagoon → Tehran",
+        "description": "Boat through the UNESCO-candidate wetland; birdwatching; return to Tehran."
+      }
+    ]
+  },
+  {
+    "name": "Qashqai Nomad Migration Experience — Fars Province",
+    "name_fa": "تجربه کوچ عشایر قشقایی — استان فارس",
+    "slug": "qashqai-nomad-migration-experience-fars",
+    "city": "shiraz",
+    "type": "nomad",
+    "duration_hours": 72.0,
+    "price_usd": 380.0,
+    "max_group_size": 6,
+    "lat": 30.2175,
+    "lng": 51.75,
+    "rating": 4.9,
+    "review_count": 16,
+    "stops": [
+      {
+        "time": "Day 1 morning",
+        "place": "Shiraz pickup → winter quarters",
+        "description": "Drive 3 hours to meet the family at their winter camp; introductions and camp setup."
+      },
+      {
+        "time": "Day 1 afternoon",
+        "place": "First day of migration",
+        "description": "Walk with the flock through scrub hills; guide translates conversations with the khan."
+      },
+      {
+        "time": "Day 1 evening",
+        "place": "Camp 1 — evening rituals",
+        "description": "Help set up the black tent; watch milking; yogurt-making demonstration."
+      },
+      {
+        "time": "Day 2",
+        "place": "Full migration day",
+        "description": "The longest walking day: 20–25 km through Zagros mountain passes."
+      },
+      {
+        "time": "Day 2 evening",
+        "place": "Camp 2 — kilim weaving",
+        "description": "Women demonstrate Qashqai kilim-weaving patterns; fire stories and poetry."
+      },
+      {
+        "time": "Day 3 morning",
+        "place": "Final ascent to summer pastures",
+        "description": "Summit crossing with views over the Fars plain; ceremonial arrival."
+      },
+      {
+        "time": "Day 3 afternoon",
+        "place": "Return to Shiraz",
+        "description": "4x4 vehicle returns travelers to Shiraz."
+      }
+    ]
+  },
+  {
+    "name": "Bakhtiari Nomad Homestay — Chaharmahal va Bakhtiari",
+    "name_fa": "اقامت نزد عشایر بختیاری — چهارمحال و بختیاری",
+    "slug": "bakhtiari-nomad-homestay-chaharmahal",
+    "city": "isfahan",
+    "type": "nomad",
+    "duration_hours": 48.0,
+    "price_usd": 280.0,
+    "max_group_size": 4,
+    "lat": 32.275,
+    "lng": 50.35,
+    "rating": 4.8,
+    "review_count": 12,
+    "stops": [
+      {
+        "time": "Day 1 — 10:00",
+        "place": "Isfahan pickup → Bakhtiari territory",
+        "description": "3-hour drive into the Zagros; arrive at camp by early afternoon."
+      },
+      {
+        "time": "Day 1 — 14:00",
+        "place": "Camp life orientation",
+        "description": "Learn tent structure, daily schedule, and basic Bakhtiari phrases."
+      },
+      {
+        "time": "Day 1 — 16:00",
+        "place": "Afternoon herding",
+        "description": "Walk with the shepherd to bring the flock back to camp before dusk."
+      },
+      {
+        "time": "Day 1 — 19:00",
+        "place": "Communal dinner & ney music",
+        "description": "Share lamb and herb stew; traditional flute and hand-drum session."
+      },
+      {
+        "time": "Day 2",
+        "place": "Full nomad day",
+        "description": "Assist with milking, doogh preparation, and rug-weaving; optional mountain walk."
+      },
+      {
+        "time": "Day 3 morning",
+        "place": "Final breakfast & departure",
+        "description": "Say farewell; return to Isfahan by early afternoon."
+      }
+    ]
+  },
+  {
+    "name": "Alamut Valley & Assassin Castles Trekking Adventure",
+    "name_fa": "ماجراجویی کوهنوردی دره الموت و قلعه‌های حشاشین",
+    "slug": "alamut-valley-assassin-castles-trekking-adventure",
+    "city": "tehran",
+    "type": "adventure",
+    "duration_hours": 72.0,
+    "price_usd": 350.0,
+    "max_group_size": 8,
+    "lat": 36.4527,
+    "lng": 50.5672,
+    "rating": 4.8,
+    "review_count": 23,
+    "stops": [
+      {
+        "time": "Day 1 — 07:00",
+        "place": "Tehran pickup → Qazvin",
+        "description": "Drive 2 hours to Qazvin then 1 hour on mountain road into Alamut Valley."
+      },
+      {
+        "time": "Day 1 — 11:00",
+        "place": "Alamut Castle (Qaleh Alamut)",
+        "description": "Steep 45-minute ascent to the rock fortress of Hassan-i Sabbah; spectacular valley views."
+      },
+      {
+        "time": "Day 1 — 15:00",
+        "place": "Gazor Khan village homestay",
+        "description": "Settle into local family home; evening discussion of Ismaili history."
+      },
+      {
+        "time": "Day 2 — 07:00",
+        "place": "High mountain traverse",
+        "description": "6-hour ridge walk at 2,500 m from Alamut to the Lambsar approach."
+      },
+      {
+        "time": "Day 2 — 15:00",
+        "place": "Lambsar Castle",
+        "description": "Second great Assassin fortress; less visited and more atmospheric."
+      },
+      {
+        "time": "Day 2 evening",
+        "place": "Mountain village",
+        "description": "Homestay in a Caspian-slope village; local dialect, fresh walnut harvest."
+      },
+      {
+        "time": "Day 3",
+        "place": "Descent through forest",
+        "description": "Trail drops steeply through oak and hornbeam forest to the valley floor; return to Tehran."
+      }
+    ]
+  },
+  {
+    "name": "Tehran to Qazvin & Alamut Valley Day Trip",
+    "name_fa": "یک‌روزه تهران به قزوین و دره الموت",
+    "slug": "tehran-qazvin-alamut-day-trip",
+    "city": "tehran",
+    "type": "day_trip",
+    "duration_hours": 11.0,
+    "price_usd": 55.0,
+    "max_group_size": 14,
+    "lat": 36.2797,
+    "lng": 50.0042,
+    "rating": 4.5,
+    "review_count": 35,
+    "stops": [
+      {
+        "time": "07:00",
+        "place": "Tehran hotel pickup",
+        "description": "Depart in a comfortable minibus heading northwest on the Qazvin motorway."
+      },
+      {
+        "time": "09:00",
+        "place": "Qazvin — Chehel Sotoun Palace",
+        "description": "Safavid-era garden palace with painted pavilion; pre-Isfahan capital of Iran."
+      },
+      {
+        "time": "10:00",
+        "place": "Qazvin Grand Bazaar",
+        "description": "Quick walk through the covered market; sample local confections."
+      },
+      {
+        "time": "11:00",
+        "place": "Drive into Alamut Valley",
+        "description": "Dramatic mountain road following the Shah Rud river gorge."
+      },
+      {
+        "time": "12:30",
+        "place": "Village lunch",
+        "description": "Lamb stew and flatbread in a tea house with walnut-orchard views."
+      },
+      {
+        "time": "13:30",
+        "place": "Alamut Castle base",
+        "description": "Walk to the castle gate (30-minute ascent) or enjoy views from the road."
+      },
+      {
+        "time": "15:30",
+        "place": "Return to Tehran",
+        "description": "Arrive back by 17:30."
+      }
+    ]
+  }
+]

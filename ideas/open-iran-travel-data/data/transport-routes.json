@@ -1,0 +1,450 @@
+[
+  {
+    "slug": "ahvaz-andimeshk-train",
+    "origin": "Ahvaz",
+    "destination": "Andimeshk",
+    "mode": "train",
+    "duration_minutes": 140,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "andimeshk-ahvaz-train",
+    "origin": "Andimeshk",
+    "destination": "Ahvaz",
+    "mode": "train",
+    "duration_minutes": 130,
+    "frequency": "2 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "andimeshk-dorud-train",
+    "origin": "Andimeshk",
+    "destination": "Dorud",
+    "mode": "train",
+    "duration_minutes": 360,
+    "frequency": "2 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "dorud-andimeshk-train",
+    "origin": "Dorud",
+    "destination": "Andimeshk",
+    "mode": "train",
+    "duration_minutes": 330,
+    "frequency": "2 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "firouzkuh-tehran-train",
+    "origin": "Firouzkuh",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 215,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "garmsar-tehran-train",
+    "origin": "Garmsar",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 95,
+    "frequency": "3 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "gorgan-incheh-baroon-train",
+    "origin": "Gorgan",
+    "destination": "Incheh Baroon",
+    "mode": "train",
+    "duration_minutes": 80,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "gorgan-pole-e-sefid-train",
+    "origin": "Gorgan",
+    "destination": "Pole-e Sefid",
+    "mode": "train",
+    "duration_minutes": 285,
+    "frequency": "2 daily",
+    "operators": [
+      "RAI (State Railways)",
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "hashtgerd-tehran-train",
+    "origin": "Hashtgerd",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 40,
+    "frequency": "3 daily",
+    "operators": [
+      "RAI (State Railways)",
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "incheh-baroon-gorgan-train",
+    "origin": "Incheh Baroon",
+    "destination": "Gorgan",
+    "mode": "train",
+    "duration_minutes": 80,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "jolfa-tabriz-train",
+    "origin": "Jolfa",
+    "destination": "Tabriz",
+    "mode": "train",
+    "duration_minutes": 160,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "karaj-mashhad-train",
+    "origin": "Karaj",
+    "destination": "Mashhad",
+    "mode": "train",
+    "duration_minutes": 720,
+    "frequency": "2 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "karun-mehshahr-train",
+    "origin": "Karun",
+    "destination": "Mehshahr",
+    "mode": "train",
+    "duration_minutes": 100,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "khaf-tehran-train",
+    "origin": "Khaf",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 805,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "khorramshahr-ahvaz-train",
+    "origin": "Khorramshahr",
+    "destination": "Ahvaz",
+    "mode": "train",
+    "duration_minutes": 110,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "khorramshahr-tehran-train",
+    "origin": "Khorramshahr",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 1045,
+    "frequency": "1 daily",
+    "operators": [
+      "Bon Rail"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "malayer-mashhad-train",
+    "origin": "Malayer",
+    "destination": "Mashhad",
+    "mode": "train",
+    "duration_minutes": 1100,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "maragheh-tehran-train",
+    "origin": "Maragheh",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 620,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "mashhad-karaj-train",
+    "origin": "Mashhad",
+    "destination": "Karaj",
+    "mode": "train",
+    "duration_minutes": 720,
+    "frequency": "2 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "mashhad-malayer-train",
+    "origin": "Mashhad",
+    "destination": "Malayer",
+    "mode": "train",
+    "duration_minutes": 1060,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "mashhad-sarakhs-train",
+    "origin": "Mashhad",
+    "destination": "Sarakhs",
+    "mode": "train",
+    "duration_minutes": 155,
+    "frequency": "2 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "mehshahr-karun-train",
+    "origin": "Mehshahr",
+    "destination": "Karun",
+    "mode": "train",
+    "duration_minutes": 100,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "mianeh-tehran-train",
+    "origin": "Mianeh",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 360,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "pishva-tehran-train",
+    "origin": "Pishva",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 67,
+    "frequency": "3 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "pole-e-sefid-gorgan-train",
+    "origin": "Pole-e Sefid",
+    "destination": "Gorgan",
+    "mode": "train",
+    "duration_minutes": 285,
+    "frequency": "3 daily",
+    "operators": [
+      "RAI (State Railways)",
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "sarakhs-mashhad-train",
+    "origin": "Sarakhs",
+    "destination": "Mashhad",
+    "mode": "train",
+    "duration_minutes": 165,
+    "frequency": "2 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tabriz-jolfa-train",
+    "origin": "Tabriz",
+    "destination": "Jolfa",
+    "mode": "train",
+    "duration_minutes": 165,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "takestan-tehran-train",
+    "origin": "Takestan",
+    "destination": "Tehran",
+    "mode": "train",
+    "duration_minutes": 155,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-firouzkuh-train",
+    "origin": "Tehran",
+    "destination": "Firouzkuh",
+    "mode": "train",
+    "duration_minutes": 230,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-garmsar-train",
+    "origin": "Tehran",
+    "destination": "Garmsar",
+    "mode": "train",
+    "duration_minutes": 90,
+    "frequency": "5 daily",
+    "operators": [
+      "RAI (State Railways)",
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-hashtgerd-train",
+    "origin": "Tehran",
+    "destination": "Hashtgerd",
+    "mode": "train",
+    "duration_minutes": 80,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-khaf-train",
+    "origin": "Tehran",
+    "destination": "Khaf",
+    "mode": "train",
+    "duration_minutes": 780,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-khorramshahr-train",
+    "origin": "Tehran",
+    "destination": "Khorramshahr",
+    "mode": "train",
+    "duration_minutes": 1030,
+    "frequency": "1 daily",
+    "operators": [
+      "Bon Rail"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-maragheh-train",
+    "origin": "Tehran",
+    "destination": "Maragheh",
+    "mode": "train",
+    "duration_minutes": 605,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-mianeh-train",
+    "origin": "Tehran",
+    "destination": "Mianeh",
+    "mode": "train",
+    "duration_minutes": 390,
+    "frequency": "1 daily",
+    "operators": [
+      "Raja Railways"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-parand-train",
+    "origin": "Tehran",
+    "destination": "Parand",
+    "mode": "train",
+    "duration_minutes": 65,
+    "frequency": "1 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  },
+  {
+    "slug": "tehran-pishva-train",
+    "origin": "Tehran",
+    "destination": "Pishva",
+    "mode": "train",
+    "duration_minutes": 50,
+    "frequency": "3 daily",
+    "operators": [
+      "RAI (State Railways)"
+    ],
+    "comfort_level": "comfortable"
+  }
+]

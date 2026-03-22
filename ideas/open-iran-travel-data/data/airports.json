@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Imam Khomeini International Airport",
+    "iata": "IKA",
+    "icao": "OIIE",
+    "city": "Tehran",
+    "province": "Tehran",
+    "international": true,
+    "lat": 35.4161,
+    "lng": 51.1522
+  },
+  {
+    "name": "Mehrabad International Airport",
+    "iata": "THR",
+    "icao": "OIII",
+    "city": "Tehran",
+    "province": "Tehran",
+    "international": true,
+    "lat": 35.6892,
+    "lng": 51.3134
+  },
+  {
+    "name": "Shahid Hashemi Nejad International Airport",
+    "iata": "MHD",
+    "icao": "OIMM",
+    "city": "Mashhad",
+    "province": "Razavi Khorasan",
+    "international": true,
+    "lat": 36.2352,
+    "lng": 59.641
+  },
+  {
+    "name": "Shahid Dastgheib International Airport",
+    "iata": "SYZ",
+    "icao": "OISS",
+    "city": "Shiraz",
+    "province": "Fars",
+    "international": true,
+    "lat": 29.5392,
+    "lng": 52.5898
+  },
+  {
+    "name": "Shahid Beheshti International Airport",
+    "iata": "IFN",
+    "icao": "OIFM",
+    "city": "Isfahan",
+    "province": "Isfahan",
+    "international": true,
+    "lat": 32.7508,
+    "lng": 51.8613
+  },
+  {
+    "name": "Tabriz International Airport",
+    "iata": "TBZ",
+    "icao": "OITT",
+    "city": "Tabriz",
+    "province": "East Azerbaijan",
+    "international": true,
+    "lat": 38.1339,
+    "lng": 46.235
+  },
+  {
+    "name": "Lt. Gen. Qasem Soleimani International Airport",
+    "iata": "AWZ",
+    "icao": "OIAW",
+    "city": "Ahvaz",
+    "province": "Khuzestan",
+    "international": true,
+    "lat": 31.3374,
+    "lng": 48.762
+  },
+  {
+    "name": "Kish International Airport",
+    "iata": "KIH",
+    "icao": "OIBK",
+    "city": "Kish Island",
+    "province": "Hormozgan",
+    "international": true,
+    "lat": 26.5262,
+    "lng": 53.9802
+  },
+  {
+    "name": "Bandar Abbas International Airport",
+    "iata": "BND",
+    "icao": "OIKB",
+    "city": "Bandar Abbas",
+    "province": "Hormozgan",
+    "international": true,
+    "lat": 27.2183,
+    "lng": 56.2378
+  },
+  {
+    "name": "Shahid Ashrafi Esfahani Airport",
+    "iata": "KSH",
+    "icao": "OICC",
+    "city": "Kermanshah",
+    "province": "Kermanshah",
+    "international": true,
+    "lat": 34.3459,
+    "lng": 47.1581
+  },
+  {
+    "name": "Sardar-e Jangal Airport",
+    "iata": "RAS",
+    "icao": "OIGG",
+    "city": "Rasht",
+    "province": "Gilan",
+    "international": true,
+    "lat": 37.3233,
+    "lng": 49.6178
+  },
+  {
+    "name": "Shahid Sadooghi Airport",
+    "iata": "AZD",
+    "icao": "OIYY",
+    "city": "Yazd",
+    "province": "Yazd",
+    "international": true,
+    "lat": 31.905,
+    "lng": 54.2765
+  },
+  {
+    "name": "Urmia Airport",
+    "iata": "OMH",
+    "icao": "OITR",
+    "city": "Urmia",
+    "province": "West Azerbaijan",
+    "international": true,
+    "lat": 37.6681,
+    "lng": 45.0687
+  },
+  {
+    "name": "Zahedan International Airport",
+    "iata": "ZAH",
+    "icao": "OIZH",
+    "city": "Zahedan",
+    "province": "Sistan and Baluchestan",
+    "international": true,
+    "lat": 29.4757,
+    "lng": 60.9062
+  },
+  {
+    "name": "Ayatollah Hashemi Rafsanjani International Airport",
+    "iata": "KER",
+    "icao": "OIKK",
+    "city": "Kerman",
+    "province": "Kerman",
+    "international": true,
+    "lat": 30.2744,
+    "lng": 56.9511
+  },
+  {
+    "name": "Bushehr Airport",
+    "iata": "BUZ",
+    "icao": "OIBB",
+    "city": "Bushehr",
+    "province": "Bushehr",
+    "international": true,
+    "lat": 28.9448,
+    "lng": 50.8346
+  },
+  {
+    "name": "Dasht-e Naz International Airport",
+    "iata": "SRY",
+    "icao": "OINZ",
+    "city": "Sari",
+    "province": "Mazandaran",
+    "international": true,
+    "lat": 36.6358,
+    "lng": 53.1936
+  },
+  {
+    "name": "Ardabil Airport",
+    "iata": "ADU",
+    "icao": "OITL",
+    "city": "Ardabil",
+    "province": "Ardabil",
+    "international": true,
+    "lat": 38.3257,
+    "lng": 48.4244
+  },
+  {
+    "name": "Chabahar Konarak International Airport",
+    "iata": "ZBR",
+    "icao": "OIZC",
+    "city": "Chabahar",
+    "province": "Sistan and Baluchestan",
+    "international": true,
+    "lat": 25.4433,
+    "lng": 60.3821
+  },
+  {
+    "name": "Abadan Airport",
+    "iata": "ABD",
+    "icao": "OIAA",
+    "city": "Abadan",
+    "province": "Khuzestan",
+    "international": true,
+    "lat": 30.3711,
+    "lng": 48.2283
+  },
+  {
+    "name": "Gorgan Airport",
+    "iata": "GBT",
+    "icao": "OING",
+    "city": "Gorgan",
+    "province": "Golestan",
+    "international": false,
+    "lat": 36.9094,
+    "lng": 54.4013
+  },
+  {
+    "name": "Lar Airport",
+    "iata": "LRR",
+    "icao": "OISL",
+    "city": "Lar",
+    "province": "Fars",
+    "international": true,
+    "lat": 27.6747,
+    "lng": 54.3833
+  },
+  {
+    "name": "Bandar Lengeh International Airport",
+    "iata": "BDH",
+    "icao": "OIBL",
+    "city": "Bandar Lengeh",
+    "province": "Hormozgan",
+    "international": true,
+    "lat": 26.532,
+    "lng": 54.8249
+  },
+  {
+    "name": "Dezful Airport",
+    "iata": "DEF",
+    "icao": "OIAD",
+    "city": "Dezful",
+    "province": "Khuzestan",
+    "international": false,
+    "lat": 32.4344,
+    "lng": 48.3956
+  },
+  {
+    "name": "Hamedan International Airport",
+    "iata": "HDM",
+    "icao": "OIHH",
+    "city": "Hamadan",
+    "province": "Hamadan",
+    "international": true,
+    "lat": 34.8692,
+    "lng": 48.5525
+  },
+  {
+    "name": "Qeshm International Airport",
+    "iata": "GSM",
+    "icao": "OIKQ",
+    "city": "Qeshm Island",
+    "province": "Hormozgan",
+    "international": true,
+    "lat": 26.7546,
+    "lng": 55.9024
+  },
+  {
+    "name": "Persian Gulf International Airport",
+    "iata": "PGU",
+    "icao": "OIBP",
+    "city": "Asaluyeh",
+    "province": "Bushehr",
+    "international": true,
+    "lat": 27.3796,
+    "lng": 52.7374
+  },
+  {
+    "name": "Mahshahr Airport",
+    "iata": "MRX",
+    "icao": "OIAM",
+    "city": "Mahshahr",
+    "province": "Khuzestan",
+    "international": false,
+    "lat": 30.5562,
+    "lng": 49.1519
+  },
+  {
+    "name": "Sanandaj Airport",
+    "iata": "SDG",
+    "icao": "OICS",
+    "city": "Sanandaj",
+    "province": "Kurdistan",
+    "international": false,
+    "lat": 35.2459,
+    "lng": 47.0092
+  },
+  {
+    "name": "Ilam Airport",
+    "iata": "IIL",
+    "icao": "OICI",
+    "city": "Ilam",
+    "province": "Ilam",
+    "international": false,
+    "lat": 33.5866,
+    "lng": 46.4048
+  },
+  {
+    "name": "Birjand International Airport",
+    "iata": "XBJ",
+    "icao": "OIMB",
+    "city": "Birjand",
+    "province": "South Khorasan",
+    "international": true,
+    "lat": 32.8981,
+    "lng": 59.2661
+  },
+  {
+    "name": "Bojnord Airport",
+    "iata": "BJB",
+    "icao": "OIMN",
+    "city": "Bojnord",
+    "province": "North Khorasan",
+    "international": false,
+    "lat": 37.493,
+    "lng": 57.3082
+  },
+  {
+    "name": "Khorramabad Airport",
+    "iata": "KHD",
+    "icao": "OICK",
+    "city": "Khorramabad",
+    "province": "Lorestan",
+    "international": false,
+    "lat": 33.4354,
+    "lng": 48.2829
+  },
+  {
+    "name": "Shahrekord Airport",
+    "iata": "CQD",
+    "icao": "OIFS",
+    "city": "Shahrekord",
+    "province": "Chaharmahal and Bakhtiari",
+    "international": false,
+    "lat": 32.2972,
+    "lng": 50.8422
+  },
+  {
+    "name": "Sabzevar Airport",
+    "iata": "AFZ",
+    "icao": "OIMS",
+    "city": "Sabzevar",
+    "province": "Razavi Khorasan",
+    "international": false,
+    "lat": 36.1681,
+    "lng": 57.5952
+  },
+  {
+    "name": "Rafsanjan Airport",
+    "iata": "RJN",
+    "icao": "OIKR",
+    "city": "Rafsanjan",
+    "province": "Kerman",
+    "international": false,
+    "lat": 30.2977,
+    "lng": 56.0511
+  },
+  {
+    "name": "Ramsar Airport",
+    "iata": "RZR",
+    "icao": "OINR",
+    "city": "Ramsar",
+    "province": "Mazandaran",
+    "international": false,
+    "lat": 36.9099,
+    "lng": 50.6796
+  },
+  {
+    "name": "Sirjan Airport",
+    "iata": "SYJ",
+    "icao": "OIKY",
+    "city": "Sirjan",
+    "province": "Kerman",
+    "international": false,
+    "lat": 29.5509,
+    "lng": 55.6727
+  },
+  {
+    "name": "Gachsaran Airport",
+    "iata": "GCH",
+    "icao": "OIAH",
+    "city": "Gachsaran",
+    "province": "Kohgiluyeh and Boyer-Ahmad",
+    "international": false,
+    "lat": 30.3376,
+    "lng": 50.828
+  },
+  {
+    "name": "Payam International Airport",
+    "iata": "PYK",
+    "icao": "OIIP",
+    "city": "Karaj",
+    "province": "Alborz",
+    "international": true,
+    "lat": 35.7761,
+    "lng": 50.8267
+  },
+  {
+    "name": "Parsabad-e Moghan Airport",
+    "iata": "PFQ",
+    "icao": "OITP",
+    "city": "Parsabad",
+    "province": "Ardabil",
+    "international": true,
+    "lat": 39.6036,
+    "lng": 47.8815
+  },
+  {
+    "name": "Maku International Airport",
+    "iata": "IMQ",
+    "icao": "OITM",
+    "city": "Maku",
+    "province": "West Azerbaijan",
+    "international": true,
+    "lat": 39.3278,
+    "lng": 44.4361
+  },
+  {
+    "name": "Siri Airport",
+    "iata": "SXI",
+    "icao": "OIBS",
+    "city": "Siri Island",
+    "province": "Hormozgan",
+    "international": false,
+    "lat": 25.9089,
+    "lng": 54.5394
+  },
+  {
+    "name": "Khoy Airport",
+    "iata": "KHY",
+    "icao": "OITK",
+    "city": "Khoy",
+    "province": "West Azerbaijan",
+    "international": false,
+    "lat": 38.4275,
+    "lng": 44.9736
+  },
+  {
+    "name": "Fasa Airport",
+    "iata": "FAZ",
+    "icao": "OISF",
+    "city": "Fasa",
+    "province": "Fars",
+    "international": false,
+    "lat": 28.8918,
+    "lng": 53.7233
+  },
+  {
+    "name": "Arak Airport",
+    "iata": "AJK",
+    "icao": "OIHR",
+    "city": "Arak",
+    "province": "Markazi",
+    "international": false,
+    "lat": 34.1381,
+    "lng": 49.8473
+  },
+  {
+    "name": "Iranshahr Airport",
+    "iata": "IHR",
+    "icao": "OIZI",
+    "city": "Iranshahr",
+    "province": "Sistan and Baluchestan",
+    "international": false,
+    "lat": 27.2361,
+    "lng": 60.72
+  },
+  {
+    "name": "Zabol Airport",
+    "iata": "ACZ",
+    "icao": "OIZB",
+    "city": "Zabol",
+    "province": "Sistan and Baluchestan",
+    "international": false,
+    "lat": 31.0983,
+    "lng": 61.5439
+  },
+  {
+    "name": "Jiroft Airport",
+    "iata": "JYR",
+    "icao": "OIKJ",
+    "city": "Jiroft",
+    "province": "Kerman",
+    "international": false,
+    "lat": 28.7269,
+    "lng": 57.6703
+  },
+  {
+    "name": "Lavan Airport",
+    "iata": "LVP",
+    "icao": "OIBV",
+    "city": "Lavan Island",
+    "province": "Hormozgan",
+    "international": false,
+    "lat": 26.8103,
+    "lng": 53.3564
+  },
+  {
+    "name": "Zanjan Airport",
+    "iata": "JWN",
+    "icao": "OITZ",
+    "city": "Zanjan",
+    "province": "Zanjan",
+    "international": false,
+    "lat": 36.7736,
+    "lng": 48.3594
+  },
+  {
+    "name": "Noshahr Airport",
+    "iata": "NSH",
+    "icao": "OINN",
+    "city": "Noshahr",
+    "province": "Mazandaran",
+    "international": false,
+    "lat": 36.6633,
+    "lng": 51.4647
+  },
+  {
+    "name": "Lamerd Airport",
+    "iata": "LFM",
+    "icao": "OISR",
+    "city": "Lamerd",
+    "province": "Fars",
+    "international": false,
+    "lat": 27.3727,
+    "lng": 53.1888
+  },
+  {
+    "name": "Khark Island Airport",
+    "iata": "KHK",
+    "icao": "OIBQ",
+    "city": "Khark Island",
+    "province": "Bushehr",
+    "international": false,
+    "lat": 29.2601,
+    "lng": 50.3239
+  },
+  {
+    "name": "Abu Musa Airport",
+    "iata": "AEU",
+    "icao": "OIBA",
+    "city": "Abu Musa Island",
+    "province": "Hormozgan",
+    "international": false,
+    "lat": 25.8757,
+    "lng": 55.033
+  }
+]

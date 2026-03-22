@@ -1,0 +1,31 @@
+name,name_fa,slug,city,type,duration_hours,price_usd,max_group,lat,lng,rating,reviews,num_stops
+Isfahan Bazaar & Imam Square Walking Tour,تور پیاده‌روی بازار و میدان امام اصفهان,isfahan-bazaar-imam-square-walking-tour,isfahan,walking,3.5,28.0,12,32.6576,51.6777,4.8,72,6
+Shiraz Old City & Poets' Quarter Walking Tour,تور پیاده‌روی شهر قدیم و محله شعرا شیراز,shiraz-old-city-poets-quarter-walking-tour,shiraz,walking,3.0,24.0,10,29.6117,52.5422,4.7,55,6
+Yazd Wind-Towers & Old Fabric Walking Tour,تور پیاده‌روی بادگیرها و بافت قدیم یزد,yazd-wind-towers-old-fabric-walking-tour,yazd,walking,4.0,30.0,10,31.8974,54.3678,4.9,63,6
+Kashan Historic Houses & Rose-Water District Walking Tour,تور پیاده‌روی خانه‌های تاریخی و منطقه گلاب کاشان,kashan-historic-houses-rosewater-walking-tour,kashan,walking,3.5,26.0,10,33.9849,51.4105,4.6,41,5
+Tehran Darband & Northern Hills Walking Tour,تور پیاده‌روی دربند و ارتفاعات شمالی تهران,tehran-darband-hills-walking-tour,tehran,walking,4.5,22.0,14,35.8122,51.4318,4.5,38,6
+Tehran Street Food & Southern Bazaar Food Tour,تور غذای خیابانی و بازار جنوب تهران,tehran-street-food-southern-bazaar-tour,tehran,food,4.0,45.0,10,35.6716,51.4225,4.7,49,6
+Isfahan Traditional Cuisine & Madar-e Shah Caravanserai Food Tour,تور غذای سنتی اصفهان و کاروانسرای مادر شاه,isfahan-traditional-cuisine-food-tour,isfahan,food,4.0,42.0,10,32.6603,51.6755,4.6,37,5
+Tabriz Grand Bazaar & Azerbaijani Table Food Tour,تور غذایی بازار بزرگ تبریز و سفره آذربایجانی,tabriz-grand-bazaar-azerbaijani-food-tour,tabriz,food,4.5,40.0,12,38.0806,46.2876,4.8,44,6
+Rasht Caspian Kitchen & Gilaki Market Food Tour,تور غذایی آشپزخانه کاسپین و بازار گیلکی رشت,rasht-caspian-kitchen-gilaki-market-food-tour,rasht,food,5.0,50.0,8,37.2809,49.5832,4.9,28,5
+Isfahan Armenian Quarter & Vank Cathedral Cultural Tour,تور فرهنگی محله ارامنه و کلیسای وانک اصفهان,isfahan-armenian-quarter-vank-cultural-tour,isfahan,cultural,3.5,32.0,12,32.6335,51.6878,4.7,31,5
+Shiraz Persian Gardens & Sufi Shrine Cultural Tour,تور فرهنگی باغ‌های ایرانی و خانقاه صوفیان شیراز,shiraz-persian-gardens-sufi-cultural-tour,shiraz,cultural,5.0,38.0,12,29.6068,52.5374,4.8,26,5
+Persepolis Day Trip from Isfahan — Cultural Heritage Tour,تور میراث فرهنگی تخت جمشید — یک‌روزه از اصفهان,persepolis-day-trip-from-isfahan-cultural,isfahan,cultural,12.0,95.0,8,29.935,52.8911,4.9,58,8
+Yazd Zoroastrian Heritage & Tower of Silence Cultural Tour,تور میراث زرتشتی و دخمه یزد,yazd-zoroastrian-heritage-towers-silence-tour,yazd,cultural,6.0,45.0,10,31.9096,54.4248,4.8,33,6
+Persepolis & Naqsh-e Rostam Full-Day Historical Tour from Shiraz,تور تاریخی تخت جمشید و نقش رستم — یک‌روزه از شیراز,persepolis-naqsh-rostam-full-day-shiraz,shiraz,historical,10.0,80.0,10,29.935,52.8911,4.9,67,8
+Isfahan Safavid Dynasty Historical Deep-Dive Tour,تور تاریخ عمیق دوره صفوی اصفهان,isfahan-safavid-dynasty-historical-tour,isfahan,historical,6.0,55.0,10,32.6591,51.666,4.7,29,6
+Taq-e Bostan & Kermanshah Ancient Reliefs Day Trip from Tehran,تور طاق بستان و نقوش برجسته باستانی کرمانشاه از تهران,taq-bostan-kermanshah-ancient-reliefs-day-trip,tehran,historical,10.0,120.0,8,34.3887,47.0833,4.8,19,7
+Hamadan — Tomb of Avicenna & Ancient Ecbatana Historical Tour,تور تاریخی همدان — آرامگاه ابن سینا و اکباتان باستانی,hamadan-avicenna-ecbatana-historical-tour,tehran,historical,11.0,110.0,10,34.7962,48.515,4.7,15,8
+Mesr Desert Overnight Camel Trek,کاروان شتری و اقامت شبانه کویر مصر,mesr-desert-overnight-camel-trek,yazd,desert,24.0,150.0,8,34.125,54.7583,4.9,22,7
+Varzaneh Salt Lake & White Desert Photography Safari,سافاری عکاسی دریاچه نمک و کویر سفید ورزنه,varzaneh-salt-lake-white-desert-safari,isfahan,desert,10.0,75.0,8,32.4211,52.6658,4.7,17,7
+Maranjab Desert Jeep & Camping Adventure,ماجراجویی جیپ و کمپینگ کویر مرنجاب,maranjab-desert-jeep-camping-adventure,isfahan,desert,22.0,130.0,6,34.27,51.98,4.8,14,7
+Yazd Rooftop & Golden Hour Photography Workshop,کارگاه عکاسی بام‌ها و ساعت طلایی یزد,yazd-rooftop-golden-hour-photography-workshop,yazd,photography,5.0,65.0,6,31.8964,54.3661,4.9,21,6
+Isfahan Bridges at Dusk Photography Tour,تور عکاسی پل‌های اصفهان در غروب,isfahan-bridges-dusk-photography-tour,isfahan,photography,4.0,45.0,8,32.637,51.664,4.7,18,5
+Hormozgan Qeshm Island & Mangrove Photography Expedition,اکسپدیشن عکاسی جزیره قشم و جنگل مانگرو هرمزگان,hormozgan-qeshm-mangrove-photography-expedition,tehran,photography,60.0,320.0,6,26.8271,55.9368,4.8,11,7
+Classic Iran 7-Day Tour: Tehran–Kashan–Isfahan–Yazd–Shiraz,تور ۷ روزه کلاسیک ایران: تهران–کاشان–اصفهان–یزد–شیراز,classic-iran-7-day-tour,tehran,multi_day,168.0,780.0,8,35.6892,51.389,4.9,80,7
+Silk Road Iran: 10-Day Tour Tehran–Tabriz–Zanjan–Hamadan–Kermanshah,تور ۱۰ روزه جاده ابریشم ایران,silk-road-iran-10-day-tour,tehran,multi_day,240.0,650.0,8,35.6892,51.389,4.7,24,6
+Northern Iran Caspian Circuit: 5-Day Tour Rasht–Gilan–Talesh–Masuleh,تور ۵ روزه مدار شمالی ایران: رشت–گیلان–طالش–ماسوله,northern-iran-caspian-circuit-5-day-tour,tehran,multi_day,120.0,480.0,8,35.6892,51.389,4.8,19,5
+Qashqai Nomad Migration Experience — Fars Province,تجربه کوچ عشایر قشقایی — استان فارس,qashqai-nomad-migration-experience-fars,shiraz,nomad,72.0,380.0,6,30.2175,51.75,4.9,16,7
+Bakhtiari Nomad Homestay — Chaharmahal va Bakhtiari,اقامت نزد عشایر بختیاری — چهارمحال و بختیاری,bakhtiari-nomad-homestay-chaharmahal,isfahan,nomad,48.0,280.0,4,32.275,50.35,4.8,12,6
+Alamut Valley & Assassin Castles Trekking Adventure,ماجراجویی کوهنوردی دره الموت و قلعه‌های حشاشین,alamut-valley-assassin-castles-trekking-adventure,tehran,adventure,72.0,350.0,8,36.4527,50.5672,4.8,23,7
+Tehran to Qazvin & Alamut Valley Day Trip,یک‌روزه تهران به قزوین و دره الموت,tehran-qazvin-alamut-day-trip,tehran,day_trip,11.0,55.0,14,36.2797,50.0042,4.5,35,7

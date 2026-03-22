@@ -1,0 +1,732 @@
+from_station,to_station,operator
+Abadeh,Eghlid,Raja Railways
+Abadeh,Shahreza,Raja Railways
+Abardej,Pishva,RAI (State Railways)
+Abyek,Hashtgerd,Raja Railways
+Abyek,Karaj,Mahtab Seir Jam
+Abyek,Karaj,Raja Railways
+Abyek,Qazvin,Mahtab Seir Jam
+Abyek,Qazvin,Raja Railways
+Abyek,Ziaran,Raja Railways
+Ahmadabad,Bafgh,Joupar Rail
+Ahmadabad,Bafgh,Raja Railways
+Ahmadabad,Bafgh Mobarakeh,Ksar Rail
+Ahmadabad,Khatun Abad,Joupar Rail
+Ahmadabad,Khatun Abad,Ksar Rail
+Ahmadabad,Khatun Abad,Raja Railways
+Ahu Dasht,Bamdezh,RAI (State Railways)
+Ahu Dasht,Miyanab,RAI (State Railways)
+Ahvaz,Andimeshk,Mahtab Seir Jam
+Ahvaz,Haft Tappeh,Bon Rail
+Ahvaz,Haft Tappeh,Raja Railways
+Ahvaz,Khorramshahr,Bon Rail
+Ahvaz,Nezamiyeh,RAI (State Railways)
+Ajabshir,Azarshahr,Raja Railways
+Ajabshir,Maragheh,Bon Rail
+Ajabshir,Maragheh,Raja Railways
+Andimeshk,Ahvaz,Bon Rail
+Andimeshk,Do Kuheh,RAI (State Railways)
+Andimeshk,Sabzab,RAI (State Railways)
+Andimeshk,Sepiddasht,Bon Rail
+Andimeshk,Sepiddasht,Mahtab Seir Jam
+Andimeshk,Sepiddasht,Raja Railways
+Andimeshk,Shush,Bon Rail
+Andimeshk,Shush,RAI (State Railways)
+Andimeshk,Shush,Raja Railways
+Arak,Azna,Bon Rail
+Arak,Malayer,Raja Railways
+Arak,Semnan,Mahtab Seir Jam
+Arak,Semnan,Raja Railways
+Arak,Shazand,Bon Rail
+Arak,Shazand,Raja Railways
+Arak,Tehran,Bon Rail
+Arak,Tehran,Raja Railways
+Ardekan,Badrud,Raja Railways
+Ardekan,Kashan,Raja Railways
+Ardekan,Meybod,Bon Rail
+Ardekan,Meybod,Joupar Rail
+Ardekan,Meybod,Raja Railways
+Ardekan,Nain,Bon Rail
+Ardekan,Nain,Joupar Rail
+Ardekan,Yazd,Bon Rail
+Atash Bagh,Saraju,Raja Railways
+Azadur,Jajarm,Raja Railways
+Azadur,Jovin,Raja Railways
+Azadur,Neqab,Raja Railways
+Azadur,Neyshabur,Raja Railways
+Azadur,Shahrud,Raja Railways
+Azarshahr,Ajabshir,Bon Rail
+Azarshahr,Ajabshir,Raja Railways
+Azarshahr,Zarei,Raja Railways
+Azna,Darband,Bon Rail
+Azna,Dorud,Bon Rail
+Azna,Dorud,Raja Railways
+Azna,Momen Abad,Raja Railways
+Azna,Shazand,Bon Rail
+Azna,Shazand,Mahtab Seir Jam
+Badrud,Ardekan,Bon Rail
+Badrud,Ardekan,Raja Railways
+Badrud,Espidan,Raja Railways
+Badrud,Kashan,Bon Rail
+Badrud,Kashan,Joupar Rail
+Badrud,Kashan,Raja Railways
+Badrud,Zavareh,Bon Rail
+Badrud,Zavareh,Joupar Rail
+Bafgh,Ahmadabad,Joupar Rail
+Bafgh,Ahmadabad,Raja Railways
+Bafgh,Robat - E Posht - E Badam,Ksar Rail
+Bafgh,Siriz,Bon Rail
+Bafgh,Yazd,Bon Rail
+Bafgh,Yazd,Joupar Rail
+Bafgh,Yazd,Ksar Rail
+Bafgh,Yazd,Raja Railways
+Bafgh,Zarand,Raja Railways
+Bafgh Mobarakeh,Bahabad,Bon Rail
+Bafgh Mobarakeh,Tabas,Ksar Rail
+Bafgh Mobarakeh,Zarand,Bon Rail
+Bahabad,Bafgh Mobarakeh,Bon Rail
+Bahabad,Robat - E Posht - E Badam,Bon Rail
+Bahram,Rey,RAI (State Railways)
+Bahram,Varamin,RAI (State Railways)
+Bajestan,Boshruyeh,Raja Railways
+Bajestan,Torbat - E Heydarieh,Bon Rail
+Bajestan,Torbat - E Heydarieh,Ksar Rail
+Balarud,Gol Mahak,Bon Rail
+Balarud,Gol Mahak,RAI (State Railways)
+Balarud,Mazu,RAI (State Railways)
+Bam,Fahraj,Raja Railways
+Bam,Kerman,Raja Railways
+Bamdezh,Ahu Dasht,RAI (State Railways)
+Bamdezh,Khavar,RAI (State Railways)
+Bandar Abbas,Sirjan,Raja Railways
+Bandar Abbas,Tezerj,Ksar Rail
+Bandar Abbas,Zadmahmoud,Joupar Rail
+Bandar Abbas,Zadmahmoud,Raja Railways
+Bandar Gaz,Bandar Torkaman,RAI (State Railways)
+Bandar Gaz,Bandar Torkaman,Raja Railways
+Bandar Gaz,Galugah,RAI (State Railways)
+Bandar Gaz,Galugah,Raja Railways
+Bandar Gaz,Neka,Raja Railways
+Bandar Torkaman,Bandar Gaz,RAI (State Railways)
+Bandar Torkaman,Bandar Gaz,Raja Railways
+Bandar Torkaman,Gorgan,Raja Railways
+Bandar Torkaman,Sabz Dasht,RAI (State Railways)
+Bandar Torkaman,Sabz Dasht,Raja Railways
+Bayhaq,Neqab,Raja Railways
+Bayhaq,Neyshabur,Raja Railways
+Bayhaq,Sabzevar,Raja Railways
+Behshahr,Bandar Gaz,Raja Railways
+Behshahr,Rostam Kola,RAI (State Railways)
+Behshahr,Rostam Kola,Raja Railways
+Behshahr,Tir Tash,RAI (State Railways)
+Behshahr,Tir Tash,Raja Railways
+Bisheh,Dorud,Mahtab Seir Jam
+Bisheh,Dorud,Raja Railways
+Bisheh,Qarun,RAI (State Railways)
+Bisheh,Sepiddasht,Bon Rail
+Bisheh,Sepiddasht,RAI (State Railways)
+Bisheh,Sepiddasht,Raja Railways
+Bonakuh,Garmsar,RAI (State Railways)
+Bonakuh,Garmsar,Raja Railways
+Bonakuh,Kabutardarreh,RAI (State Railways)
+Bonakuh,Kabutardarreh,Raja Railways
+Boshruyeh,Bajestan,Ksar Rail
+Boshruyeh,Tabas,Raja Railways
+Chamsangar,Keshvar,RAI (State Railways)
+Chamsangar,Sepiddasht,RAI (State Railways)
+Chamsangar,Tang - E Haft,Bon Rail
+Charizeh,Espidan,Raja Railways
+Charizeh,Sistan,Raja Railways
+Damghan,Jajarm,Noor Rail
+Damghan,Neqab,Noor Rail
+Damghan,Semnan,Fadak Trains
+Damghan,Semnan,Raja Railways
+Damghan,Shahrud,Bon Rail
+Damghan,Shahrud,Fadak Trains
+Damghan,Shahrud,Raja Railways
+Damghan,Shahrud,Saba Rail
+Darband,Dorud,Bon Rail
+Do Kuheh,Andimeshk,RAI (State Railways)
+Do Kuheh,Gol Mahak,RAI (State Railways)
+Dorud,Azna,Bon Rail
+Dorud,Azna,Mahtab Seir Jam
+Dorud,Azna,Raja Railways
+Dorud,Bisheh,Bon Rail
+Dorud,Bisheh,Raja Railways
+Dorud,Qarun,RAI (State Railways)
+Dorud,Sepiddasht,Bon Rail
+Eghlid,Abadeh,Raja Railways
+Eghlid,Safashahr,Raja Railways
+Esfahan,Kashan,Raja Railways
+Esfahan,Sistan,Noor Rail
+Esfahan,Sistan,Raja Railways
+Eslamshahr,Fourudgah,Bon Rail
+Eslamshahr,Qom,Raja Railways
+Eslamshahr,Robat Karim,RAI (State Railways)
+Eslamshahr,Tehran,Raja Railways
+Espidan,Badrud,Raja Railways
+Espidan,Charizeh,Raja Railways
+Espidan,Kashan,Noor Rail
+Fahraj,Bam,Raja Railways
+Fahraj,Zahedan,Raja Railways
+Firouzan,Kermanshah,Raja Railways
+Firouzan,Malayer,Raja Railways
+Firouzkuh,Mahabad,RAI (State Railways)
+Firouzkuh,Veresk,Raja Railways
+Firouzkuh,Zarrindasht,Raja Railways
+Fourudgah,Moshkabad,Bon Rail
+Galugah,Bandar Gaz,RAI (State Railways)
+Galugah,Bandar Gaz,Raja Railways
+Galugah,Behshahr,Raja Railways
+Galugah,Tir Tash,RAI (State Railways)
+Gargar,Khosravi,RAI (State Railways)
+Gargar,Sar - E Bandar,RAI (State Railways)
+Garmsar,Bonakuh,RAI (State Railways)
+Garmsar,Bonakuh,Raja Railways
+Garmsar,Damghan,Saba Rail
+Garmsar,Kavir,RAI (State Railways)
+Garmsar,Neqab,Saba Rail
+Garmsar,Pishva,RAI (State Railways)
+Garmsar,Pishva,Raja Railways
+Garmsar,Semnan,Parse Rail
+Garmsar,Semnan,Raja Railways
+Garmsar,Simindasht,Raja Railways
+Garmsar,Tehran,Bon Rail
+Garmsar,Tehran,Raja Railways
+Garmsar,Tehran,Saba Rail
+Garmsar,Varamin,Fadak Trains
+Garmsar,Varamin,Raja Railways
+Garmsar,Yatri,Raja Railways
+Gol Mahak,Andimeshk,Bon Rail
+Gol Mahak,Balarud,RAI (State Railways)
+Gol Mahak,Do Kuheh,RAI (State Railways)
+Gorgan,Bandar Torkaman,Raja Railways
+Gorgan,Sabz Dasht,RAI (State Railways)
+Gorgan,Sabz Dasht,Raja Railways
+Guni - Ye Bafi,Qaemshahr,RAI (State Railways)
+Guni - Ye Bafi,Qaemshahr,Raja Railways
+Guni - Ye Bafi,Sari,RAI (State Railways)
+Haft Tappeh,Ahvaz,Bon Rail
+Haft Tappeh,Ahvaz,RAI (State Railways)
+Haft Tappeh,Ahvaz,Raja Railways
+Haft Tappeh,Miyanab,RAI (State Railways)
+Haft Tappeh,Shush,Bon Rail
+Haft Tappeh,Shush,Raja Railways
+Hamedan,Saveh,Raja Railways
+Hamid Moussavi,Qods,RAI (State Railways)
+Harand,Sistan,Raja Railways
+Harzand,Jolfa,Raja Railways
+Harzand,Marand,Raja Railways
+Hashtgerd,Abyek,Raja Railways
+Hashtgerd,Karaj,Raja Railways
+Hashtgerd,Kordan,RAI (State Railways)
+Hashtgerd,Kordan,Raja Railways
+Hashtgerd,Qazvin,Raja Railways
+Hoseyniyeh,Hamid Moussavi,RAI (State Railways)
+Incheh Baroon,Petrochemie,Raja Railways
+Jajarm,Azadur,Raja Railways
+Jajarm,Neyshabur,Noor Rail
+Jajarm,Shahrud,Raja Railways
+Jolfa,Harzand,Raja Railways
+Jovin,Jajarm,Raja Railways
+Jovin,Neqab,Raja Railways
+Jovin,Shahrud,Raja Railways
+Kabutardarreh,Bonakuh,RAI (State Railways)
+Kabutardarreh,Bonakuh,Raja Railways
+Kabutardarreh,Simindasht,RAI (State Railways)
+Kabutardarreh,Simindasht,Raja Railways
+Kaheh,Sirjan,Joupar Rail
+Karaj,Abyek,Mahtab Seir Jam
+Karaj,Hashtgerd,Raja Railways
+Karaj,Malaki,RAI (State Railways)
+Karaj,Malaki,Raja Railways
+Karaj,Qazvin,Bon Rail
+Karaj,Qazvin,Raja Railways
+Karaj,Tehran,Bon Rail
+Karaj,Tehran,Fadak Trains
+Karaj,Tehran,Mahtab Seir Jam
+Karaj,Tehran,Raja Railways
+Karun,Miandasht,RAI (State Railways)
+Kashan,Badrud,Bon Rail
+Kashan,Badrud,Joupar Rail
+Kashan,Badrud,Raja Railways
+Kashan,Esfahan,Noor Rail
+Kashan,Esfahan,Raja Railways
+Kashan,Esfahan,Saba Rail
+Kashan,Meybod,Raja Railways
+Kashan,Qom - Mohammadyeh,Bon Rail
+Kashan,Qom - Mohammadyeh,Joupar Rail
+Kashan,Qom - Mohammadyeh,Noor Rail
+Kashan,Qom - Mohammadyeh,Raja Railways
+Kashan,Yazd,Raja Railways
+Kashmar,Mashad,Bon Rail
+Kashmar,Mashad,Ksar Rail
+Kashmar,Mashad,Raja Railways
+Kashmar,Neyshabur,Raja Railways
+Kashmar,Torbat - E Heydarieh,Raja Railways
+Kavir,Abardej,RAI (State Railways)
+Kavir,Pishva,RAI (State Railways)
+Kerman,Bam,Raja Railways
+Kerman,Zarand,Bon Rail
+Kerman,Zarand,Raja Railways
+Kermanshah,Firouzan,Raja Railways
+Keshvar,Chamsangar,RAI (State Railways)
+Keshvar,Tang - E Haft,RAI (State Railways)
+Khaf,Torbat - E Heydarieh,Raja Railways
+Khatun Abad,Ahmadabad,Joupar Rail
+Khatun Abad,Ahmadabad,Ksar Rail
+Khatun Abad,Ahmadabad,Raja Railways
+Khatun Abad,Sirjan,Joupar Rail
+Khatun Abad,Sirjan,Ksar Rail
+Khatun Abad,Sirjan,Raja Railways
+Khavar,Bamdezh,RAI (State Railways)
+Khavar,Nezamiyeh,RAI (State Railways)
+Khorasanak,Atash Bagh,Raja Railways
+Khorasanak,Maragheh,Raja Railways
+Khorasanak,Mianeh,Bon Rail
+Khorasanak,Mianeh,Raja Railways
+Khorramdarreh,Takestan,Bon Rail
+Khorramdarreh,Takestan,Raja Railways
+Khorramdarreh,Zanjan,Raja Railways
+Khorramshahr,Ahvaz,Bon Rail
+Khorramshahr,Hoseyniyeh,RAI (State Railways)
+Khosravi,Gargar,RAI (State Railways)
+Khosravi,Miandasht,RAI (State Railways)
+Kordan,Karaj,RAI (State Railways)
+Kordan,Karaj,Raja Railways
+Lashkari,Nik Pasandi,RAI (State Railways)
+Lashkari,Nik Pasandi,Raja Railways
+Mahabad,Firouzkuh,RAI (State Railways)
+Mahabad,Zarrindasht,RAI (State Railways)
+Malaki,Lashkari,RAI (State Railways)
+Malaki,Lashkari,Raja Railways
+Malayer,Arak,Raja Railways
+Malayer,Firouzan,Raja Railways
+Maragheh,Ajabshir,Raja Railways
+Maragheh,Khorasanak,Bon Rail
+Maragheh,Khorasanak,Raja Railways
+Maragheh,Miandoab,Raja Railways
+Maragheh,Tabriz,Bon Rail
+Marand,Harzand,Raja Railways
+Marand,Sahlan,Raja Railways
+Mashad,Kashmar,Raja Railways
+Mashad,Neyshabur,Bon Rail
+Mashad,Neyshabur,Fadak Trains
+Mashad,Neyshabur,Noor Rail
+Mashad,Neyshabur,Raja Railways
+Mashad,Neyshabur,Saba Rail
+Mashad,Salam,Raja Railways
+Mashad,Shahrud,Bon Rail
+Mashad,Shahrud,Mahtab Seir Jam
+Mashad,Shahrud,Noor Rail
+Mashad,Shahrud,Parse Rail
+Mashad,Shahrud,Raja Railways
+Mashad,Shahrud,Saba Rail
+Mashad,Tabas,Raja Railways
+Mashad,Torbat - E Heydarieh,Bon Rail
+Mashad,Torbat - E Heydarieh,Ksar Rail
+Mashad,Torbat - E Heydarieh,Raja Railways
+Mazu,Balarud,Bon Rail
+Mazu,Balarud,RAI (State Railways)
+Mazu,Shahbazan,RAI (State Railways)
+Mehshahr,Sar - E Bandar,RAI (State Railways)
+Meybod,Ardekan,Bon Rail
+Meybod,Ardekan,Joupar Rail
+Meybod,Ardekan,Raja Railways
+Meybod,Sistan,Raja Railways
+Meybod,Yazd,Bon Rail
+Meybod,Yazd,Joupar Rail
+Meybod,Yazd,Raja Railways
+Miandasht,Karun,RAI (State Railways)
+Miandasht,Khosravi,RAI (State Railways)
+Miandoab,Maragheh,Raja Railways
+Miandoab,Urmia,Raja Railways
+Mianeh,Khorasanak,Raja Railways
+Mianeh,Maragheh,Bon Rail
+Mianeh,Zanjan,Bon Rail
+Mianeh,Zanjan,Raja Railways
+Miyanab,Ahu Dasht,RAI (State Railways)
+Miyanab,Shush,RAI (State Railways)
+Momen Abad,Azna,Bon Rail
+Momen Abad,Azna,Raja Railways
+Momen Abad,Shazand,Raja Railways
+Moshkabad,Arak,Bon Rail
+Nain,Ardekan,Bon Rail
+Nain,Ardekan,Joupar Rail
+Nain,Zavareh,Bon Rail
+Nain,Zavareh,Joupar Rail
+Neka,Behshahr,RAI (State Railways)
+Neka,Behshahr,Raja Railways
+Neka,Nowbakht,RAI (State Railways)
+Neka,Nowbakht,Raja Railways
+Neka,Rostam Kola,RAI (State Railways)
+Neka,Sari,Raja Railways
+Neqab,Azadur,Raja Railways
+Neqab,Bayhaq,Raja Railways
+Neqab,Garmsar,Saba Rail
+Neqab,Jovin,Raja Railways
+Neqab,Mashad,Mahtab Seir Jam
+Neqab,Neyshabur,Bon Rail
+Neqab,Neyshabur,Fadak Trains
+Neqab,Neyshabur,Noor Rail
+Neqab,Neyshabur,Raja Railways
+Neqab,Neyshabur,Saba Rail
+Neqab,Sabzevar,Raja Railways
+Neqab,Shahrud,Bon Rail
+Neqab,Shahrud,Fadak Trains
+Neqab,Shahrud,Raja Railways
+Neyshabur,Azadur,Raja Railways
+Neyshabur,Kashmar,Raja Railways
+Neyshabur,Mashad,Bon Rail
+Neyshabur,Mashad,Fadak Trains
+Neyshabur,Mashad,Noor Rail
+Neyshabur,Mashad,Parse Rail
+Neyshabur,Mashad,Raja Railways
+Neyshabur,Mashad,Saba Rail
+Neyshabur,Neqab,Bon Rail
+Neyshabur,Neqab,Fadak Trains
+Neyshabur,Neqab,Raja Railways
+Neyshabur,Neqab,Saba Rail
+Neyshabur,Sabzevar,Raja Railways
+Neyshabur,Shahrud,Bon Rail
+Neyshabur,Shahrud,Noor Rail
+Neyshabur,Shahrud,Saba Rail
+Nezamiyeh,Ahvaz,RAI (State Railways)
+Nezamiyeh,Khavar,RAI (State Railways)
+Nik Pasandi,Tehran,RAI (State Railways)
+Nik Pasandi,Tehran,Raja Railways
+Nourabad,Somayeh,Bon Rail
+Nowbakht,Neka,RAI (State Railways)
+Nowbakht,Rostam Kola,Raja Railways
+Nowbakht,Sari,RAI (State Railways)
+Nowbakht,Sari,Raja Railways
+Petrochemie,Incheh Baroon,Raja Railways
+Petrochemie,Yampi,Raja Railways
+Pishva,Garmsar,RAI (State Railways)
+Pishva,Garmsar,Raja Railways
+Pishva,Varamin,RAI (State Railways)
+Pishva,Varamin,Raja Railways
+Pole - E Sefid,Firouzkuh,Raja Railways
+Pole - E Sefid,Savadkuh,Raja Railways
+Pole - E Sefid,Veresk,Raja Railways
+Pole - E Sefid,Zirab,RAI (State Railways)
+Pole - E Sefid,Zirab,Raja Railways
+Qaemshahr,Guni - Ye Bafi,RAI (State Railways)
+Qaemshahr,Sari,Raja Railways
+Qaemshahr,Shirgah,RAI (State Railways)
+Qaemshahr,Shirgah,Raja Railways
+Qarun,Bisheh,RAI (State Railways)
+Qarun,Dorud,RAI (State Railways)
+Qazvin,Abyek,Mahtab Seir Jam
+Qazvin,Abyek,Raja Railways
+Qazvin,Hashtgerd,Raja Railways
+Qazvin,Karaj,Bon Rail
+Qazvin,Karaj,Fadak Trains
+Qazvin,Karaj,Raja Railways
+Qazvin,Rasht,Raja Railways
+Qazvin,Takestan,Raja Railways
+Qazvin,Zanjan,Bon Rail
+Qazvin,Zanjan,Raja Railways
+Qods,Ahvaz,RAI (State Railways)
+Qom,Eslamshahr,Raja Railways
+Qom,Semnan,Bon Rail
+Qom,Semnan,Fadak Trains
+Qom,Varamin,Fadak Trains
+Qom,Varamin,Saba Rail
+Qom - Mohammadyeh,Kashan,Bon Rail
+Qom - Mohammadyeh,Kashan,Joupar Rail
+Qom - Mohammadyeh,Kashan,Raja Railways
+Qom - Mohammadyeh,Semnan,Raja Railways
+Qom - Mohammadyeh,Tehran,Bon Rail
+Qom - Mohammadyeh,Tehran,Joupar Rail
+Qom - Mohammadyeh,Tehran,Noor Rail
+Qom - Mohammadyeh,Tehran,Raja Railways
+Rasht,Qazvin,Fadak Trains
+Rey,Bahram,RAI (State Railways)
+Rey,Tehran,Mahtab Seir Jam
+Rey,Tehran,RAI (State Railways)
+Rey,Tehran,Raja Railways
+Rey,Varamin,RAI (State Railways)
+Rey,Varamin,Raja Railways
+Robat - E Posht - E Badam,Tabas,Bon Rail
+Robat - E Posht - E Badam,Tabas,Ksar Rail
+Robat Karim,Parand,RAI (State Railways)
+Rostam Kola,Behshahr,RAI (State Railways)
+Rostam Kola,Behshahr,Raja Railways
+Rostam Kola,Neka,RAI (State Railways)
+Rostam Kola,Neka,Raja Railways
+Saadatshahr,Safashahr,Raja Railways
+Saadatshahr,Shiraz,Raja Railways
+Sabz Dasht,Bandar Torkaman,RAI (State Railways)
+Sabz Dasht,Bandar Torkaman,Raja Railways
+Sabz Dasht,Gorgan,RAI (State Railways)
+Sabz Dasht,Gorgan,Raja Railways
+Sabz Dasht,Yampi,Raja Railways
+Sabzab,Andimeshk,RAI (State Railways)
+Sabzab,Shush,RAI (State Railways)
+Sabzevar,Bayhaq,Raja Railways
+Sabzevar,Mashad,Mahtab Seir Jam
+Sabzevar,Neqab,Raja Railways
+Sabzevar,Neyshabur,Raja Railways
+Safashahr,Eghlid,Raja Railways
+Safashahr,Saadatshahr,Raja Railways
+Sahand,Maragheh,Raja Railways
+Sahlan,Marand,Raja Railways
+Sahlan,Tabriz,Raja Railways
+Salam,Mashad,Raja Railways
+Salam,Sarakhs,Raja Railways
+Sar - E Bandar,Gargar,RAI (State Railways)
+Sar - E Bandar,Mehshahr,RAI (State Railways)
+Saraju,Sahand,Raja Railways
+Sarakhs,Salam,Raja Railways
+Sari,Guni - Ye Bafi,RAI (State Railways)
+Sari,Guni - Ye Bafi,Raja Railways
+Sari,Neka,Raja Railways
+Sari,Nowbakht,RAI (State Railways)
+Sari,Nowbakht,Raja Railways
+Sari,Qaemshahr,Raja Railways
+Savadkuh,Pole - E Sefid,Raja Railways
+Savadkuh,Sorkhabad,Raja Railways
+Saveh,Hamedan,Bon Rail
+Saveh,Semnan,Raja Railways
+Semnan,Arak,Bon Rail
+Semnan,Damghan,Bon Rail
+Semnan,Damghan,Fadak Trains
+Semnan,Damghan,Noor Rail
+Semnan,Damghan,Raja Railways
+Semnan,Garmsar,Bon Rail
+Semnan,Garmsar,Fadak Trains
+Semnan,Garmsar,Raja Railways
+Semnan,Neyshabur,Bon Rail
+Semnan,Neyshabur,Fadak Trains
+Semnan,Neyshabur,Parse Rail
+Semnan,Qom,Raja Railways
+Semnan,Qom,Saba Rail
+Semnan,Rey,Mahtab Seir Jam
+Semnan,Saveh,Bon Rail
+Semnan,Shahrud,Fadak Trains
+Semnan,Shahrud,Mahtab Seir Jam
+Semnan,Shahrud,Raja Railways
+Semnan,Shahrud,Saba Rail
+Semnan,Tehran,Noor Rail
+Semnan,Tehran,Parse Rail
+Semnan,Varamin,Fadak Trains
+Semnan,Varamin,Mahtab Seir Jam
+Semnan,Varamin,Raja Railways
+Semnan,Yatri,Raja Railways
+Sepiddasht,Andimeshk,Bon Rail
+Sepiddasht,Andimeshk,Raja Railways
+Sepiddasht,Bisheh,Mahtab Seir Jam
+Sepiddasht,Bisheh,RAI (State Railways)
+Sepiddasht,Bisheh,Raja Railways
+Sepiddasht,Chamsangar,Bon Rail
+Sepiddasht,Chamsangar,RAI (State Railways)
+Sepiddasht,Dorud,Bon Rail
+Shahbazan,Mazu,RAI (State Railways)
+Shahbazan,Taleh Zang,RAI (State Railways)
+Shahreza,Abadeh,Raja Railways
+Shahreza,Sistan,Raja Railways
+Shahrud,Azadur,Raja Railways
+Shahrud,Damghan,Fadak Trains
+Shahrud,Damghan,Raja Railways
+Shahrud,Jajarm,Raja Railways
+Shahrud,Jovin,Raja Railways
+Shahrud,Mashad,Fadak Trains
+Shahrud,Mashad,Raja Railways
+Shahrud,Neqab,Bon Rail
+Shahrud,Neqab,Fadak Trains
+Shahrud,Neqab,Mahtab Seir Jam
+Shahrud,Neqab,Raja Railways
+Shahrud,Neqab,Saba Rail
+Shahrud,Sabzevar,Mahtab Seir Jam
+Shahrud,Semnan,Bon Rail
+Shahrud,Semnan,Fadak Trains
+Shahrud,Semnan,Mahtab Seir Jam
+Shahrud,Semnan,Noor Rail
+Shahrud,Semnan,Parse Rail
+Shahrud,Semnan,Raja Railways
+Shahrud,Semnan,Saba Rail
+Shahrud,Tehran,Raja Railways
+Shahrud,Tehran,Saba Rail
+Shahrud,Varamin,Raja Railways
+Shazand,Arak,Bon Rail
+Shazand,Arak,Mahtab Seir Jam
+Shazand,Arak,Raja Railways
+Shazand,Momen Abad,Raja Railways
+Shazand,Nourabad,Bon Rail
+Shiraz,Saadatshahr,Raja Railways
+Shirgah,Qaemshahr,RAI (State Railways)
+Shirgah,Qaemshahr,Raja Railways
+Shirgah,Sari,RAI (State Railways)
+Shirgah,Sari,Raja Railways
+Shirgah,Zirab,RAI (State Railways)
+Shirgah,Zirab,Raja Railways
+Shush,Andimeshk,Bon Rail
+Shush,Andimeshk,Raja Railways
+Shush,Haft Tappeh,Bon Rail
+Shush,Haft Tappeh,RAI (State Railways)
+Shush,Haft Tappeh,Raja Railways
+Shush,Sabzab,RAI (State Railways)
+Simindasht,Garmsar,Raja Railways
+Simindasht,Kabutardarreh,RAI (State Railways)
+Simindasht,Kabutardarreh,Raja Railways
+Simindasht,Zarrindasht,RAI (State Railways)
+Simindasht,Zarrindasht,Raja Railways
+Siriz,Bafgh,Bon Rail
+Siriz,Bafgh,Raja Railways
+Siriz,Bafgh Mobarakeh,Bon Rail
+Siriz,Kerman,Bon Rail
+Siriz,Zarand,Bon Rail
+Sirjan,Bandar Abbas,Ksar Rail
+Sirjan,Bandar Abbas,Raja Railways
+Sirjan,Khatun Abad,Joupar Rail
+Sirjan,Khatun Abad,Ksar Rail
+Sirjan,Khatun Abad,Raja Railways
+Sirjan,Tezerj,Joupar Rail
+Sirjan,Tezerj,Raja Railways
+Sistan,Charizeh,Raja Railways
+Sistan,Esfahan,Raja Railways
+Sistan,Espidan,Noor Rail
+Sistan,Meybod,Raja Railways
+Sistan,Shahreza,Raja Railways
+Somayeh,Momen Abad,Bon Rail
+Sorkhabad,Savadkuh,Raja Railways
+Sorkhabad,Veresk,Raja Railways
+Tabas,Ahmadabad,Ksar Rail
+Tabas,Bafgh,Ksar Rail
+Tabas,Bahabad,Bon Rail
+Tabas,Bajestan,Bon Rail
+Tabas,Boshruyeh,Ksar Rail
+Tabas,Mashad,Raja Railways
+Tabas,Torbat - E Heydarieh,Ksar Rail
+Tabas,Varzaneh,Raja Railways
+Tabas,Yazd,Raja Railways
+Tabriz,Sahlan,Raja Railways
+Tabriz,Zarei,Bon Rail
+Tabriz,Zarei,Raja Railways
+Takestan,Khorramdarreh,Raja Railways
+Takestan,Qazvin,Bon Rail
+Takestan,Qazvin,Raja Railways
+Taleh Zang,Shahbazan,RAI (State Railways)
+Taleh Zang,Tang - E Panj,RAI (State Railways)
+Tang - E Haft,Keshvar,RAI (State Railways)
+Tang - E Haft,Tang - E Panj,Bon Rail
+Tang - E Haft,Tang - E Panj,RAI (State Railways)
+Tang - E Panj,Mazu,Bon Rail
+Tang - E Panj,Taleh Zang,RAI (State Railways)
+Tang - E Panj,Tang - E Haft,RAI (State Railways)
+Tappeh Sefid,Eslamshahr,RAI (State Railways)
+Tehran,Arak,Raja Railways
+Tehran,Damghan,Noor Rail
+Tehran,Eslamshahr,Bon Rail
+Tehran,Eslamshahr,Raja Railways
+Tehran,Garmsar,Parse Rail
+Tehran,Garmsar,Raja Railways
+Tehran,Garmsar,Saba Rail
+Tehran,Hashtgerd,Raja Railways
+Tehran,Karaj,Bon Rail
+Tehran,Karaj,Mahtab Seir Jam
+Tehran,Karaj,Raja Railways
+Tehran,Kashan,Noor Rail
+Tehran,Kashan,Raja Railways
+Tehran,Kashan,Saba Rail
+Tehran,Neqab,Bon Rail
+Tehran,Neqab,Noor Rail
+Tehran,Qom,Raja Railways
+Tehran,Qom - Mohammadyeh,Bon Rail
+Tehran,Qom - Mohammadyeh,Joupar Rail
+Tehran,Qom - Mohammadyeh,Raja Railways
+Tehran,Rey,RAI (State Railways)
+Tehran,Rey,Raja Railways
+Tehran,Semnan,Bon Rail
+Tehran,Semnan,Fadak Trains
+Tehran,Semnan,Mahtab Seir Jam
+Tehran,Semnan,Noor Rail
+Tehran,Semnan,Raja Railways
+Tehran,Shahrud,Fadak Trains
+Tehran,Tappeh Sefid,RAI (State Railways)
+Tehran,Varamin,Raja Railways
+Tezerj,Kaheh,Joupar Rail
+Tezerj,Sirjan,Ksar Rail
+Tezerj,Sirjan,Raja Railways
+Tezerj,Zadmahmoud,Joupar Rail
+Tezerj,Zadmahmoud,Raja Railways
+Tir Tash,Bandar Gaz,RAI (State Railways)
+Tir Tash,Behshahr,RAI (State Railways)
+Tir Tash,Galugah,RAI (State Railways)
+Tir Tash,Galugah,Raja Railways
+Torbat - E Heydarieh,Bajestan,Raja Railways
+Torbat - E Heydarieh,Kashmar,Bon Rail
+Torbat - E Heydarieh,Kashmar,Ksar Rail
+Torbat - E Heydarieh,Kashmar,Raja Railways
+Torbat - E Heydarieh,Khaf,Raja Railways
+Torbat - E Heydarieh,Mashad,Ksar Rail
+Torbat - E Heydarieh,Tabas,Bon Rail
+Torbat - E Heydarieh,Tabas,Ksar Rail
+Urmia,Miandoab,Raja Railways
+Varamin,Arak,Raja Railways
+Varamin,Bahram,RAI (State Railways)
+Varamin,Garmsar,RAI (State Railways)
+Varamin,Garmsar,Raja Railways
+Varamin,Pishva,RAI (State Railways)
+Varamin,Pishva,Raja Railways
+Varamin,Qom,Fadak Trains
+Varamin,Qom - Mohammadyeh,Raja Railways
+Varamin,Rey,RAI (State Railways)
+Varamin,Rey,Raja Railways
+Varamin,Semnan,Fadak Trains
+Varamin,Semnan,Raja Railways
+Varamin,Semnan,Saba Rail
+Varamin,Tehran,Fadak Trains
+Varamin,Tehran,Mahtab Seir Jam
+Varamin,Tehran,Raja Railways
+Varzaneh,Harand,Raja Railways
+Veresk,Firouzkuh,Raja Railways
+Veresk,Pole - E Sefid,Raja Railways
+Veresk,Sorkhabad,Raja Railways
+Yampi,Petrochemie,Raja Railways
+Yampi,Sabz Dasht,Raja Railways
+Yatri,Garmsar,Raja Railways
+Yatri,Semnan,Raja Railways
+Yazd,Ardekan,Raja Railways
+Yazd,Bafgh,Bon Rail
+Yazd,Bafgh,Joupar Rail
+Yazd,Bafgh,Ksar Rail
+Yazd,Bafgh,Raja Railways
+Yazd,Meybod,Bon Rail
+Yazd,Meybod,Joupar Rail
+Yazd,Meybod,Raja Railways
+Yazd,Tabas,Raja Railways
+Zadmahmoud,Bandar Abbas,Joupar Rail
+Zadmahmoud,Bandar Abbas,Raja Railways
+Zadmahmoud,Tezerj,Joupar Rail
+Zadmahmoud,Tezerj,Raja Railways
+Zahedan,Fahraj,Raja Railways
+Zanjan,Khorramdarreh,Bon Rail
+Zanjan,Khorramdarreh,Raja Railways
+Zanjan,Mianeh,Bon Rail
+Zanjan,Mianeh,Raja Railways
+Zanjan,Qazvin,Raja Railways
+Zanjan,Takestan,Bon Rail
+Zarand,Bafgh,Raja Railways
+Zarand,Kerman,Bon Rail
+Zarand,Kerman,Raja Railways
+Zarand,Siriz,Bon Rail
+Zarand,Siriz,Raja Railways
+Zarei,Azarshahr,Bon Rail
+Zarei,Azarshahr,Raja Railways
+Zarei,Tabriz,Raja Railways
+Zarrindasht,Firouzkuh,Raja Railways
+Zarrindasht,Garmsar,Raja Railways
+Zarrindasht,Mahabad,RAI (State Railways)
+Zarrindasht,Simindasht,RAI (State Railways)
+Zarrindasht,Simindasht,Raja Railways
+Zavareh,Badrud,Bon Rail
+Zavareh,Badrud,Joupar Rail
+Zavareh,Nain,Bon Rail
+Zavareh,Nain,Joupar Rail
+Ziaran,Qazvin,Raja Railways
+Zirab,Pole - E Sefid,RAI (State Railways)
+Zirab,Pole - E Sefid,Raja Railways
+Zirab,Shirgah,RAI (State Railways)
+Zirab,Shirgah,Raja Railways

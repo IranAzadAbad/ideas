@@ -1,0 +1,56 @@
+name,iata,icao,city,province,international,lat,lng
+Imam Khomeini International Airport,IKA,OIIE,Tehran,Tehran,True,35.4161,51.1522
+Mehrabad International Airport,THR,OIII,Tehran,Tehran,True,35.6892,51.3134
+Shahid Hashemi Nejad International Airport,MHD,OIMM,Mashhad,Razavi Khorasan,True,36.2352,59.641
+Shahid Dastgheib International Airport,SYZ,OISS,Shiraz,Fars,True,29.5392,52.5898
+Shahid Beheshti International Airport,IFN,OIFM,Isfahan,Isfahan,True,32.7508,51.8613
+Tabriz International Airport,TBZ,OITT,Tabriz,East Azerbaijan,True,38.1339,46.235
+Lt. Gen. Qasem Soleimani International Airport,AWZ,OIAW,Ahvaz,Khuzestan,True,31.3374,48.762
+Kish International Airport,KIH,OIBK,Kish Island,Hormozgan,True,26.5262,53.9802
+Bandar Abbas International Airport,BND,OIKB,Bandar Abbas,Hormozgan,True,27.2183,56.2378
+Shahid Ashrafi Esfahani Airport,KSH,OICC,Kermanshah,Kermanshah,True,34.3459,47.1581
+Sardar-e Jangal Airport,RAS,OIGG,Rasht,Gilan,True,37.3233,49.6178
+Shahid Sadooghi Airport,AZD,OIYY,Yazd,Yazd,True,31.905,54.2765
+Urmia Airport,OMH,OITR,Urmia,West Azerbaijan,True,37.6681,45.0687
+Zahedan International Airport,ZAH,OIZH,Zahedan,Sistan and Baluchestan,True,29.4757,60.9062
+Ayatollah Hashemi Rafsanjani International Airport,KER,OIKK,Kerman,Kerman,True,30.2744,56.9511
+Bushehr Airport,BUZ,OIBB,Bushehr,Bushehr,True,28.9448,50.8346
+Dasht-e Naz International Airport,SRY,OINZ,Sari,Mazandaran,True,36.6358,53.1936
+Ardabil Airport,ADU,OITL,Ardabil,Ardabil,True,38.3257,48.4244
+Chabahar Konarak International Airport,ZBR,OIZC,Chabahar,Sistan and Baluchestan,True,25.4433,60.3821
+Abadan Airport,ABD,OIAA,Abadan,Khuzestan,True,30.3711,48.2283
+Gorgan Airport,GBT,OING,Gorgan,Golestan,False,36.9094,54.4013
+Lar Airport,LRR,OISL,Lar,Fars,True,27.6747,54.3833
+Bandar Lengeh International Airport,BDH,OIBL,Bandar Lengeh,Hormozgan,True,26.532,54.8249
+Dezful Airport,DEF,OIAD,Dezful,Khuzestan,False,32.4344,48.3956
+Hamedan International Airport,HDM,OIHH,Hamadan,Hamadan,True,34.8692,48.5525
+Qeshm International Airport,GSM,OIKQ,Qeshm Island,Hormozgan,True,26.7546,55.9024
+Persian Gulf International Airport,PGU,OIBP,Asaluyeh,Bushehr,True,27.3796,52.7374
+Mahshahr Airport,MRX,OIAM,Mahshahr,Khuzestan,False,30.5562,49.1519
+Sanandaj Airport,SDG,OICS,Sanandaj,Kurdistan,False,35.2459,47.0092
+Ilam Airport,IIL,OICI,Ilam,Ilam,False,33.5866,46.4048
+Birjand International Airport,XBJ,OIMB,Birjand,South Khorasan,True,32.8981,59.2661
+Bojnord Airport,BJB,OIMN,Bojnord,North Khorasan,False,37.493,57.3082
+Khorramabad Airport,KHD,OICK,Khorramabad,Lorestan,False,33.4354,48.2829
+Shahrekord Airport,CQD,OIFS,Shahrekord,Chaharmahal and Bakhtiari,False,32.2972,50.8422
+Sabzevar Airport,AFZ,OIMS,Sabzevar,Razavi Khorasan,False,36.1681,57.5952
+Rafsanjan Airport,RJN,OIKR,Rafsanjan,Kerman,False,30.2977,56.0511
+Ramsar Airport,RZR,OINR,Ramsar,Mazandaran,False,36.9099,50.6796
+Sirjan Airport,SYJ,OIKY,Sirjan,Kerman,False,29.5509,55.6727
+Gachsaran Airport,GCH,OIAH,Gachsaran,Kohgiluyeh and Boyer-Ahmad,False,30.3376,50.828
+Payam International Airport,PYK,OIIP,Karaj,Alborz,True,35.7761,50.8267
+Parsabad-e Moghan Airport,PFQ,OITP,Parsabad,Ardabil,True,39.6036,47.8815
+Maku International Airport,IMQ,OITM,Maku,West Azerbaijan,True,39.3278,44.4361
+Siri Airport,SXI,OIBS,Siri Island,Hormozgan,False,25.9089,54.5394
+Khoy Airport,KHY,OITK,Khoy,West Azerbaijan,False,38.4275,44.9736
+Fasa Airport,FAZ,OISF,Fasa,Fars,False,28.8918,53.7233
+Arak Airport,AJK,OIHR,Arak,Markazi,False,34.1381,49.8473
+Iranshahr Airport,IHR,OIZI,Iranshahr,Sistan and Baluchestan,False,27.2361,60.72
+Zabol Airport,ACZ,OIZB,Zabol,Sistan and Baluchestan,False,31.0983,61.5439
+Jiroft Airport,JYR,OIKJ,Jiroft,Kerman,False,28.7269,57.6703
+Lavan Airport,LVP,OIBV,Lavan Island,Hormozgan,False,26.8103,53.3564
+Zanjan Airport,JWN,OITZ,Zanjan,Zanjan,False,36.7736,48.3594
+Noshahr Airport,NSH,OINN,Noshahr,Mazandaran,False,36.6633,51.4647
+Lamerd Airport,LFM,OISR,Lamerd,Fars,False,27.3727,53.1888
+Khark Island Airport,KHK,OIBQ,Khark Island,Bushehr,False,29.2601,50.3239
+Abu Musa Airport,AEU,OIBA,Abu Musa Island,Hormozgan,False,25.8757,55.033
