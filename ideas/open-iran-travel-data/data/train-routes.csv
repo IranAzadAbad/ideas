@@ -1,0 +1,211 @@
+train_number,origin,destination,departure,arrival,operator,services
+118,Tehran,Ahvaz,15:15,06:40,RAJA,couchette|sleeping car
+119,Ahvaz,Tehran,14:20,06:10,RAJA,couchette|sleeping car
+120,Tehran,Qom,05:15,07:05,RAJA,seat
+121,Qom,Tehran,09:05,11:15,RAJA,seat
+124,Tehran,Qom,10:10,12:00,RAJA,seat
+125,Qom,Tehran,15:00,17:05,RAJA,seat
+126,Tehran,Qom,15:00,16:50,RAJA,seat
+127,Qom,Tehran,18:30,20:35,RAJA,seat
+128,Tehran,Qom,17:45,19:35,RAJA,seat
+129,Qom,Tehran,20:45,22:50,RAJA,seat
+130,Tehran,Khorramshahr,16:50,10:30,BON,sleeping car
+131,Khorramshahr,Tehran,16:20,09:45,BON,sleeping car
+164,Qom,Mashad,12:15,01:55,SAB,sleeping car
+165,Mashad,Qom,16:10,06:10,SAB,sleeping car
+166,Qom,Mashad,15:45,05:25,SAB,sleeping car
+167,Mashad,Qom,20:45,10:20,SAB,sleeping car
+170,Tehran,Sanandaj,11:25,18:25,BON,sleeping car
+171,Sanandaj,Tehran,21:10,04:00,BON,sleeping car
+178,Arak,Mashad,19:55,12:05,RAJA,couchette|sleeping car
+179,Mashad,Arak,22:00,14:20,RAJA,couchette|sleeping car
+180,Ahvaz,Mashad,11:20,14:15,MAH,couchette|sleeping car
+181,Mashad,Ahvaz,01:10,04:00,BON,couchette|sleeping car
+182,Malayer,Mashad,20:30,15:10,RAJA,couchette|sleeping car
+183,Mashad,Malayer,21:55,16:15,RAJA,couchette|sleeping car
+184,Qom,Mashad,11:15,01:05,BON,couchette|sleeping car
+185,Mashad,Qom,10:55,00:50,RAJA,couchette|sleeping car
+188,Ahvaz,Mashad,16:45,19:55,RAJA,couchette|sleeping car
+189,Mashad,Ahvaz,07:00,10:00,RAJA,couchette|sleeping car
+190,Qom,Mashad,19:20,09:05,FADAK,sleeping car
+191,Mashad,Qom,12:55,02:30,FADAK,sleeping car
+192,Hamedan,Mashad,18:25,09:50,RAJA,couchette|sleeping car
+193,Mashad,Hamedan,14:35,06:30,BON,couchette|sleeping car
+196,Qom,Mashad,14:35,04:15,FADAK,sleeping car
+197,Mashad,Qom,16:35,06:35,FADAK,sleeping car
+198,Kermanshah,Mashad,17:10,15:15,RAJA,couchette|sleeping car
+199,Mashad,Kermanshah,14:10,11:35,RAJA,couchette|sleeping car
+218,Tehran,Sari,07:50,15:45,RAJA,seat|couchette
+219,Sari,Tehran,18:30,02:05,RAJA,seat|couchette
+220,Tehran,Gorgan,21:10,07:40,RAJA,couchette|sleeping car
+221,Gorgan,Tehran,17:25,03:50,RAJA,couchette|sleeping car
+280,Sari,Mashad,13:00,04:55,RAJA,couchette|sleeping car
+281,Mashad,Sari,14:15,06:00,RAJA,couchette|sleeping car
+318,Tehran,Mashad,07:05,19:05,RAJA,seat
+319,Mashad,Tehran,07:35,20:00,RAJA,seat
+320,Tehran,Mashad,19:50,06:50,RAJA,sleeping car
+321,Mashad,Tehran,17:15,04:15,RAJA,sleeping car
+322,Tehran,Mashad,20:10,07:05,RAJA,sleeping car
+323,Mashad,Tehran,23:05,10:00,RAJA,sleeping car
+324,Tehran,Mashad,18:55,05:55,NOO,sleeping car
+325,Mashad,Tehran,18:25,05:55,NOO,sleeping car
+326,Semnan,Mashad,12:30,19:15,RAJA,couchette
+327,Mashad,Semnan,23:40,04:50,RAJA,couchette
+328,Tehran,Mashad,22:55,09:25,MAH,couchette
+329,Mashad,Tehran,00:10,11:15,MAH,couchette
+330,Tehran,Mashad,16:15,03:05,RAJA,couchette
+331,Mashad,Tehran,10:25,21:50,RAJA,couchette
+332,Tehran,Mashad,19:15,06:20,RAJA,
+333,Mashad,Tehran,18:00,05:30,RAJA,
+340,Tehran,Mashad,21:30,08:05,BON,sleeping car
+341,Mashad,Tehran,20:20,07:20,BON,sleeping car
+346,Tehran,Mashad,21:50,08:25,FADAK,sleeping car
+347,Mashad,Tehran,21:35,08:35,FADAK,sleeping car
+348,Tehran,Mashad,20:10,07:05,SAB,sleeping car
+349,Mashad,Tehran,22:30,09:25,SAB,couchette
+350,Tehran,Mashad,00:25,11:05,SAB,couchette
+351,Mashad,Tehran,00:10,11:15,MAH,couchette
+354,Tehran,Mashad,18:00,04:55,MAH,couchette
+355,Mashad,Tehran,15:50,02:55,KSR,couchette
+356,Tehran,Khaf,11:45,00:55,RAJA,couchette|sleeping car
+357,Khaf,Tehran,16:00,05:25,RAJA,couchette|sleeping car
+358,Tehran,Tabas,11:45,02:55,RAJA,couchette|sleeping car
+359,Tabas,Tehran,13:35,05:25,RAJA,couchette|sleeping car
+366,Tehran,Mashad,20:55,07:35,NOO,sleeping car
+367,Mashad,Tehran,19:15,06:40,NOO,sleeping car
+368,Tehran,Mashad,15:55,02:20,RAJA,couchette|sleeping car
+369,Mashad,Tehran,15:05,01:45,RAJA,couchette|sleeping car
+384,Tehran,Mashad,22:10,08:45,PAR,sleeping car
+385,Mashad,Tehran,17:35,04:35,PAR,sleeping car
+390,Tehran,Mashad,17:10,03:30,RAJA,couchette|sleeping car
+391,Mashad,Tehran,23:25,10:30,RAJA,couchette|sleeping car
+392,Tehran,Mashad,22:55,09:20,KSR,sleeping car
+393,Mashad,Tehran,21:10,08:15,KSR,sleeping car
+394,Tehran,Mashad,14:55,01:30,RAJA,sleeping car
+395,Mashad,Tehran,23:05,10:00,RAJA,sleeping car
+422,Tehran,Maragheh,23:35,10:25,RAJA,couchette
+423,Maragheh,Tehran,23:45,10:10,RAJA,couchette
+424,Tehran,Urmia,23:40,13:25,RAJA,couchette|sleeping car
+425,Urmia,Tehran,16:00,06:10,RAJA,couchette|sleeping car
+432,Tehran,Tabriz,18:45,07:35,RAJA,sleeping car
+433,Tabriz,Tehran,22:00,10:20,RAJA,sleeping car
+450,Tehran,Mianeh,05:50,11:40,RAJA,seat
+451,Mianeh,Tehran,15:50,22:15,RAJA,seat
+452,Tehran,Mianeh,16:45,22:50,RAJA,seat
+453,Mianeh,Tehran,05:25,11:25,RAJA,seat
+454,Tehran,Tabriz-Khavaran,22:35,08:30,RAJA,sleeping car
+455,Tabriz-Khavaran,Tehran,19:00,05:10,RAJA,sleeping car
+456,Tehran,Qazvin,17:15,19:25,RAJA,seat
+457,Qazvin,Tehran,04:50,07:00,RAJA,seat
+458,Tehran,Qazvin,19:15,21:25,RAJA,seat
+459,Qazvin,Tehran,06:00,08:10,RAJA,seat
+460,Tehran,Zanjan,07:00,11:00,RAJA,seat
+461,Zanjan,Tehran,16:35,20:30,RAJA,seat
+474,Rasht,Mashad,17:50,10:10,FADAK,seat|sleeping car
+475,Mashad,Rasht,19:42,12:00,RAJA,seat|sleeping car
+480,Tabriz,Mashad,13:35,13:30,RAJA,couchette|sleeping car
+481,Mashad,Tabriz,06:05,06:30,RAJA,couchette|sleeping car
+482,Zanjan,Mashad,23:30,16:15,RAJA,couchette|sleeping car
+483,Mashad,Zanjan,01:35,18:30,RAJA,couchette|sleeping car
+484,Qazvin,Mashad,10:50,00:35,MAH,couchette
+485,Mashad,Qazvin,13:15,02:50,MAH,couchette
+486,Karaj,Mashad,13:45,01:20,RAJA,couchette|sleeping car
+487,Mashad,Karaj,21:15,09:20,RAJA,couchette|sleeping car
+488,Tabriz,Mashad,14:55,14:35,RAJA,sleeping car
+489,Mashad,Tabriz,09:25,09:35,RAJA,sleeping car
+490,Zanjan,Mashad,14:30,06:25,BON,sleeping car
+491,Mashad,Zanjan,13:25,05:30,RAJA,sleeping car
+492,Zanjan,Mashad,00:30,17:10,SAB,couchette
+493,Mashad,Zanjan,01:35,18:25,SAB,couchette
+494,Urmia,Mashad,14:10,14:35,RAJA,sleeping car
+495,Mashad,Urmia,09:25,10:00,RAJA,sleeping car
+524,Tehran,Shiraz,19:25,11:00,RAJA,couchette|sleeping car
+525,Shiraz,Tehran,16:55,08:00,RAJA,couchette|sleeping car
+532,Esfahan,Bandar Abbas,15:05,07:30,RAJA,sleeping car
+533,Bandar Abbas,Esfahan,13:55,06:25,RAJA,sleeping car
+580,Esfahan,Mashad,17:55,12:30,NOO,sleeping car
+581,Mashad,Esfahan,13:35,08:35,NOO,sleeping car
+582,Kashan,Mashad,21:45,11:55,RAJA,sleeping car
+583,Mashad,Kashan,21:00,11:10,RAJA,sleeping car
+584,Esfahan,Mashad,15:55,10:45,NOO,sleeping car
+585,Mashad,Esfahan,15:30,10:40,SAB,sleeping car
+586,Shiraz,Mashad,15:50,00:35,RAJA,sleeping car
+587,Mashad,Shiraz,06:05,08:55,RAJA,sleeping car
+588,Esfahan,Mashad,09:55,05:20,RAJA,couchette|sleeping car
+589,Mashad,Esfahan,09:55,05:25,RAJA,couchette|sleeping car
+620,Tehran,Yazd,23:25,07:35,RAJA,couchette
+621,Yazd,Tehran,21:30,05:20,RAJA,couchette
+624,Tehran,Yazd,16:15,23:15,RAJA,seat
+625,Yazd,Tehran,06:25,08:05,RAJA,seat
+680,Yazd,Mashad,15:00,05:40,KSR,sleeping car
+681,Mashad,Yazd,19:50,09:15,KSR,sleeping car
+682,Yazd,Mashad,15:05,05:40,RAJA,sleeping car
+683,Mashad,Yazd,18:45,09:10,RAJA,sleeping car
+706,Tehran,Hashtgerd,06:30,07:50,RAJA,seat
+707,Hashtgerd,Tehran,08:10,09:30,RAJA,seat
+710,Tehran,Hashtgerd,18:10,19:30,RAJA,seat
+711,Hashtgerd,Tehran,04:20,05:40,RAJA,seat
+720,Tehran,Kerman,20:00,08:05,BON,sleeping car
+721,Kerman,Tehran,13:55,03:45,BON,sleeping car
+724,Tehran,Zahedan,10:35,09:00,RAJA,sleeping car
+725,Zahedan,Tehran,13:45,11:50,RAJA,couchette
+728,Zahedan,Khash,15:05,17:25,RAJA,seat
+729,Khash,Zahedan,07:30,09:50,RAJA,seat
+730,Tehran,Qom,21:25,23:15,RAJA,seat
+731,Qom,Tehran,05:05,07:10,RAJA,seat
+736,Tehran,Hashtgerd,14:35,15:55,RAJA,seat
+737,Hashtgerd,Tehran,17:45,19:05,RAI,seat
+740,Tehran,Hashtgerd,04:30,05:50,RAJA,seat
+741,Hashtgerd,Tehran,06:25,07:45,RAJA,seat
+742,Tehran,Takestan,20:00,23:00,RAJA,seat
+743,Takestan,Tehran,06:00,08:35,RAJA,seat
+780,Kerman,Mashad,15:00,07:20,BON,sleeping car
+781,Mashad,Kerman,13:55,06:15,BON,sleeping car
+782,Tehran,Parand,17:25,18:30,RAJA,seat
+783,Parand,Tehran,18:50,20:00,RAJA,seat
+820,Tehran,Bandar Abbas,12:15,08:35,JOO,couchette
+821,Bandar Abbas,Tehran,12:15,08:55,JOO,couchette
+822,Tehran,Bandar Abbas,14:25,10:30,RAJA,sleeping car
+823,Bandar Abbas,Tehran,14:55,10:50,RAJA,sleeping car
+880,Bandar Abbas,Mashad,15:55,13:10,KSR,couchette|sleeping car
+881,Mashad,Bandar Abbas,13:05,09:10,KSR,couchette|sleeping car
+902,Karun,Mehshahr,06:00,07:40,RAI,seat
+903,Mehshahr,Karun,08:30,10:10,RAI,seat
+910,Khorramshahr,Ahvaz,04:00,08:00,RAI,seat
+911,Ahvaz,Khorramshahr,18:55,20:45,RAI,seat
+914,Andimeshk,Dorud,05:20,10:45,RAI,seat
+915,Dorud,Andimeshk,14:25,20:00,RAI,seat
+916,Tehran,Pishva,02:55,03:45,RAI,seat
+917,Pishva,Tehran,05:15,06:10,RAI,seat
+918,Tehran,Pishva,08:15,09:05,RAI,seat
+919,Pishva,Tehran,09:50,10:45,RAI,seat
+924,Tehran,Firouzkuh,11:15,15:10,RAI,seat
+925,Firouzkuh,Tehran,16:10,19:45,RAI,seat
+928,Andimeshk,Ahvaz,05:05,07:15,RAI,seat
+929,Ahvaz,Andimeshk,12:30,14:45,RAJA,seat
+930,Tehran,Garmsar,06:10,07:40,RAI,seat
+931,Garmsar,Tehran,08:10,09:45,RAI,seat
+934,Tehran,Garmsar,17:35,19:05,RAJA,seat
+935,Garmsar,Tehran,06:05,07:40,RAJA,seat
+936,Mashad,Sarakhs,10:40,13:15,RAJA,seat
+937,Sarakhs,Mashad,16:50,17:40,RAJA,seat
+938,Mashad,Sarakhs,19:00,22:00,RAJA,seat
+939,Sarakhs,Mashad,05:10,07:55,RAJA,seat
+940,Dorud,Andimeshk,06:00,11:15,RAI,seat
+941,Andimeshk,Dorud,12:05,17:45,RAI,seat
+944,Tabriz,Jolfa,08:30,11:15,RAJA,seat
+945,Jolfa,Tabriz,18:00,20:40,RAJA,seat
+960,Gorgan,Pole-e Sefid,03:10,08:15,RAI,seat
+961,Pole-e Sefid,Gorgan,12:45,18:05,RAI,seat
+962,Gorgan,Pole-e Sefid,14:30,19:15,RAI,seat
+963,Pole-e Sefid,Gorgan,05:00,09:40,RAI,seat
+976,Tehran,Garmsar,19:30,21:00,RAI,seat
+977,Garmsar,Tehran,04:05,05:40,RAJA,seat
+978,Gorgan,Incheh Baroon,10:30,11:50,RAJA,seat
+979,Incheh Baroon,Gorgan,14:30,15:50,RAJA,seat
+980,Andimeshk,Ahvaz,15:45,17:55,RAI,seat
+981,Ahvaz,Andimeshk,19:30,21:45,RAI,seat
+984,Tehran,Garmsar,15:30,17:00,RAJA,seat
+985,Garmsar,Tehran,17:30,19:05,RAJA,seat
+994,Tehran,Pishva,14:35,15:25,RAJA,seat
+995,Pishva,Tehran,15:45,16:40,RAI,seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat|bus|seat

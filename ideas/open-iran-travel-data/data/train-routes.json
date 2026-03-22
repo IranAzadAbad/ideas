@@ -1,0 +1,2509 @@
+[
+  {
+    "train_number": "118",
+    "origin": "Tehran",
+    "destination": "Ahvaz",
+    "departure": "15:15",
+    "arrival": "06:40",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "119",
+    "origin": "Ahvaz",
+    "destination": "Tehran",
+    "departure": "14:20",
+    "arrival": "06:10",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "120",
+    "origin": "Tehran",
+    "destination": "Qom",
+    "departure": "05:15",
+    "arrival": "07:05",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "121",
+    "origin": "Qom",
+    "destination": "Tehran",
+    "departure": "09:05",
+    "arrival": "11:15",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "124",
+    "origin": "Tehran",
+    "destination": "Qom",
+    "departure": "10:10",
+    "arrival": "12:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "125",
+    "origin": "Qom",
+    "destination": "Tehran",
+    "departure": "15:00",
+    "arrival": "17:05",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "126",
+    "origin": "Tehran",
+    "destination": "Qom",
+    "departure": "15:00",
+    "arrival": "16:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "127",
+    "origin": "Qom",
+    "destination": "Tehran",
+    "departure": "18:30",
+    "arrival": "20:35",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "128",
+    "origin": "Tehran",
+    "destination": "Qom",
+    "departure": "17:45",
+    "arrival": "19:35",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "129",
+    "origin": "Qom",
+    "destination": "Tehran",
+    "departure": "20:45",
+    "arrival": "22:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "130",
+    "origin": "Tehran",
+    "destination": "Khorramshahr",
+    "departure": "16:50",
+    "arrival": "10:30",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "131",
+    "origin": "Khorramshahr",
+    "destination": "Tehran",
+    "departure": "16:20",
+    "arrival": "09:45",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "164",
+    "origin": "Qom",
+    "destination": "Mashad",
+    "departure": "12:15",
+    "arrival": "01:55",
+    "operator": "SAB",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "165",
+    "origin": "Mashad",
+    "destination": "Qom",
+    "departure": "16:10",
+    "arrival": "06:10",
+    "operator": "SAB",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "166",
+    "origin": "Qom",
+    "destination": "Mashad",
+    "departure": "15:45",
+    "arrival": "05:25",
+    "operator": "SAB",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "167",
+    "origin": "Mashad",
+    "destination": "Qom",
+    "departure": "20:45",
+    "arrival": "10:20",
+    "operator": "SAB",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "170",
+    "origin": "Tehran",
+    "destination": "Sanandaj",
+    "departure": "11:25",
+    "arrival": "18:25",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "171",
+    "origin": "Sanandaj",
+    "destination": "Tehran",
+    "departure": "21:10",
+    "arrival": "04:00",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "178",
+    "origin": "Arak",
+    "destination": "Mashad",
+    "departure": "19:55",
+    "arrival": "12:05",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "179",
+    "origin": "Mashad",
+    "destination": "Arak",
+    "departure": "22:00",
+    "arrival": "14:20",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "180",
+    "origin": "Ahvaz",
+    "destination": "Mashad",
+    "departure": "11:20",
+    "arrival": "14:15",
+    "operator": "MAH",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "181",
+    "origin": "Mashad",
+    "destination": "Ahvaz",
+    "departure": "01:10",
+    "arrival": "04:00",
+    "operator": "BON",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "182",
+    "origin": "Malayer",
+    "destination": "Mashad",
+    "departure": "20:30",
+    "arrival": "15:10",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "183",
+    "origin": "Mashad",
+    "destination": "Malayer",
+    "departure": "21:55",
+    "arrival": "16:15",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "184",
+    "origin": "Qom",
+    "destination": "Mashad",
+    "departure": "11:15",
+    "arrival": "01:05",
+    "operator": "BON",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "185",
+    "origin": "Mashad",
+    "destination": "Qom",
+    "departure": "10:55",
+    "arrival": "00:50",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "188",
+    "origin": "Ahvaz",
+    "destination": "Mashad",
+    "departure": "16:45",
+    "arrival": "19:55",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "189",
+    "origin": "Mashad",
+    "destination": "Ahvaz",
+    "departure": "07:00",
+    "arrival": "10:00",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "190",
+    "origin": "Qom",
+    "destination": "Mashad",
+    "departure": "19:20",
+    "arrival": "09:05",
+    "operator": "FADAK",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "191",
+    "origin": "Mashad",
+    "destination": "Qom",
+    "departure": "12:55",
+    "arrival": "02:30",
+    "operator": "FADAK",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "192",
+    "origin": "Hamedan",
+    "destination": "Mashad",
+    "departure": "18:25",
+    "arrival": "09:50",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "193",
+    "origin": "Mashad",
+    "destination": "Hamedan",
+    "departure": "14:35",
+    "arrival": "06:30",
+    "operator": "BON",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "196",
+    "origin": "Qom",
+    "destination": "Mashad",
+    "departure": "14:35",
+    "arrival": "04:15",
+    "operator": "FADAK",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "197",
+    "origin": "Mashad",
+    "destination": "Qom",
+    "departure": "16:35",
+    "arrival": "06:35",
+    "operator": "FADAK",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "198",
+    "origin": "Kermanshah",
+    "destination": "Mashad",
+    "departure": "17:10",
+    "arrival": "15:15",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "199",
+    "origin": "Mashad",
+    "destination": "Kermanshah",
+    "departure": "14:10",
+    "arrival": "11:35",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "218",
+    "origin": "Tehran",
+    "destination": "Sari",
+    "departure": "07:50",
+    "arrival": "15:45",
+    "operator": "RAJA",
+    "services": [
+      "seat",
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "219",
+    "origin": "Sari",
+    "destination": "Tehran",
+    "departure": "18:30",
+    "arrival": "02:05",
+    "operator": "RAJA",
+    "services": [
+      "seat",
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "220",
+    "origin": "Tehran",
+    "destination": "Gorgan",
+    "departure": "21:10",
+    "arrival": "07:40",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "221",
+    "origin": "Gorgan",
+    "destination": "Tehran",
+    "departure": "17:25",
+    "arrival": "03:50",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "280",
+    "origin": "Sari",
+    "destination": "Mashad",
+    "departure": "13:00",
+    "arrival": "04:55",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "281",
+    "origin": "Mashad",
+    "destination": "Sari",
+    "departure": "14:15",
+    "arrival": "06:00",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "318",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "07:05",
+    "arrival": "19:05",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "319",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "07:35",
+    "arrival": "20:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "320",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "19:50",
+    "arrival": "06:50",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "321",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "17:15",
+    "arrival": "04:15",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "322",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "20:10",
+    "arrival": "07:05",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "323",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "23:05",
+    "arrival": "10:00",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "324",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "18:55",
+    "arrival": "05:55",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "325",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "18:25",
+    "arrival": "05:55",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "326",
+    "origin": "Semnan",
+    "destination": "Mashad",
+    "departure": "12:30",
+    "arrival": "19:15",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "327",
+    "origin": "Mashad",
+    "destination": "Semnan",
+    "departure": "23:40",
+    "arrival": "04:50",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "328",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "22:55",
+    "arrival": "09:25",
+    "operator": "MAH",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "329",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "00:10",
+    "arrival": "11:15",
+    "operator": "MAH",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "330",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "16:15",
+    "arrival": "03:05",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "331",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "10:25",
+    "arrival": "21:50",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "332",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "19:15",
+    "arrival": "06:20",
+    "operator": "RAJA",
+    "services": []
+  },
+  {
+    "train_number": "333",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "18:00",
+    "arrival": "05:30",
+    "operator": "RAJA",
+    "services": []
+  },
+  {
+    "train_number": "340",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "21:30",
+    "arrival": "08:05",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "341",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "20:20",
+    "arrival": "07:20",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "346",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "21:50",
+    "arrival": "08:25",
+    "operator": "FADAK",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "347",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "21:35",
+    "arrival": "08:35",
+    "operator": "FADAK",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "348",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "20:10",
+    "arrival": "07:05",
+    "operator": "SAB",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "349",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "22:30",
+    "arrival": "09:25",
+    "operator": "SAB",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "350",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "00:25",
+    "arrival": "11:05",
+    "operator": "SAB",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "351",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "00:10",
+    "arrival": "11:15",
+    "operator": "MAH",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "354",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "18:00",
+    "arrival": "04:55",
+    "operator": "MAH",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "355",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "15:50",
+    "arrival": "02:55",
+    "operator": "KSR",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "356",
+    "origin": "Tehran",
+    "destination": "Khaf",
+    "departure": "11:45",
+    "arrival": "00:55",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "357",
+    "origin": "Khaf",
+    "destination": "Tehran",
+    "departure": "16:00",
+    "arrival": "05:25",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "358",
+    "origin": "Tehran",
+    "destination": "Tabas",
+    "departure": "11:45",
+    "arrival": "02:55",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "359",
+    "origin": "Tabas",
+    "destination": "Tehran",
+    "departure": "13:35",
+    "arrival": "05:25",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "366",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "20:55",
+    "arrival": "07:35",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "367",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "19:15",
+    "arrival": "06:40",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "368",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "15:55",
+    "arrival": "02:20",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "369",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "15:05",
+    "arrival": "01:45",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "384",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "22:10",
+    "arrival": "08:45",
+    "operator": "PAR",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "385",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "17:35",
+    "arrival": "04:35",
+    "operator": "PAR",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "390",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "17:10",
+    "arrival": "03:30",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "391",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "23:25",
+    "arrival": "10:30",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "392",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "22:55",
+    "arrival": "09:20",
+    "operator": "KSR",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "393",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "21:10",
+    "arrival": "08:15",
+    "operator": "KSR",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "394",
+    "origin": "Tehran",
+    "destination": "Mashad",
+    "departure": "14:55",
+    "arrival": "01:30",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "395",
+    "origin": "Mashad",
+    "destination": "Tehran",
+    "departure": "23:05",
+    "arrival": "10:00",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "422",
+    "origin": "Tehran",
+    "destination": "Maragheh",
+    "departure": "23:35",
+    "arrival": "10:25",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "423",
+    "origin": "Maragheh",
+    "destination": "Tehran",
+    "departure": "23:45",
+    "arrival": "10:10",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "424",
+    "origin": "Tehran",
+    "destination": "Urmia",
+    "departure": "23:40",
+    "arrival": "13:25",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "425",
+    "origin": "Urmia",
+    "destination": "Tehran",
+    "departure": "16:00",
+    "arrival": "06:10",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "432",
+    "origin": "Tehran",
+    "destination": "Tabriz",
+    "departure": "18:45",
+    "arrival": "07:35",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "433",
+    "origin": "Tabriz",
+    "destination": "Tehran",
+    "departure": "22:00",
+    "arrival": "10:20",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "450",
+    "origin": "Tehran",
+    "destination": "Mianeh",
+    "departure": "05:50",
+    "arrival": "11:40",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "451",
+    "origin": "Mianeh",
+    "destination": "Tehran",
+    "departure": "15:50",
+    "arrival": "22:15",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "452",
+    "origin": "Tehran",
+    "destination": "Mianeh",
+    "departure": "16:45",
+    "arrival": "22:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "453",
+    "origin": "Mianeh",
+    "destination": "Tehran",
+    "departure": "05:25",
+    "arrival": "11:25",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "454",
+    "origin": "Tehran",
+    "destination": "Tabriz-Khavaran",
+    "departure": "22:35",
+    "arrival": "08:30",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "455",
+    "origin": "Tabriz-Khavaran",
+    "destination": "Tehran",
+    "departure": "19:00",
+    "arrival": "05:10",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "456",
+    "origin": "Tehran",
+    "destination": "Qazvin",
+    "departure": "17:15",
+    "arrival": "19:25",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "457",
+    "origin": "Qazvin",
+    "destination": "Tehran",
+    "departure": "04:50",
+    "arrival": "07:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "458",
+    "origin": "Tehran",
+    "destination": "Qazvin",
+    "departure": "19:15",
+    "arrival": "21:25",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "459",
+    "origin": "Qazvin",
+    "destination": "Tehran",
+    "departure": "06:00",
+    "arrival": "08:10",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "460",
+    "origin": "Tehran",
+    "destination": "Zanjan",
+    "departure": "07:00",
+    "arrival": "11:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "461",
+    "origin": "Zanjan",
+    "destination": "Tehran",
+    "departure": "16:35",
+    "arrival": "20:30",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "474",
+    "origin": "Rasht",
+    "destination": "Mashad",
+    "departure": "17:50",
+    "arrival": "10:10",
+    "operator": "FADAK",
+    "services": [
+      "seat",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "475",
+    "origin": "Mashad",
+    "destination": "Rasht",
+    "departure": "19:42",
+    "arrival": "12:00",
+    "operator": "RAJA",
+    "services": [
+      "seat",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "480",
+    "origin": "Tabriz",
+    "destination": "Mashad",
+    "departure": "13:35",
+    "arrival": "13:30",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "481",
+    "origin": "Mashad",
+    "destination": "Tabriz",
+    "departure": "06:05",
+    "arrival": "06:30",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "482",
+    "origin": "Zanjan",
+    "destination": "Mashad",
+    "departure": "23:30",
+    "arrival": "16:15",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "483",
+    "origin": "Mashad",
+    "destination": "Zanjan",
+    "departure": "01:35",
+    "arrival": "18:30",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "484",
+    "origin": "Qazvin",
+    "destination": "Mashad",
+    "departure": "10:50",
+    "arrival": "00:35",
+    "operator": "MAH",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "485",
+    "origin": "Mashad",
+    "destination": "Qazvin",
+    "departure": "13:15",
+    "arrival": "02:50",
+    "operator": "MAH",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "486",
+    "origin": "Karaj",
+    "destination": "Mashad",
+    "departure": "13:45",
+    "arrival": "01:20",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "487",
+    "origin": "Mashad",
+    "destination": "Karaj",
+    "departure": "21:15",
+    "arrival": "09:20",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "488",
+    "origin": "Tabriz",
+    "destination": "Mashad",
+    "departure": "14:55",
+    "arrival": "14:35",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "489",
+    "origin": "Mashad",
+    "destination": "Tabriz",
+    "departure": "09:25",
+    "arrival": "09:35",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "490",
+    "origin": "Zanjan",
+    "destination": "Mashad",
+    "departure": "14:30",
+    "arrival": "06:25",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "491",
+    "origin": "Mashad",
+    "destination": "Zanjan",
+    "departure": "13:25",
+    "arrival": "05:30",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "492",
+    "origin": "Zanjan",
+    "destination": "Mashad",
+    "departure": "00:30",
+    "arrival": "17:10",
+    "operator": "SAB",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "493",
+    "origin": "Mashad",
+    "destination": "Zanjan",
+    "departure": "01:35",
+    "arrival": "18:25",
+    "operator": "SAB",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "494",
+    "origin": "Urmia",
+    "destination": "Mashad",
+    "departure": "14:10",
+    "arrival": "14:35",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "495",
+    "origin": "Mashad",
+    "destination": "Urmia",
+    "departure": "09:25",
+    "arrival": "10:00",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "524",
+    "origin": "Tehran",
+    "destination": "Shiraz",
+    "departure": "19:25",
+    "arrival": "11:00",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "525",
+    "origin": "Shiraz",
+    "destination": "Tehran",
+    "departure": "16:55",
+    "arrival": "08:00",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "532",
+    "origin": "Esfahan",
+    "destination": "Bandar Abbas",
+    "departure": "15:05",
+    "arrival": "07:30",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "533",
+    "origin": "Bandar Abbas",
+    "destination": "Esfahan",
+    "departure": "13:55",
+    "arrival": "06:25",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "580",
+    "origin": "Esfahan",
+    "destination": "Mashad",
+    "departure": "17:55",
+    "arrival": "12:30",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "581",
+    "origin": "Mashad",
+    "destination": "Esfahan",
+    "departure": "13:35",
+    "arrival": "08:35",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "582",
+    "origin": "Kashan",
+    "destination": "Mashad",
+    "departure": "21:45",
+    "arrival": "11:55",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "583",
+    "origin": "Mashad",
+    "destination": "Kashan",
+    "departure": "21:00",
+    "arrival": "11:10",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "584",
+    "origin": "Esfahan",
+    "destination": "Mashad",
+    "departure": "15:55",
+    "arrival": "10:45",
+    "operator": "NOO",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "585",
+    "origin": "Mashad",
+    "destination": "Esfahan",
+    "departure": "15:30",
+    "arrival": "10:40",
+    "operator": "SAB",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "586",
+    "origin": "Shiraz",
+    "destination": "Mashad",
+    "departure": "15:50",
+    "arrival": "00:35",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "587",
+    "origin": "Mashad",
+    "destination": "Shiraz",
+    "departure": "06:05",
+    "arrival": "08:55",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "588",
+    "origin": "Esfahan",
+    "destination": "Mashad",
+    "departure": "09:55",
+    "arrival": "05:20",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "589",
+    "origin": "Mashad",
+    "destination": "Esfahan",
+    "departure": "09:55",
+    "arrival": "05:25",
+    "operator": "RAJA",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "620",
+    "origin": "Tehran",
+    "destination": "Yazd",
+    "departure": "23:25",
+    "arrival": "07:35",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "621",
+    "origin": "Yazd",
+    "destination": "Tehran",
+    "departure": "21:30",
+    "arrival": "05:20",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "624",
+    "origin": "Tehran",
+    "destination": "Yazd",
+    "departure": "16:15",
+    "arrival": "23:15",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "625",
+    "origin": "Yazd",
+    "destination": "Tehran",
+    "departure": "06:25",
+    "arrival": "08:05",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "680",
+    "origin": "Yazd",
+    "destination": "Mashad",
+    "departure": "15:00",
+    "arrival": "05:40",
+    "operator": "KSR",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "681",
+    "origin": "Mashad",
+    "destination": "Yazd",
+    "departure": "19:50",
+    "arrival": "09:15",
+    "operator": "KSR",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "682",
+    "origin": "Yazd",
+    "destination": "Mashad",
+    "departure": "15:05",
+    "arrival": "05:40",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "683",
+    "origin": "Mashad",
+    "destination": "Yazd",
+    "departure": "18:45",
+    "arrival": "09:10",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "706",
+    "origin": "Tehran",
+    "destination": "Hashtgerd",
+    "departure": "06:30",
+    "arrival": "07:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "707",
+    "origin": "Hashtgerd",
+    "destination": "Tehran",
+    "departure": "08:10",
+    "arrival": "09:30",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "710",
+    "origin": "Tehran",
+    "destination": "Hashtgerd",
+    "departure": "18:10",
+    "arrival": "19:30",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "711",
+    "origin": "Hashtgerd",
+    "destination": "Tehran",
+    "departure": "04:20",
+    "arrival": "05:40",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "720",
+    "origin": "Tehran",
+    "destination": "Kerman",
+    "departure": "20:00",
+    "arrival": "08:05",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "721",
+    "origin": "Kerman",
+    "destination": "Tehran",
+    "departure": "13:55",
+    "arrival": "03:45",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "724",
+    "origin": "Tehran",
+    "destination": "Zahedan",
+    "departure": "10:35",
+    "arrival": "09:00",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "725",
+    "origin": "Zahedan",
+    "destination": "Tehran",
+    "departure": "13:45",
+    "arrival": "11:50",
+    "operator": "RAJA",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "728",
+    "origin": "Zahedan",
+    "destination": "Khash",
+    "departure": "15:05",
+    "arrival": "17:25",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "729",
+    "origin": "Khash",
+    "destination": "Zahedan",
+    "departure": "07:30",
+    "arrival": "09:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "730",
+    "origin": "Tehran",
+    "destination": "Qom",
+    "departure": "21:25",
+    "arrival": "23:15",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "731",
+    "origin": "Qom",
+    "destination": "Tehran",
+    "departure": "05:05",
+    "arrival": "07:10",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "736",
+    "origin": "Tehran",
+    "destination": "Hashtgerd",
+    "departure": "14:35",
+    "arrival": "15:55",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "737",
+    "origin": "Hashtgerd",
+    "destination": "Tehran",
+    "departure": "17:45",
+    "arrival": "19:05",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "740",
+    "origin": "Tehran",
+    "destination": "Hashtgerd",
+    "departure": "04:30",
+    "arrival": "05:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "741",
+    "origin": "Hashtgerd",
+    "destination": "Tehran",
+    "departure": "06:25",
+    "arrival": "07:45",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "742",
+    "origin": "Tehran",
+    "destination": "Takestan",
+    "departure": "20:00",
+    "arrival": "23:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "743",
+    "origin": "Takestan",
+    "destination": "Tehran",
+    "departure": "06:00",
+    "arrival": "08:35",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "780",
+    "origin": "Kerman",
+    "destination": "Mashad",
+    "departure": "15:00",
+    "arrival": "07:20",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "781",
+    "origin": "Mashad",
+    "destination": "Kerman",
+    "departure": "13:55",
+    "arrival": "06:15",
+    "operator": "BON",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "782",
+    "origin": "Tehran",
+    "destination": "Parand",
+    "departure": "17:25",
+    "arrival": "18:30",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "783",
+    "origin": "Parand",
+    "destination": "Tehran",
+    "departure": "18:50",
+    "arrival": "20:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "820",
+    "origin": "Tehran",
+    "destination": "Bandar Abbas",
+    "departure": "12:15",
+    "arrival": "08:35",
+    "operator": "JOO",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "821",
+    "origin": "Bandar Abbas",
+    "destination": "Tehran",
+    "departure": "12:15",
+    "arrival": "08:55",
+    "operator": "JOO",
+    "services": [
+      "couchette"
+    ]
+  },
+  {
+    "train_number": "822",
+    "origin": "Tehran",
+    "destination": "Bandar Abbas",
+    "departure": "14:25",
+    "arrival": "10:30",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "823",
+    "origin": "Bandar Abbas",
+    "destination": "Tehran",
+    "departure": "14:55",
+    "arrival": "10:50",
+    "operator": "RAJA",
+    "services": [
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "880",
+    "origin": "Bandar Abbas",
+    "destination": "Mashad",
+    "departure": "15:55",
+    "arrival": "13:10",
+    "operator": "KSR",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "881",
+    "origin": "Mashad",
+    "destination": "Bandar Abbas",
+    "departure": "13:05",
+    "arrival": "09:10",
+    "operator": "KSR",
+    "services": [
+      "couchette",
+      "sleeping car"
+    ]
+  },
+  {
+    "train_number": "902",
+    "origin": "Karun",
+    "destination": "Mehshahr",
+    "departure": "06:00",
+    "arrival": "07:40",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "903",
+    "origin": "Mehshahr",
+    "destination": "Karun",
+    "departure": "08:30",
+    "arrival": "10:10",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "910",
+    "origin": "Khorramshahr",
+    "destination": "Ahvaz",
+    "departure": "04:00",
+    "arrival": "08:00",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "911",
+    "origin": "Ahvaz",
+    "destination": "Khorramshahr",
+    "departure": "18:55",
+    "arrival": "20:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "914",
+    "origin": "Andimeshk",
+    "destination": "Dorud",
+    "departure": "05:20",
+    "arrival": "10:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "915",
+    "origin": "Dorud",
+    "destination": "Andimeshk",
+    "departure": "14:25",
+    "arrival": "20:00",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "916",
+    "origin": "Tehran",
+    "destination": "Pishva",
+    "departure": "02:55",
+    "arrival": "03:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "917",
+    "origin": "Pishva",
+    "destination": "Tehran",
+    "departure": "05:15",
+    "arrival": "06:10",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "918",
+    "origin": "Tehran",
+    "destination": "Pishva",
+    "departure": "08:15",
+    "arrival": "09:05",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "919",
+    "origin": "Pishva",
+    "destination": "Tehran",
+    "departure": "09:50",
+    "arrival": "10:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "924",
+    "origin": "Tehran",
+    "destination": "Firouzkuh",
+    "departure": "11:15",
+    "arrival": "15:10",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "925",
+    "origin": "Firouzkuh",
+    "destination": "Tehran",
+    "departure": "16:10",
+    "arrival": "19:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "928",
+    "origin": "Andimeshk",
+    "destination": "Ahvaz",
+    "departure": "05:05",
+    "arrival": "07:15",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "929",
+    "origin": "Ahvaz",
+    "destination": "Andimeshk",
+    "departure": "12:30",
+    "arrival": "14:45",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "930",
+    "origin": "Tehran",
+    "destination": "Garmsar",
+    "departure": "06:10",
+    "arrival": "07:40",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "931",
+    "origin": "Garmsar",
+    "destination": "Tehran",
+    "departure": "08:10",
+    "arrival": "09:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "934",
+    "origin": "Tehran",
+    "destination": "Garmsar",
+    "departure": "17:35",
+    "arrival": "19:05",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "935",
+    "origin": "Garmsar",
+    "destination": "Tehran",
+    "departure": "06:05",
+    "arrival": "07:40",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "936",
+    "origin": "Mashad",
+    "destination": "Sarakhs",
+    "departure": "10:40",
+    "arrival": "13:15",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "937",
+    "origin": "Sarakhs",
+    "destination": "Mashad",
+    "departure": "16:50",
+    "arrival": "17:40",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "938",
+    "origin": "Mashad",
+    "destination": "Sarakhs",
+    "departure": "19:00",
+    "arrival": "22:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "939",
+    "origin": "Sarakhs",
+    "destination": "Mashad",
+    "departure": "05:10",
+    "arrival": "07:55",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "940",
+    "origin": "Dorud",
+    "destination": "Andimeshk",
+    "departure": "06:00",
+    "arrival": "11:15",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "941",
+    "origin": "Andimeshk",
+    "destination": "Dorud",
+    "departure": "12:05",
+    "arrival": "17:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "944",
+    "origin": "Tabriz",
+    "destination": "Jolfa",
+    "departure": "08:30",
+    "arrival": "11:15",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "945",
+    "origin": "Jolfa",
+    "destination": "Tabriz",
+    "departure": "18:00",
+    "arrival": "20:40",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "960",
+    "origin": "Gorgan",
+    "destination": "Pole-e Sefid",
+    "departure": "03:10",
+    "arrival": "08:15",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "961",
+    "origin": "Pole-e Sefid",
+    "destination": "Gorgan",
+    "departure": "12:45",
+    "arrival": "18:05",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "962",
+    "origin": "Gorgan",
+    "destination": "Pole-e Sefid",
+    "departure": "14:30",
+    "arrival": "19:15",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "963",
+    "origin": "Pole-e Sefid",
+    "destination": "Gorgan",
+    "departure": "05:00",
+    "arrival": "09:40",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "976",
+    "origin": "Tehran",
+    "destination": "Garmsar",
+    "departure": "19:30",
+    "arrival": "21:00",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "977",
+    "origin": "Garmsar",
+    "destination": "Tehran",
+    "departure": "04:05",
+    "arrival": "05:40",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "978",
+    "origin": "Gorgan",
+    "destination": "Incheh Baroon",
+    "departure": "10:30",
+    "arrival": "11:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "979",
+    "origin": "Incheh Baroon",
+    "destination": "Gorgan",
+    "departure": "14:30",
+    "arrival": "15:50",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "980",
+    "origin": "Andimeshk",
+    "destination": "Ahvaz",
+    "departure": "15:45",
+    "arrival": "17:55",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "981",
+    "origin": "Ahvaz",
+    "destination": "Andimeshk",
+    "departure": "19:30",
+    "arrival": "21:45",
+    "operator": "RAI",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "984",
+    "origin": "Tehran",
+    "destination": "Garmsar",
+    "departure": "15:30",
+    "arrival": "17:00",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "985",
+    "origin": "Garmsar",
+    "destination": "Tehran",
+    "departure": "17:30",
+    "arrival": "19:05",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "994",
+    "origin": "Tehran",
+    "destination": "Pishva",
+    "departure": "14:35",
+    "arrival": "15:25",
+    "operator": "RAJA",
+    "services": [
+      "seat"
+    ]
+  },
+  {
+    "train_number": "995",
+    "origin": "Pishva",
+    "destination": "Tehran",
+    "departure": "15:45",
+    "arrival": "16:40",
+    "operator": "RAI",
+    "services": [
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat",
+      "bus",
+      "seat"
+    ]
+  }
+]

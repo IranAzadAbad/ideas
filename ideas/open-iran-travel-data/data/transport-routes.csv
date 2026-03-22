@@ -1,0 +1,38 @@
+slug,origin,destination,mode,duration_min,frequency,operators,comfort
+ahvaz-andimeshk-train,Ahvaz,Andimeshk,train,140,1 daily,RAI (State Railways),comfortable
+andimeshk-ahvaz-train,Andimeshk,Ahvaz,train,130,2 daily,RAI (State Railways),comfortable
+andimeshk-dorud-train,Andimeshk,Dorud,train,360,2 daily,RAI (State Railways),comfortable
+dorud-andimeshk-train,Dorud,Andimeshk,train,330,2 daily,RAI (State Railways),comfortable
+firouzkuh-tehran-train,Firouzkuh,Tehran,train,215,1 daily,RAI (State Railways),comfortable
+garmsar-tehran-train,Garmsar,Tehran,train,95,3 daily,RAI (State Railways),comfortable
+gorgan-incheh-baroon-train,Gorgan,Incheh Baroon,train,80,1 daily,Raja Railways,comfortable
+gorgan-pole-e-sefid-train,Gorgan,Pole-e Sefid,train,285,2 daily,RAI (State Railways)|Raja Railways,comfortable
+hashtgerd-tehran-train,Hashtgerd,Tehran,train,40,3 daily,RAI (State Railways)|Raja Railways,comfortable
+incheh-baroon-gorgan-train,Incheh Baroon,Gorgan,train,80,1 daily,Raja Railways,comfortable
+jolfa-tabriz-train,Jolfa,Tabriz,train,160,1 daily,Raja Railways,comfortable
+karaj-mashhad-train,Karaj,Mashhad,train,720,2 daily,Raja Railways,comfortable
+karun-mehshahr-train,Karun,Mehshahr,train,100,1 daily,RAI (State Railways),comfortable
+khaf-tehran-train,Khaf,Tehran,train,805,1 daily,Raja Railways,comfortable
+khorramshahr-ahvaz-train,Khorramshahr,Ahvaz,train,110,1 daily,RAI (State Railways),comfortable
+khorramshahr-tehran-train,Khorramshahr,Tehran,train,1045,1 daily,Bon Rail,comfortable
+malayer-mashhad-train,Malayer,Mashhad,train,1100,1 daily,Raja Railways,comfortable
+maragheh-tehran-train,Maragheh,Tehran,train,620,1 daily,Raja Railways,comfortable
+mashhad-karaj-train,Mashhad,Karaj,train,720,2 daily,Raja Railways,comfortable
+mashhad-malayer-train,Mashhad,Malayer,train,1060,1 daily,Raja Railways,comfortable
+mashhad-sarakhs-train,Mashhad,Sarakhs,train,155,2 daily,Raja Railways,comfortable
+mehshahr-karun-train,Mehshahr,Karun,train,100,1 daily,RAI (State Railways),comfortable
+mianeh-tehran-train,Mianeh,Tehran,train,360,1 daily,Raja Railways,comfortable
+pishva-tehran-train,Pishva,Tehran,train,67,3 daily,RAI (State Railways),comfortable
+pole-e-sefid-gorgan-train,Pole-e Sefid,Gorgan,train,285,3 daily,RAI (State Railways)|Raja Railways,comfortable
+sarakhs-mashhad-train,Sarakhs,Mashhad,train,165,2 daily,Raja Railways,comfortable
+tabriz-jolfa-train,Tabriz,Jolfa,train,165,1 daily,Raja Railways,comfortable
+takestan-tehran-train,Takestan,Tehran,train,155,1 daily,Raja Railways,comfortable
+tehran-firouzkuh-train,Tehran,Firouzkuh,train,230,1 daily,RAI (State Railways),comfortable
+tehran-garmsar-train,Tehran,Garmsar,train,90,5 daily,RAI (State Railways)|Raja Railways,comfortable
+tehran-hashtgerd-train,Tehran,Hashtgerd,train,80,1 daily,Raja Railways,comfortable
+tehran-khaf-train,Tehran,Khaf,train,780,1 daily,Raja Railways,comfortable
+tehran-khorramshahr-train,Tehran,Khorramshahr,train,1030,1 daily,Bon Rail,comfortable
+tehran-maragheh-train,Tehran,Maragheh,train,605,1 daily,Raja Railways,comfortable
+tehran-mianeh-train,Tehran,Mianeh,train,390,1 daily,Raja Railways,comfortable
+tehran-parand-train,Tehran,Parand,train,65,1 daily,RAI (State Railways),comfortable
+tehran-pishva-train,Tehran,Pishva,train,50,3 daily,RAI (State Railways),comfortable

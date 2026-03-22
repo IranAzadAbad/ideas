@@ -1,100 +1,116 @@
 [
   {
-    "title": "Classic Iran: Tehran to Shiraz",
-    "title_fa": "ایران کلاسیک: تهران تا شیراز",
-    "slug": "classic-iran-tehran-shiraz",
-    "description": "The definitive Iran circuit for first-time visitors, covering the five cities that represent Persian civilization at its richest.",
-    "description_fa": " circuits سفر ایرانی کلاسیک برای بازدیدکنندگان اول بار.",
+    "title": "Classic Persia",
+    "slug": "classic-persia-10-days",
+    "description": "The quintessential Iran itinerary covering the ancient capitals. From Tehran's bustling bazaars to Isfahan's turquoise domes, Yazd's windcatchers, and Shiraz's poetry gardens.",
     "duration_days": 10,
     "trip_type": "cultural",
     "budget_level": "mid_range",
-    "travelers_count": 2,
-    "estimated_budget_usd": 2500,
-    "days": [
-      {
-        "day": 1,
-        "title": "Tehran: Museums & Bazaars",
-        "title_fa": "تهران: موزه‌ها و بازارها",
-        "city": "tehran"
-      },
-      {
-        "day": 2,
-        "title": "Tehran to Kashan",
-        "title_fa": "تهران به کاشان",
-        "city": "kashan"
-      },
-      {
-        "day": 3,
-        "title": "Kashan to Isfahan",
-        "title_fa": "کاشان به اصفهان",
-        "city": "isfahan"
-      },
-      {
-        "day": 4,
-        "title": "Isfahan: Naqsh-e Jahan",
-        "title_fa": "اصفهان: میدان نقش جهان",
-        "city": "isfahan"
-      },
-      {
-        "day": 5,
-        "title": "Isfahan: Bridges & Architecture",
-        "title_fa": "اصفهان: پل‌ها و معماری",
-        "city": "isfahan"
-      },
-      {
-        "day": 6,
-        "title": "Isfahan to Yazd",
-        "title_fa": "اصفهان به یزد",
-        "city": "yazd"
-      },
-      {
-        "day": 7,
-        "title": "Yazd: Old Town & Fire Temple",
-        "title_fa": "یزد: شهر قدیم و آتشکده",
-        "city": "yazd"
-      },
-      {
-        "day": 8,
-        "title": "Yazd to Shiraz via Pasargadae",
-        "title_fa": "یزد به شیراز از طریق پاسارگاد",
-        "city": "shiraz"
-      },
-      {
-        "day": 9,
-        "title": "Shiraz: Gardens & Tombs",
-        "title_fa": "شیراز: باغ‌ها و آرامگاه‌ها",
-        "city": "shiraz"
-      },
-      {
-        "day": 10,
-        "title": "Shiraz: Departure",
-        "title_fa": "شیراز: خروج",
-        "city": "shiraz"
-      }
-    ]
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
   },
   {
-    "title": "Desert & Stars: Yazd to Kerman",
-    "title_fa": "صحرا و ستارگان: یزد تا کرمان",
-    "slug": "desert-and-stars-yazd-kerman",
-    "description": "Five days through the Lut Desert, ancient villages, and the bazaars of Kerman.",
-    "description_fa": "پنج روز در صحرای لوت.",
-    "duration_days": 5,
-    "trip_type": "adventure",
+    "title": "Golden Triangle",
+    "slug": "golden-triangle-7-days",
+    "description": "Iran's three jewels in one week. Hit the highlights of Tehran, Isfahan, and Shiraz without the rush.",
+    "duration_days": 7,
+    "trip_type": "cultural",
     "budget_level": "mid_range",
-    "travelers_count": 2,
-    "estimated_budget_usd": 1200
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "travelers_count": 2
   },
   {
     "title": "Weekend in Isfahan",
-    "title_fa": "آخر هفته در اصفهان",
-    "slug": "weekend-isfahan",
-    "description": "Three perfect days in Isfahan — Naqsh-e Jahan Square, the bazaar, and bridges at sunset.",
-    "description_fa": "سه روز عالی در اصفهان.",
+    "slug": "weekend-isfahan-3-days",
+    "description": "A focused deep-dive into Half of the World. Three days exploring Isfahan's legendary squares, bridges, and bazaars.",
     "duration_days": 3,
     "trip_type": "cultural",
-    "budget_level": "luxury",
-    "travelers_count": 2,
-    "estimated_budget_usd": 1800
+    "budget_level": "mid_range",
+    "travel_style": "guided",
+    "best_seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Desert & Stars",
+    "slug": "desert-and-stars-5-days",
+    "description": "Sleep under desert skies, explore mud-brick villages, and discover the ancient Silk Road oases of Yazd and Kerman.",
+    "duration_days": 5,
+    "trip_type": "adventure",
+    "budget_level": "budget",
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Northern Green",
+    "slug": "northern-green-7-days",
+    "description": "Escape to Iran's lush Caspian coast. Rice paddies, misty forests, seafood feasts, and traditional villages.",
+    "duration_days": 7,
+    "trip_type": "adventure",
+    "budget_level": "mid_range",
+    "travel_style": "self_driven",
+    "best_seasons": [
+      "spring",
+      "summer"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Kurdish Highlands",
+    "slug": "kurdish-highlands-5-days",
+    "description": "Explore western Iran's dramatic mountains, ancient rock carvings, and warm Kurdish hospitality.",
+    "duration_days": 5,
+    "trip_type": "adventure",
+    "budget_level": "budget",
+    "travel_style": "self_driven",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Silk Road Explorer",
+    "slug": "silk-road-explorer-12-days",
+    "description": "Follow the ancient trade routes from Tehran through Tabriz, Isfahan, Yazd, and Kerman. The ultimate cultural immersion.",
+    "duration_days": 12,
+    "trip_type": "cultural",
+    "budget_level": "mid_range",
+    "travel_style": "mixed",
+    "best_seasons": [
+      "spring",
+      "autumn"
+    ],
+    "travelers_count": 2
+  },
+  {
+    "title": "Pilgrimage Trail",
+    "slug": "pilgrimage-trail-7-days",
+    "description": "Visit Iran's holiest sites from Qom to Mashhad. Stunning shrine architecture, spiritual experiences, and local traditions.",
+    "duration_days": 7,
+    "trip_type": "pilgrimage",
+    "budget_level": "budget",
+    "travel_style": "guided",
+    "best_seasons": [
+      "spring",
+      "winter"
+    ],
+    "travelers_count": 2
   }
 ]
