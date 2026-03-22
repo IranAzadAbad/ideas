@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Iranian Azerbaijan",
+    "name_fa": "آذربایجان ایران",
+    "slug": "iranian-azerbaijan",
+    "description": "Situated in the extreme northwest of Iran, this mountainous region serves as the country's access point to the Caucasus. This is also where much of the second largest ethnic group, the Azeris, lives. Four provinces make up Iranian Azerbaijan: West Azerbaijan, East Azerbaijan, Ardabil, and Zanjan.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Iranian_Azerbaijan",
+    "lat": 38.25,
+    "lng": 48.3,
+    "provinces": [
+      "west-azerbaijan",
+      "east-azerbaijan",
+      "ardabil",
+      "zanjan"
+    ],
+    "highlights": [
+      "Tabriz, the biggest economic hub of Northwestern Iran",
+      "Kandovan troglodyte village",
+      "Soltaniyeh and the Dome of Soltaniyeh (UNESCO)",
+      "Ardabil and the Shrine of Sheikh Safi",
+      "Lake Urmia",
+      "Aras River Valley",
+      "Babak Castle near Kaleybar"
+    ]
+  },
+  {
+    "name": "Western Iran",
+    "name_fa": "ایران غربی",
+    "slug": "western-iran",
+    "description": "A large section of the country to the west, co-located with the Zagros Mountains. Home to the ethnic Kurdish and Arab minorities, it also served as a major battlefront during the Iran-Iraq war of the 1980s. Includes Iranian Kurdistan, Khuzestan, and the Alborz province near Tehran.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Western_Iran",
+    "lat": 33.43,
+    "lng": 48.71,
+    "provinces": [
+      "alborz",
+      "lorestan",
+      "hamadan",
+      "ilam",
+      "kermanshah",
+      "kurdistan",
+      "markazi",
+      "qazvin",
+      "chaharmahal-and-bakhtiari",
+      "khuzestan",
+      "kohgiluyeh-and-boyer-ahmad"
+    ],
+    "highlights": [
+      "Hamadan, one of the oldest continuously inhabited cities in the world",
+      "Kermanshah and the Bisotun Inscription (UNESCO)",
+      "Sanandaj, capital of Iranian Kurdistan",
+      "Ahvaz and the ancient ruins of Susa (Shush)",
+      "Choghazanbil ziggurat (UNESCO)",
+      "Qazvin, former Safavid capital",
+      "Arak industrial city",
+      "Zagros Mountains trekking"
+    ]
+  },
+  {
+    "name": "Caspian Iran",
+    "name_fa": "ایران کاسپین",
+    "slug": "caspian-iran",
+    "description": "Also known as Northern Iran, a beautiful region along the coast of the Caspian Sea. The forested coastal plains rise up quickly into the Alborz Mountains. The region consists of the three provinces of Gilan, Mazandaran, and Golestan.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Caspian_Iran",
+    "lat": 37.01,
+    "lng": 54.46,
+    "provinces": [
+      "gilan",
+      "mazandaran",
+      "golestan"
+    ],
+    "highlights": [
+      "Rasht, the culinary capital of Iran",
+      "Masouleh, a stepped mountain village",
+      "Ramsar, a sea resort with hot springs",
+      "Gorgan and the Golestan National Park",
+      "Caspian Sea coastline",
+      "Lush forests and rice paddies",
+      "Bandar Torkaman and Turkmen culture"
+    ]
+  },
+  {
+    "name": "Khorasan",
+    "name_fa": "خراسان",
+    "slug": "khorasan",
+    "description": "A great gateway to Central Asia, and home to Iran's holiest city. Many Turkmens and Afghans live here. Originally a single province until 2004, when it was split into three: North Khorasan, Razavi Khorasan, and South Khorasan. The name literally means 'where the sun rises' in Middle Persian.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Khorasan",
+    "lat": 36.3,
+    "lng": 59.61,
+    "provinces": [
+      "north-khorasan",
+      "razavi-khorasan",
+      "south-khorasan"
+    ],
+    "highlights": [
+      "Mashhad, Iran's holiest city and the Imam Reza Shrine",
+      "Neyshabur, birthplace of Omar Khayyam",
+      "Birjand, capital of South Khorasan",
+      "Bojnourd, capital of North Khorasan",
+      "Torbat Jam and its historic mosque",
+      "Gateway to Central Asia (Turkmenistan and Afghanistan borders)"
+    ]
+  },
+  {
+    "name": "Central Iran",
+    "name_fa": "ایران مرکزی",
+    "slug": "central-iran",
+    "description": "The heart of the country, home to major cities and travel destinations like Shiraz and Isfahan, the capital Tehran, and the holy city of Qom. Contains most of Iran's top tourist attractions and UNESCO World Heritage Sites.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Central_Iran",
+    "lat": 32.65,
+    "lng": 51.68,
+    "provinces": [
+      "fars",
+      "isfahan",
+      "kerman",
+      "semnan",
+      "qom",
+      "tehran",
+      "yazd"
+    ],
+    "highlights": [
+      "Isfahan and its Naqsh-e Jahan Square (UNESCO)",
+      "Persepolis near Shiraz (UNESCO)",
+      "Yazd, the ancient Zoroastrian city (UNESCO)",
+      "Tehran, the vibrant capital with world-class museums",
+      "Kashan and its historic houses and gardens",
+      "Qom, one of Iran's holiest cities",
+      "Dasht-e Kavir and Dasht-e Lut deserts",
+      "Kerman and the Lut Desert (UNESCO)"
+    ]
+  },
+  {
+    "name": "Persian Gulf Region",
+    "name_fa": "منطقه خلیج فارس",
+    "slug": "persian-gulf-region",
+    "description": "Lies along the country's Persian Gulf coast, consisting of the Bushehr and Hormozgan provinces. It is the main center of oil and gas production in Iran, home to many islands, and serves as Iran's main access point to the sea. The Iranian Navy is headquartered here.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Gulf_Region_(Iran)",
+    "lat": 27.19,
+    "lng": 56.28,
+    "provinces": [
+      "bushehr",
+      "hormozgan"
+    ],
+    "highlights": [
+      "Kish Island, visa-free and duty-free tourist island",
+      "Qeshm Island, the largest island in the Persian Gulf",
+      "Hormuz Island with its colorful red beaches",
+      "Bandar Abbas, the main southern port city",
+      "Bushehr and its nuclear heritage",
+      "Persian Gulf coral reefs and marine life"
+    ]
+  },
+  {
+    "name": "Sistan and Baluchestan",
+    "name_fa": "سیستان و بلوچستان",
+    "slug": "sistan-and-baluchestan",
+    "description": "Home of the ethnic Baloch minority, and the poorest and most remote province in the country. Serves as Iran's gateway to South Asia, bordering Pakistan and Afghanistan. Despite its remoteness, it offers unique cultural experiences and dramatic desert landscapes.",
+    "wikivoyage_url": "https://en.wikivoyage.org/wiki/Sistan_and_Baluchestan",
+    "lat": 29.49,
+    "lng": 60.85,
+    "provinces": [
+      "sistan-and-baluchestan"
+    ],
+    "highlights": [
+      "Chabahar, Iran's only oceanic port on the Gulf of Oman",
+      "Zahedan, the provincial capital near the Pakistan border",
+      "Baloch tribal culture and crafts",
+      "Taftan volcano",
+      "Shahr-e Sukhteh (Burnt City) archaeological site (UNESCO)",
+      "Dramatic desert and mountain landscapes"
+    ]
+  }
+]

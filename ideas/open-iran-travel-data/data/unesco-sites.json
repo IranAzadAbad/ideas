@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Persepolis",
+    "name_fa": "تخت جمشید",
+    "year_inscribed": 1979,
+    "type": "cultural",
+    "location": {
+      "city": "Marvdasht",
+      "province": "Fars"
+    },
+    "lat": 29.9341,
+    "lng": 52.8914,
+    "description": "The ceremonial capital of the Achaemenid Empire, founded by Darius I around 518 BC. Its monumental ruins include the Gate of All Nations, Apadana Palace, and intricately carved reliefs depicting tribute-bearing delegations from across the empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Persepolis"
+  },
+  {
+    "name": "Naqsh-e Jahan Square",
+    "name_fa": "میدان نقش جهان",
+    "year_inscribed": 1979,
+    "type": "cultural",
+    "location": {
+      "city": "Isfahan",
+      "province": "Isfahan"
+    },
+    "lat": 32.6575,
+    "lng": 51.6776,
+    "description": "One of the largest city squares in the world, built by Shah Abbas I in the early 17th century. Surrounded by masterpieces of Safavid architecture including the Shah Mosque, Sheikh Lotfollah Mosque, and Ali Qapu Palace.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square"
+  },
+  {
+    "name": "Tchogha Zanbil",
+    "name_fa": "چغازنبیل",
+    "year_inscribed": 1979,
+    "type": "cultural",
+    "location": {
+      "city": "Susa",
+      "province": "Khuzestan"
+    },
+    "lat": 32.0094,
+    "lng": 48.5219,
+    "description": "The ruins of the holy city of the Elamite Kingdom, founded around 1250 BC. Its massive ziggurat, the best-preserved example outside of Mesopotamia, originally rose to five stories and was surrounded by three concentric walls.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chogha_Zanbil"
+  },
+  {
+    "name": "Takht-e Soleyman",
+    "name_fa": "تخت سلیمان",
+    "year_inscribed": 2003,
+    "type": "cultural",
+    "location": {
+      "city": "Takab",
+      "province": "West Azerbaijan"
+    },
+    "lat": 36.6036,
+    "lng": 47.2344,
+    "description": "The holiest Zoroastrian sanctuary and a royal Sassanid site built around a volcanic crater lake. The complex includes an Anahita fire temple and an artesian lake that has been a place of worship since the 1st millennium BC.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Takht-e_Soleyman"
+  },
+  {
+    "name": "Pasargadae",
+    "name_fa": "پاسارگاد",
+    "year_inscribed": 2004,
+    "type": "cultural",
+    "location": {
+      "city": "Pasargad",
+      "province": "Fars"
+    },
+    "lat": 30.1942,
+    "lng": 53.1669,
+    "description": "The first dynastic capital of the Achaemenid Empire, founded by Cyrus the Great in the 6th century BC. The site contains the iconic Tomb of Cyrus, the remains of royal palaces, and the earliest known example of a Persian Chahar Bagh garden.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pasargadae"
+  },
+  {
+    "name": "Bam and Its Cultural Landscape",
+    "name_fa": "ارگ بم",
+    "year_inscribed": 2004,
+    "type": "cultural",
+    "location": {
+      "city": "Bam",
+      "province": "Kerman"
+    },
+    "lat": 29.1169,
+    "lng": 58.3567,
+    "description": "Once the world's largest adobe structure, the citadel of Bam is a fortified medieval trading town at the crossroads of major Silk Road routes. Severely damaged by a 2003 earthquake, it has been the subject of extensive international restoration efforts.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arg-e_Bam"
+  },
+  {
+    "name": "Soltaniyeh",
+    "name_fa": "سلطانیه",
+    "year_inscribed": 2005,
+    "type": "cultural",
+    "location": {
+      "city": "Soltaniyeh",
+      "province": "Zanjan"
+    },
+    "lat": 36.4349,
+    "lng": 48.7936,
+    "description": "The mausoleum of Oljeitu, built in 1302-1312, features the oldest surviving double-shell dome in the world and the largest brick dome ever built. The 50-meter-tall structure was the capital of the Ilkhanid dynasty and a precursor to the Taj Mahal.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soltaniyeh"
+  },
+  {
+    "name": "Bisotun",
+    "name_fa": "بیستون",
+    "year_inscribed": 2006,
+    "type": "cultural",
+    "location": {
+      "city": "Bisotun",
+      "province": "Kermanshah"
+    },
+    "lat": 34.3867,
+    "lng": 47.4378,
+    "description": "A monumental cliff inscription carved by order of Darius I in 521 BC, written in three cuneiform scripts (Old Persian, Elamite, Babylonian). It was the key to deciphering cuneiform and contains archaeological remains spanning from prehistoric times to the Median and Achaemenid periods.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Behistun_inscription"
+  },
+  {
+    "name": "Armenian Monastic Ensembles of Iran",
+    "name_fa": "مجموعه‌های صومعه‌ای ارمنی ایران",
+    "year_inscribed": 2008,
+    "type": "cultural",
+    "location": {
+      "city": "Jolfa",
+      "province": "East Azerbaijan"
+    },
+    "lat": 38.9747,
+    "lng": 44.575,
+    "description": "Three Armenian Christian monastic ensembles—St. Thaddeus, St. Stepanos, and the Chapel of Dzordzor—dating from the 7th century onward. They illustrate outstanding examples of Armenian architectural and decorative traditions in interchange with Persian, Byzantine, and Orthodox cultures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Armenian_Monastic_Ensembles_of_Iran"
+  },
+  {
+    "name": "Shushtar Historical Hydraulic System",
+    "name_fa": "سازه‌های آبی تاریخی شوشتر",
+    "year_inscribed": 2009,
+    "type": "cultural",
+    "location": {
+      "city": "Shushtar",
+      "province": "Khuzestan"
+    },
+    "lat": 32.0489,
+    "lng": 48.8567,
+    "description": "A masterpiece of creative genius dating to the Sassanid era, this complex system of bridges, weirs, tunnels, canals, and mills created a virtual island city. It represents the earliest and most extensive grand-scale water management infrastructure in the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shushtar_Historical_Hydraulic_System"
+  },
+  {
+    "name": "Sheikh Safi al-Din Khanegah and Shrine Ensemble in Ardabil",
+    "name_fa": "مجموعه خانقاه و بقعه شیخ صفی‌الدین اردبیلی",
+    "year_inscribed": 2010,
+    "type": "cultural",
+    "location": {
+      "city": "Ardabil",
+      "province": "Ardabil"
+    },
+    "lat": 38.2489,
+    "lng": 48.2936,
+    "description": "A medieval Sufi spiritual retreat built between the 16th and 18th centuries, this ensemble served as the ancestral shrine of the Safavid dynasty. The complex contains a mosque, school, mausoleum, and hospital, masterfully arranged along a symbolic path to spiritual enlightenment.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Safi-od-din_Ardabili%27s_Mausoleum"
+  },
+  {
+    "name": "Tabriz Historic Bazaar Complex",
+    "name_fa": "مجموعه بازار تاریخی تبریز",
+    "year_inscribed": 2010,
+    "type": "cultural",
+    "location": {
+      "city": "Tabriz",
+      "province": "East Azerbaijan"
+    },
+    "lat": 38.0786,
+    "lng": 46.2919,
+    "description": "One of the oldest and largest covered bazaars in the Middle East, Tabriz Bazaar has been a major Silk Road commercial hub since antiquity. The interconnected complex of brick-vaulted structures includes mosques, caravanserais, and bathhouses spanning over 5,000 shops.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tabriz_Historic_Bazaar_Complex"
+  },
+  {
+    "name": "The Persian Garden",
+    "name_fa": "باغ ایرانی",
+    "year_inscribed": 2011,
+    "type": "cultural",
+    "location": {
+      "city": "Multiple cities",
+      "province": "Multiple provinces"
+    },
+    "lat": 32.6525,
+    "lng": 51.6746,
+    "description": "A serial nomination of nine gardens across different provinces illustrating the diversity of Persian garden design (Chahar Bagh), which influenced garden traditions from Spain to India. The gardens include Pasargadae, Eram, Fin, Chehel Sotoun, Shahzadeh, Dolat Abad, Abbasabad, Akbariyeh, and Pahlevanpur.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_garden"
+  },
+  {
+    "name": "Gonbad-e Qabus",
+    "name_fa": "گنبد قابوس",
+    "year_inscribed": 2012,
+    "type": "cultural",
+    "location": {
+      "city": "Gonbad-e Kavus",
+      "province": "Golestan"
+    },
+    "lat": 37.3019,
+    "lng": 55.1689,
+    "description": "A 53-meter brick tomb tower built in 1006 AD, it is the tallest brick tower in the world and a masterpiece of early Islamic architecture. The unglazed fired-brick structure influenced the development of funerary towers throughout Central Asia and Iran.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gonbad-e_Qabus"
+  },
+  {
+    "name": "Masjed-e Jame of Isfahan",
+    "name_fa": "مسجد جامع اصفهان",
+    "year_inscribed": 2012,
+    "type": "cultural",
+    "location": {
+      "city": "Isfahan",
+      "province": "Isfahan"
+    },
+    "lat": 32.668,
+    "lng": 51.6854,
+    "description": "The oldest Friday mosque in Iran, displaying twelve centuries of Islamic architectural development from the 8th century onward. Its four-iwan layout became the prototype for mosque design throughout Central Asia, and it contains two remarkable 11th-century domed chambers.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jameh_Mosque_of_Isfahan"
+  },
+  {
+    "name": "Golestan Palace",
+    "name_fa": "کاخ گلستان",
+    "year_inscribed": 2013,
+    "type": "cultural",
+    "location": {
+      "city": "Tehran",
+      "province": "Tehran"
+    },
+    "lat": 35.6839,
+    "lng": 51.4214,
+    "description": "The former royal Qajar complex and one of the oldest historic monuments in Tehran, featuring eight key palace structures including the Marble Throne Hall and the Hall of Mirrors. It represents a successful integration of Persian craftsmanship with Western architectural influences.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Golestan_Palace"
+  },
+  {
+    "name": "Shahr-i Sokhta",
+    "name_fa": "شهر سوخته",
+    "year_inscribed": 2014,
+    "type": "cultural",
+    "location": {
+      "city": "Zabol",
+      "province": "Sistan and Baluchestan"
+    },
+    "lat": 30.5928,
+    "lng": 61.3367,
+    "description": "A vast Bronze Age urban settlement dating from 3200 BC, known as the 'Burnt City' after several devastating fires. The 151-hectare site yielded the world's oldest known prosthetic eye, the earliest animation, and evidence of advanced skull surgery.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shahr-e_Sukhteh"
+  },
+  {
+    "name": "Cultural Landscape of Maymand",
+    "name_fa": "روستای میمند",
+    "year_inscribed": 2015,
+    "type": "cultural",
+    "location": {
+      "city": "Shahr-e Babak",
+      "province": "Kerman"
+    },
+    "lat": 30.1767,
+    "lng": 55.3883,
+    "description": "An ancient village where semi-nomadic inhabitants still practice seasonal transhumance and live in hand-carved rock dwellings (kicheh). The self-contained system of community life in the caves represents a living tradition stretching back at least 2,000 years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maymand"
+  },
+  {
+    "name": "Susa",
+    "name_fa": "شوش",
+    "year_inscribed": 2015,
+    "type": "cultural",
+    "location": {
+      "city": "Shush",
+      "province": "Khuzestan"
+    },
+    "lat": 32.1942,
+    "lng": 48.2436,
+    "description": "One of the oldest continuously inhabited cities in the world, dating to approximately 4395 BC. As a capital of the Elamite Empire and later the Achaemenid winter capital, Susa yielded major artifacts including the Code of Hammurabi and the Darius Palace.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Susa"
+  },
+  {
+    "name": "The Persian Qanat",
+    "name_fa": "قنات‌های ایران",
+    "year_inscribed": 2016,
+    "type": "cultural",
+    "location": {
+      "city": "Multiple cities",
+      "province": "Multiple provinces"
+    },
+    "lat": 33.9883,
+    "lng": 58.7919,
+    "description": "A serial inscription of eleven qanats representing the sophisticated ancient Iranian hydraulic engineering system. These gently sloping underground tunnels transport water from aquifers to the surface over long distances without pumping, a technology developed over 3,000 years ago.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qanat"
+  },
+  {
+    "name": "Lut Desert",
+    "name_fa": "دشت لوت",
+    "year_inscribed": 2016,
+    "type": "natural",
+    "location": {
+      "city": "Shahdad",
+      "province": "Kerman"
+    },
+    "lat": 30.5,
+    "lng": 59.0,
+    "description": "One of the hottest places on Earth, with surface temperatures recorded at over 70°C. The desert's dramatic yardangs (wind-carved sand formations known as kaluts) can reach 150 meters in height, creating a spectacular alien-like landscape.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dasht-e_Lut"
+  },
+  {
+    "name": "Historic City of Yazd",
+    "name_fa": "شهر تاریخی یزد",
+    "year_inscribed": 2017,
+    "type": "cultural",
+    "location": {
+      "city": "Yazd",
+      "province": "Yazd"
+    },
+    "lat": 31.8974,
+    "lng": 54.3569,
+    "description": "A living testimony to intelligent use of limited resources in a desert environment, Yazd features an extraordinary network of badgirs (windcatchers), qanats, and adobe architecture. Its 700-hectare historic center preserves the Zoroastrian heritage and traditional urban fabric spanning over 3,000 years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yazd"
+  },
+  {
+    "name": "Sassanid Archaeological Landscape of Fars Region",
+    "name_fa": "منظر باستان‌شناسی ساسانی فارس",
+    "year_inscribed": 2018,
+    "type": "cultural",
+    "location": {
+      "city": "Firuzabad",
+      "province": "Fars"
+    },
+    "lat": 28.8619,
+    "lng": 52.5592,
+    "description": "Eight archaeological sites across three geographical areas (Firuzabad, Bishapur, and Sarvestan) depicting the earliest and latest centers of the Sassanid Empire. The sites include fortified structures, palaces, bas-reliefs, city plans, and a royal investiture scene.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sassanid_Archaeological_Landscape_of_Fars_Region"
+  },
+  {
+    "name": "Hyrcanian Forests",
+    "name_fa": "جنگل‌های هیرکانی",
+    "year_inscribed": 2019,
+    "type": "natural",
+    "location": {
+      "city": "Multiple cities",
+      "province": "Gilan, Mazandaran, Golestan"
+    },
+    "lat": 36.75,
+    "lng": 51.5,
+    "description": "An ancient broadleaf forest stretching along the southern coast of the Caspian Sea, surviving since the Jurassic period (25-50 million years ago). These forests are home to 180 typical temperate broadleaf species and an exceptional diversity of flora and fauna.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hyrcanian_forests"
+  },
+  {
+    "name": "Trans-Iranian Railway",
+    "name_fa": "راه‌آهن سراسری ایران",
+    "year_inscribed": 2021,
+    "type": "cultural",
+    "location": {
+      "city": "Multiple cities",
+      "province": "Multiple provinces"
+    },
+    "lat": 35.6892,
+    "lng": 51.389,
+    "description": "A 1,394-km railway connecting the Caspian Sea to the Persian Gulf, completed in 1938. The route traverses two mountain ranges, crossing 174 large bridges (including the famous Veresk Bridge), 186 small bridges, and 224 tunnels through extremely challenging terrain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trans-Iranian_Railway"
+  },
+  {
+    "name": "Cultural Landscape of Hawraman/Uramanat",
+    "name_fa": "منظر فرهنگی هورامان/اورامانات",
+    "year_inscribed": 2021,
+    "type": "cultural",
+    "location": {
+      "city": "Uramanat",
+      "province": "Kermanshah and Kurdistan"
+    },
+    "lat": 35.0333,
+    "lng": 46.2167,
+    "description": "A remote mountainous area in western Iran where Kurdish communities have adapted to the steep terrain over millennia. The stepped villages built on 40-60 degree slopes, where rooftops serve as courtyards for the houses above, represent an outstanding example of human interaction with nature.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hawraman"
+  },
+  {
+    "name": "The Persian Caravanserai",
+    "name_fa": "کاروانسراهای ایران",
+    "year_inscribed": 2023,
+    "type": "cultural",
+    "location": {
+      "city": "Multiple cities",
+      "province": "Multiple provinces"
+    },
+    "lat": 33.0,
+    "lng": 53.0,
+    "description": "A serial inscription of 54 caravanserais spanning from the Sassanid through the Qajar periods, representing the network of roadside inns that served Silk Road travelers and merchants. They showcase the evolution of Persian-Islamic architectural styles adapted for hospitality across diverse climatic zones.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caravanserai"
+  },
+  {
+    "name": "Hegmataneh",
+    "name_fa": "هگمتانه",
+    "year_inscribed": 2024,
+    "type": "cultural",
+    "location": {
+      "city": "Hamadan",
+      "province": "Hamadan"
+    },
+    "lat": 34.7983,
+    "lng": 48.5146,
+    "description": "The ancient city of Ecbatana, capital of the Median Empire and a major Achaemenid and Parthian administrative center. Excavations have revealed pottery, inscriptions, and architectural remains spanning multiple millennia in the heart of modern Hamadan.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ecbatana"
+  },
+  {
+    "name": "Prehistoric Sites of the Khorramabad Valley",
+    "name_fa": "محوطه‌های پیش‌ از‌ تاریخ دره خرم‌آباد",
+    "year_inscribed": 2025,
+    "type": "cultural",
+    "location": {
+      "city": "Khorramabad",
+      "province": "Lorestan"
+    },
+    "lat": 33.4878,
+    "lng": 48.3558,
+    "description": "Five caves and a rock shelter containing evidence of human occupation spanning 63,000 years. The sites preserve Mousterian and Baradostian cultural layers, providing critical insight into Neanderthal and early modern human habitation in the Zagros Mountains.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khorramabad"
+  }
+]

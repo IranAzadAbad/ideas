@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "title": "Iran Infrastructure & Heritage Damage Assessment — March 2026",
+    "title_fa": "ارزیابی خسارات زیرساخت‌ها و میراث فرهنگی ایران — اسفند ۱۴۰۴ / فروردین ۱۴۰۵",
+    "description": "Community-sourced tracking of damage to transportation hubs, cultural heritage sites, POIs, and critical infrastructure during the March 2026 bombings. This is a living document — contributions welcome.",
+    "description_fa": "ردیابی مشارکتی خسارات وارده به مراکز حمل‌ونقل، میراث فرهنگی، جاذبه‌های گردشگری و زیرساخت‌های حیاتی در بمباران‌های اسفند ۱۴۰۴. این سند زنده است — مشارکت شما ارزشمند است.",
+    "status": "DRAFT — seeking verified reports from on-the-ground sources",
+    "last_updated": "2026-03-21",
+    "data_sources": [
+      "Satellite imagery (Maxar, Planet Labs)",
+      "OSINT reports",
+      "On-the-ground reports from Iranian citizens (when internet access is restored)",
+      "News agencies (Reuters, AFP, IRNA, ISNA)",
+      "UNESCO damage assessments (pending)"
+    ],
+    "categories": {
+      "confirmed": "Damage verified by multiple independent sources or satellite imagery",
+      "reported": "Damage reported by credible sources but not yet independently verified",
+      "unverified": "Damage claimed but not yet verified",
+      "intact": "Confirmed undamaged after nearby strikes"
+    },
+    "severity_scale": {
+      "destroyed": "Structure completely destroyed or beyond repair",
+      "severe": "Major structural damage, unsafe or non-functional",
+      "moderate": "Partial damage, repairable",
+      "minor": "Cosmetic or peripheral damage",
+      "intact": "No damage detected"
+    }
+  },
+  "transportation_hubs": {
+    "_note": "Airports, train stations, bus terminals, ports, border crossings",
+    "_note_fa": "فرودگاه‌ها، ایستگاه‌های قطار، پایانه‌های اتوبوس، بنادر، گذرگاه‌های مرزی",
+    "entries": []
+  },
+  "cultural_heritage_sites": {
+    "_note": "UNESCO sites, historical monuments, museums, archaeological sites",
+    "_note_fa": "آثار یونسکو، بناهای تاریخی، موزه‌ها، محوطه‌های باستان‌شناسی",
+    "entries": []
+  },
+  "tourism_infrastructure": {
+    "_note": "Hotels, guest houses, restaurants, bazaars, tourist facilities",
+    "_note_fa": "هتل‌ها، مهمان‌خانه‌ها، رستوران‌ها، بازارها، تأسیسات گردشگری",
+    "entries": []
+  },
+  "natural_sites": {
+    "_note": "National parks, protected areas, natural landmarks affected",
+    "_note_fa": "پارک‌های ملی، مناطق حفاظت‌شده، عوارض طبیعی آسیب‌دیده",
+    "entries": []
+  },
+  "civilian_infrastructure": {
+    "_note": "Hospitals, schools, power plants, water treatment, telecom",
+    "_note_fa": "بیمارستان‌ها، مدارس، نیروگاه‌ها، تصفیه‌خانه‌ها، مخابرات",
+    "entries": []
+  },
+  "_entry_template": {
+    "name": "",
+    "name_fa": "",
+    "type": "airport|train_station|bus_terminal|port|border_crossing|unesco_site|monument|museum|hotel|bazaar|park|hospital|school|power_plant|telecom|other",
+    "city": "",
+    "province": "",
+    "lat": null,
+    "lng": null,
+    "status": "confirmed|reported|unverified|intact",
+    "severity": "destroyed|severe|moderate|minor|intact",
+    "date_of_incident": "YYYY-MM-DD",
+    "description": "",
+    "description_fa": "",
+    "sources": [],
+    "satellite_imagery_url": null,
+    "before_image_url": null,
+    "after_image_url": null,
+    "last_verified": "YYYY-MM-DD"
+  }
+}
