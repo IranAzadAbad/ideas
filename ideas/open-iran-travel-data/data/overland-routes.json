@@ -1,0 +1,336 @@
+[
+  {
+    "slug": "classic-route-tehran-shiraz",
+    "name": "The Classic Route: Tehran → Kashan → Isfahan → Yazd → Shiraz",
+    "short_description": "Iran's most iconic overland route through the cultural heartland",
+    "route_type": "cross_country",
+    "suitable_for": [
+      "bicycle",
+      "motorcycle",
+      "car",
+      "campervan",
+      "bus",
+      "backpacker"
+    ],
+    "difficulty_cycling": 3,
+    "difficulty_motorcycle": 2,
+    "difficulty_driving": 1,
+    "total_distance_km": 920,
+    "estimated_days_cycling": 14,
+    "estimated_days_motorcycle": 5,
+    "estimated_days_driving": 4,
+    "elevation_gain_m": 4500,
+    "max_elevation_m": 2200,
+    "road_surface": [
+      "paved"
+    ],
+    "road_quality_rating": 5,
+    "waypoints": [
+      {
+        "order": 1,
+        "city_slug": "tehran",
+        "name": "Tehran",
+        "day_from": 1,
+        "day_to": 2,
+        "km_from_previous": 0,
+        "notes": "Start point. Visit Golestan Palace, Grand Bazaar. If cycling, escape the city ASAP — traffic is intense."
+      },
+      {
+        "order": 2,
+        "city_slug": "kashan",
+        "name": "Kashan",
+        "day_from": 3,
+        "day_to": 3,
+        "km_from_previous": 240,
+        "notes": "Fin Garden, historic houses. Desert edge. Easy day trip from Tehran by bus or perfect first cycling stop."
+      },
+      {
+        "order": 3,
+        "city_slug": "isfahan",
+        "name": "Isfahan",
+        "day_from": 4,
+        "day_to": 6,
+        "km_from_previous": 220,
+        "notes": "Half the World. Naqsh-e Jahan Square, bridges, Armenian quarter. Allow 2-3 days minimum. Amir Kabir Hostel has secure bike/moto parking."
+      },
+      {
+        "order": 4,
+        "city_slug": "yazd",
+        "name": "Yazd",
+        "day_from": 7,
+        "day_to": 8,
+        "km_from_previous": 310,
+        "notes": "Wind catchers, Zoroastrian heritage, desert stargazing. The Isfahan→Yazd road crosses high desert — carry extra water if cycling."
+      },
+      {
+        "order": 5,
+        "city_slug": "shiraz",
+        "name": "Shiraz",
+        "day_from": 9,
+        "day_to": 10,
+        "km_from_previous": 440,
+        "notes": "Persepolis, Pasargadae, gardens, poetry. End point. Fly out from Shiraz or continue south to Persian Gulf."
+      }
+    ],
+    "best_months": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "avoid_months": [
+      7,
+      8
+    ],
+    "season_notes": "Spring (Mar-May) and autumn (Sep-Nov) are ideal. Summer (Jul-Aug) is brutally hot in Yazd/Shiraz (40°C+). Winter is fine but cold in Isfahan/Tehran.",
+    "fuel_availability": "Frequent on this route — every 50-80km. No remote stretches.",
+    "accommodation_notes": "Hotels, hostels, and guesthouses in all cities. Wild camping possible between cities. Traditional caravanserais converted to hotels along the route.",
+    "highlights": [
+      "Persepolis",
+      "Naqsh-e Jahan Square",
+      "Yazd Old City",
+      "Fin Garden",
+      "Pasargadae",
+      "Si-o-se Pol Bridge"
+    ],
+    "unesco_sites": [
+      "Persepolis",
+      "Naqsh-e Jahan Square",
+      "Yazd Historic City",
+      "Fin Garden"
+    ],
+    "is_recommended": true
+  },
+  {
+    "slug": "silk-road-east-west",
+    "name": "Silk Road: Bazargan → Tabriz → Tehran → Mashhad → Turkmenistan",
+    "short_description": "West-to-east Silk Road traverse entering from Turkey, exiting to Central Asia",
+    "route_type": "border_to_border",
+    "suitable_for": [
+      "motorcycle",
+      "car",
+      "campervan",
+      "bicycle"
+    ],
+    "difficulty_cycling": 4,
+    "difficulty_motorcycle": 3,
+    "difficulty_driving": 2,
+    "total_distance_km": 1800,
+    "estimated_days_cycling": 25,
+    "estimated_days_motorcycle": 8,
+    "estimated_days_driving": 6,
+    "entry_border_slug": "bazargan-gurbulak",
+    "exit_border_slug": "bajgiran-gaudan",
+    "best_months": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "fuel_availability": "Good throughout. Longest gap ~100km in eastern Khorasan.",
+    "highlights": [
+      "Tabriz Grand Bazaar",
+      "Kandovan village",
+      "Tehran museums",
+      "Mashhad Imam Reza Shrine",
+      "Nishapur",
+      "Silk Road caravanserais"
+    ],
+    "is_recommended": true
+  },
+  {
+    "slug": "caspian-coast",
+    "name": "Caspian Coast: Astara → Rasht → Ramsar → Sari → Gorgan",
+    "short_description": "Lush green coast ride through Iran's verdant north — rice paddies, forests, and Hyrcanian jungles",
+    "route_type": "coastal",
+    "suitable_for": [
+      "bicycle",
+      "motorcycle",
+      "car",
+      "campervan"
+    ],
+    "difficulty_cycling": 3,
+    "difficulty_motorcycle": 2,
+    "difficulty_driving": 2,
+    "total_distance_km": 650,
+    "estimated_days_cycling": 10,
+    "estimated_days_motorcycle": 3,
+    "road_surface": [
+      "paved"
+    ],
+    "best_months": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "season_notes": "Summer is humid and rainy. Spring and autumn are perfect. Winter is mild but grey.",
+    "highlights": [
+      "Hyrcanian Forests (UNESCO)",
+      "Masuleh village",
+      "Ramsar thermal springs",
+      "Golestan National Park",
+      "Veresk Bridge"
+    ],
+    "is_recommended": true
+  },
+  {
+    "slug": "persian-gulf-islands",
+    "name": "Persian Gulf: Bandar Abbas → Qeshm → Hormuz",
+    "short_description": "Island hopping in the Strait of Hormuz — rainbow mountains, mangroves, and fish markets",
+    "route_type": "regional",
+    "suitable_for": [
+      "bicycle",
+      "motorcycle",
+      "backpacker"
+    ],
+    "difficulty_cycling": 2,
+    "difficulty_motorcycle": 1,
+    "total_distance_km": 200,
+    "estimated_days_cycling": 4,
+    "estimated_days_motorcycle": 2,
+    "best_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "avoid_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "season_notes": "Winter only! Summer temperatures exceed 45°C with extreme humidity.",
+    "highlights": [
+      "Hormuz Island rainbow soil",
+      "Qeshm Geo Park",
+      "Stars Valley",
+      "Hara mangrove forests"
+    ],
+    "is_recommended": true
+  },
+  {
+    "slug": "western-mountains-kurdistan",
+    "name": "Western Mountains: Kermanshah → Sanandaj → Hamadan → Zanjan",
+    "short_description": "Kurdish highlands, Zagros passes, and ancient Median sites",
+    "route_type": "mountain",
+    "suitable_for": [
+      "motorcycle",
+      "bicycle",
+      "car"
+    ],
+    "difficulty_cycling": 5,
+    "difficulty_motorcycle": 3,
+    "difficulty_driving": 2,
+    "total_distance_km": 600,
+    "estimated_days_cycling": 10,
+    "elevation_gain_m": 8000,
+    "max_elevation_m": 2800,
+    "highlights": [
+      "Taq Bostan",
+      "Bisotun (UNESCO)",
+      "Hegmataneh",
+      "Soltaniyeh Dome (UNESCO)",
+      "Kurdish villages"
+    ],
+    "is_recommended": true
+  },
+  {
+    "slug": "desert-crossing-lut",
+    "name": "Lut Desert Crossing: Kerman → Shahdad → Nebka → Kerman",
+    "short_description": "Into the hottest place on Earth — Dasht-e Lut UNESCO site for the adventurous",
+    "route_type": "desert",
+    "suitable_for": [
+      "4x4",
+      "motorcycle"
+    ],
+    "difficulty_cycling": 5,
+    "difficulty_motorcycle": 4,
+    "difficulty_driving": 4,
+    "total_distance_km": 400,
+    "road_surface": [
+      "paved",
+      "gravel",
+      "sand"
+    ],
+    "best_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "avoid_months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "season_notes": "WINTER ONLY. Lut Desert holds the world record for highest surface temperature (70.7°C). Only November–February is safe.",
+    "highlights": [
+      "Lut Desert (UNESCO)",
+      "Kaluts sand castles",
+      "Shahdad palm groves",
+      "Night sky — zero light pollution"
+    ],
+    "is_recommended": false
+  },
+  {
+    "slug": "caucasus-circuit",
+    "name": "Caucasus Circuit: Tabriz → Norduz → Armenia → Georgia → (back to Tabriz)",
+    "short_description": "Cross into Armenia from northwestern Iran and loop through the Caucasus",
+    "route_type": "border_to_border",
+    "suitable_for": [
+      "motorcycle",
+      "car",
+      "campervan",
+      "bicycle"
+    ],
+    "difficulty_cycling": 4,
+    "difficulty_motorcycle": 3,
+    "total_distance_km": 1200,
+    "entry_border_slug": "norduz-agarak",
+    "exit_border_slug": "norduz-agarak",
+    "highlights": [
+      "Tabriz",
+      "Jolfa churches",
+      "Meghri gorge",
+      "Tatev Monastery",
+      "Yerevan",
+      "Tbilisi"
+    ],
+    "is_recommended": true
+  },
+  {
+    "slug": "alborz-mountain-passes",
+    "name": "Alborz Passes: Tehran → Chalus Road → Caspian → Haraz Road → Tehran",
+    "short_description": "Iran's most dramatic mountain roads — switchbacks from 2000m to sea level",
+    "route_type": "loop",
+    "suitable_for": [
+      "motorcycle",
+      "bicycle",
+      "car"
+    ],
+    "difficulty_cycling": 5,
+    "difficulty_motorcycle": 3,
+    "total_distance_km": 500,
+    "elevation_gain_m": 6000,
+    "max_elevation_m": 2700,
+    "highlights": [
+      "Chalus Road (Iran's most scenic drive)",
+      "Kandovan tunnel",
+      "Caspian coast",
+      "Haraz valley",
+      "Alamut Castle"
+    ],
+    "is_recommended": true
+  }
+]

@@ -1,0 +1,6 @@
+vehicle_type,slug,carnet_required,idp_required,insurance_required,max_stay_days,is_allowed,insurance_cost_usd,fuel_cost_usd_per_liter,speed_limit_city,speed_limit_highway,guide_required
+bicycle,bicycle,False,False,False,90,True,,0,,,False
+motorcycle_under_250cc,motorcycle-under-250cc,True,True,True,90,True,30,0.08,60,100,False
+motorcycle_over_250cc,motorcycle-over-250cc,True,True,True,5,True,30,0.08,60,100,False
+car,car,True,True,True,90,True,50,0.08,60,110,False
+campervan,campervan,True,True,True,90,True,,0.08,,,False

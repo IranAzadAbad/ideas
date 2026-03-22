@@ -1,0 +1,8647 @@
+[
+  {
+    "route_slug": "ahvaz-andimeshk-train",
+    "train_number": "981",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Ahvaz",
+        "time": "19:10",
+        "type": "departure"
+      },
+      {
+        "station": "Nezamiyeh",
+        "time": "19:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Khavar",
+        "time": "19:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Bamdezh",
+        "time": "19:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahu Dasht",
+        "time": "20:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Miyanab",
+        "time": "20:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Shush",
+        "time": "20:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzab",
+        "time": "21:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "21:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "ahvaz-mashhad-train",
+    "train_number": "180",
+    "operator": "Mahtab Seir Jam",
+    "stops": [
+      {
+        "station": "Ahvaz",
+        "time": "11:35",
+        "type": "departure"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "13:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "17:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "17:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "18:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Azna",
+        "time": "19:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Shazand",
+        "time": "20:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "21:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "06:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "08:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzevar",
+        "time": "11:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "14:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "ahvaz-tehran-train",
+    "train_number": "119",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Ahvaz",
+        "time": "13:00",
+        "type": "departure"
+      },
+      {
+        "station": "Haft Tappeh",
+        "time": "14:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Shush",
+        "time": "14:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "15:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "19:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "19:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "20:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Azna",
+        "time": "21:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Momen Abad",
+        "time": "21:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Shazand",
+        "time": "23:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "23:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "04:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "andimeshk-ahvaz-train",
+    "train_number": "928",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Andimeshk",
+        "time": "05:10",
+        "type": "departure"
+      },
+      {
+        "station": "Shush",
+        "time": "05:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Haft Tappeh",
+        "time": "06:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "07:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "andimeshk-ahvaz-train",
+    "train_number": "980",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Andimeshk",
+        "time": "15:50",
+        "type": "departure"
+      },
+      {
+        "station": "Sabzab",
+        "time": "16:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Shush",
+        "time": "16:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Haft Tappeh",
+        "time": "16:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Miyanab",
+        "time": "16:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahu Dasht",
+        "time": "17:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Bamdezh",
+        "time": "17:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Khavar",
+        "time": "17:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Nezamiyeh",
+        "time": "17:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "18:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "andimeshk-dorud-train",
+    "train_number": "914",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Andimeshk",
+        "time": "04:15",
+        "type": "departure"
+      },
+      {
+        "station": "Do Kuheh",
+        "time": "04:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Gol Mahak",
+        "time": "04:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Balarud",
+        "time": "05:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Mazu",
+        "time": "05:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahbazan",
+        "time": "06:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Taleh Zang",
+        "time": "06:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Panj",
+        "time": "07:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Haft",
+        "time": "07:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Keshvar",
+        "time": "08:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Chamsangar",
+        "time": "08:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "09:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "09:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Qarun",
+        "time": "09:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "10:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "andimeshk-dorud-train",
+    "train_number": "941",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Andimeshk",
+        "time": "12:25",
+        "type": "departure"
+      },
+      {
+        "station": "Do Kuheh",
+        "time": "12:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Gol Mahak",
+        "time": "12:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Balarud",
+        "time": "13:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Mazu",
+        "time": "14:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahbazan",
+        "time": "14:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Taleh Zang",
+        "time": "14:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Panj",
+        "time": "15:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Haft",
+        "time": "15:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Keshvar",
+        "time": "15:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Chamsangar",
+        "time": "16:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "16:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "17:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Qarun",
+        "time": "17:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "18:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "arak-mashhad-train",
+    "train_number": "178",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Arak",
+        "time": "19:00",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "02:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "04:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "05:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "08:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "09:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "10:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "bandar-abbas-isfahan-train",
+    "train_number": "533",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Bandar Abbas",
+        "time": "13:25",
+        "type": "departure"
+      },
+      {
+        "station": "Zadmahmoud",
+        "time": "15:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Tezerj",
+        "time": "15:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "18:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "19:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "20:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "22:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "00:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "01:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Sistan",
+        "time": "05:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Esfahan",
+        "time": "05:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "bandar-abbas-mashhad-train",
+    "train_number": "880",
+    "operator": "Ksar Rail",
+    "stops": [
+      {
+        "station": "Bandar Abbas",
+        "time": "14:40",
+        "type": "departure"
+      },
+      {
+        "station": "Tezerj",
+        "time": "17:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "19:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "20:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "21:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh Mobarakeh",
+        "time": "23:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "05:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "09:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "12:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "bandar-abbas-tehran-train",
+    "train_number": "821",
+    "operator": "Joupar Rail",
+    "stops": [
+      {
+        "station": "Bandar Abbas",
+        "time": "12:10",
+        "type": "departure"
+      },
+      {
+        "station": "Zadmahmoud",
+        "time": "14:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Tezerj",
+        "time": "15:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Kaheh",
+        "time": "16:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "17:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "18:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "19:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "21:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "00:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "01:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "01:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Nain",
+        "time": "02:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Zavareh",
+        "time": "03:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "04:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "05:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "07:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "09:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "bandar-abbas-tehran-train",
+    "train_number": "823",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Bandar Abbas",
+        "time": "15:30",
+        "type": "departure"
+      },
+      {
+        "station": "Sirjan",
+        "time": "20:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "21:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "22:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "00:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "02:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "03:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "04:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "08:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "09:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "11:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "dorud-andimeshk-train",
+    "train_number": "915",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Dorud",
+        "time": "14:00",
+        "type": "departure"
+      },
+      {
+        "station": "Qarun",
+        "time": "14:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "14:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "15:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Chamsangar",
+        "time": "15:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Keshvar",
+        "time": "15:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Haft",
+        "time": "16:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Panj",
+        "time": "16:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Taleh Zang",
+        "time": "17:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahbazan",
+        "time": "17:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Mazu",
+        "time": "18:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Balarud",
+        "time": "18:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Gol Mahak",
+        "time": "18:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Do Kuheh",
+        "time": "19:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "19:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "dorud-andimeshk-train",
+    "train_number": "940",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Dorud",
+        "time": "05:30",
+        "type": "departure"
+      },
+      {
+        "station": "Qarun",
+        "time": "05:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "06:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "06:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Chamsangar",
+        "time": "07:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Keshvar",
+        "time": "07:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Haft",
+        "time": "07:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Panj",
+        "time": "08:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Taleh Zang",
+        "time": "08:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahbazan",
+        "time": "09:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Mazu",
+        "time": "09:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Balarud",
+        "time": "09:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Gol Mahak",
+        "time": "10:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Do Kuheh",
+        "time": "10:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "10:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-zahedan-train",
+    "train_number": "724",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "11:00",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "12:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "14:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "15:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "17:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "18:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "18:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "21:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarand",
+        "time": "00:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Kerman",
+        "time": "01:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Bam",
+        "time": "04:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Fahraj",
+        "time": "05:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Zahedan",
+        "time": "09:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-zanjan-train",
+    "train_number": "460",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "07:00",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "07:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "08:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "08:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Ziaran",
+        "time": "08:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "09:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "09:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "10:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "11:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "urmia-tehran-train",
+    "train_number": "425",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Urmia",
+        "time": "19:55",
+        "type": "departure"
+      },
+      {
+        "station": "Miandoab",
+        "time": "22:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "23:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "01:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "02:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "05:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "07:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "09:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "10:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "yazd-mashhad-train",
+    "train_number": "680",
+    "operator": "Ksar Rail",
+    "stops": [
+      {
+        "station": "Yazd",
+        "time": "14:50",
+        "type": "departure"
+      },
+      {
+        "station": "Bafgh",
+        "time": "16:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Robat - E Posht - E Badam",
+        "time": "19:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "22:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Boshruyeh",
+        "time": "23:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Bajestan",
+        "time": "00:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "02:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashmar",
+        "time": "03:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "05:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "yazd-mashhad-train",
+    "train_number": "682",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Yazd",
+        "time": "14:50",
+        "type": "departure"
+      },
+      {
+        "station": "Tabas",
+        "time": "22:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "05:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "yazd-tehran-train",
+    "train_number": "621",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Yazd",
+        "time": "21:35",
+        "type": "departure"
+      },
+      {
+        "station": "Ardekan",
+        "time": "22:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "02:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "03:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "06:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "zahedan-tehran-train",
+    "train_number": "725",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Zahedan",
+        "time": "12:35",
+        "type": "departure"
+      },
+      {
+        "station": "Fahraj",
+        "time": "16:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Bam",
+        "time": "17:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Kerman",
+        "time": "19:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarand",
+        "time": "21:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "23:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "02:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "03:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "03:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "06:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "07:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "08:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "10:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "zanjan-mashhad-train",
+    "train_number": "490",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Zanjan",
+        "time": "14:10",
+        "type": "departure"
+      },
+      {
+        "station": "Takestan",
+        "time": "15:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "16:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "17:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "18:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "02:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "04:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "05:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "zanjan-mashhad-train",
+    "train_number": "482",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Zanjan",
+        "time": "20:15",
+        "type": "departure"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "21:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "22:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "22:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "23:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "00:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "00:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "03:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "06:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "09:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "10:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "12:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "zanjan-tehran-train",
+    "train_number": "461",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Zanjan",
+        "time": "15:30",
+        "type": "departure"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "16:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "16:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "17:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "18:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "18:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "18:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "19:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "firouzkuh-tehran-train",
+    "train_number": "925",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Firouzkuh",
+        "time": "16:10",
+        "type": "departure"
+      },
+      {
+        "station": "Mahabad",
+        "time": "16:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "16:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "17:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Kabutardarreh",
+        "time": "17:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Bonakuh",
+        "time": "17:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "17:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Kavir",
+        "time": "18:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Abardej",
+        "time": "18:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "19:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "18:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "19:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "19:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "19:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "garmsar-tehran-train",
+    "train_number": "931",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Garmsar",
+        "time": "08:10",
+        "type": "departure"
+      },
+      {
+        "station": "Pishva",
+        "time": "08:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "09:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "10:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "09:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "garmsar-tehran-train",
+    "train_number": "933",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Garmsar",
+        "time": "05:55",
+        "type": "departure"
+      },
+      {
+        "station": "Kavir",
+        "time": "04:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "19:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "20:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "05:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "19:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "06:12",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "garmsar-tehran-train",
+    "train_number": "993",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Garmsar",
+        "time": "14:30",
+        "type": "departure"
+      },
+      {
+        "station": "Pishva",
+        "time": "15:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "15:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "15:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "16:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "gorgan-incheh-baroon-train",
+    "train_number": "978",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Gorgan",
+        "time": "10:30",
+        "type": "departure"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "10:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Yampi",
+        "time": "11:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Petrochemie",
+        "time": "11:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Incheh Baroon",
+        "time": "11:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "gorgan-pole-e-sefid-train",
+    "train_number": "962",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Gorgan",
+        "time": "14:20",
+        "type": "departure"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "14:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "15:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "15:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Galugah",
+        "time": "16:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Tir Tash",
+        "time": "16:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Behshahr",
+        "time": "16:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Rostam Kola",
+        "time": "16:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Neka",
+        "time": "16:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Nowbakht",
+        "time": "17:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "17:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Guni - Ye Bafi",
+        "time": "17:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "17:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "18:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "18:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "19:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "gorgan-pole-e-sefid-train",
+    "train_number": "790",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Gorgan",
+        "time": "17:00",
+        "type": "departure"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "17:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "17:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "18:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Galugah",
+        "time": "18:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Behshahr",
+        "time": "19:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Rostam Kola",
+        "time": "19:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Neka",
+        "time": "19:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Nowbakht",
+        "time": "19:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "20:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Guni - Ye Bafi",
+        "time": "20:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "21:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "21:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "21:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "21:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "gorgan-tehran-train",
+    "train_number": "221",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Gorgan",
+        "time": "19:20",
+        "type": "departure"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "20:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "20:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Neka",
+        "time": "22:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "22:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "23:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "23:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "23:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "00:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Veresk",
+        "time": "01:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "02:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "03:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "03:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "04:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "05:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "05:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "06:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "hamadan-mashhad-train",
+    "train_number": "192",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Hamedan",
+        "time": "18:10",
+        "type": "departure"
+      },
+      {
+        "station": "Saveh",
+        "time": "21:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "01:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "04:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "06:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "08:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "09:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "hashtgerd-tehran-train",
+    "train_number": "737",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Hashtgerd",
+        "time": "16:40",
+        "type": "departure"
+      },
+      {
+        "station": "Kordan",
+        "time": "16:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "16:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Malaki",
+        "time": "17:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Lashkari",
+        "time": "17:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Nik Pasandi",
+        "time": "17:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "17:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "hashtgerd-tehran-train",
+    "train_number": "707",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Hashtgerd",
+        "time": "08:05",
+        "type": "departure"
+      },
+      {
+        "station": "Kordan",
+        "time": "08:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "06:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Malaki",
+        "time": "08:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Lashkari",
+        "time": "07:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Nik Pasandi",
+        "time": "09:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "09:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "hashtgerd-tehran-train",
+    "train_number": "741",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Hashtgerd",
+        "time": "18:35",
+        "type": "departure"
+      },
+      {
+        "station": "Kordan",
+        "time": "18:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "19:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Malaki",
+        "time": "19:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Lashkari",
+        "time": "19:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Nik Pasandi",
+        "time": "19:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "19:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "incheh-baroon-gorgan-train",
+    "train_number": "979",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Incheh Baroon",
+        "time": "14:30",
+        "type": "departure"
+      },
+      {
+        "station": "Petrochemie",
+        "time": "14:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Yampi",
+        "time": "15:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "15:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Gorgan",
+        "time": "15:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "isfahan-bandar-abbas-train",
+    "train_number": "532",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Esfahan",
+        "time": "15:20",
+        "type": "departure"
+      },
+      {
+        "station": "Sistan",
+        "time": "15:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "18:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "19:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "22:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "00:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "01:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "02:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Tezerj",
+        "time": "05:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Zadmahmoud",
+        "time": "06:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Abbas",
+        "time": "07:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "isfahan-mashhad-train",
+    "train_number": "580",
+    "operator": "Noor Rail",
+    "stops": [
+      {
+        "station": "Esfahan",
+        "time": "16:50",
+        "type": "departure"
+      },
+      {
+        "station": "Sistan",
+        "time": "17:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Espidan",
+        "time": "19:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "21:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "22:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "00:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "08:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "10:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "11:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "isfahan-mashhad-train",
+    "train_number": "584",
+    "operator": "Noor Rail",
+    "stops": [
+      {
+        "station": "Esfahan",
+        "time": "18:30",
+        "type": "departure"
+      },
+      {
+        "station": "Sistan",
+        "time": "19:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Espidan",
+        "time": "21:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "22:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "00:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "02:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "07:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "10:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "11:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "13:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "isfahan-mashhad-train",
+    "train_number": "588",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Esfahan",
+        "time": "14:05",
+        "type": "departure"
+      },
+      {
+        "station": "Kashan",
+        "time": "18:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "19:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "21:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "23:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "00:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "02:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "03:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "05:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "07:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "09:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "jolfa-tabriz-train",
+    "train_number": "945",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Jolfa",
+        "time": "18:00",
+        "type": "departure"
+      },
+      {
+        "station": "Harzand",
+        "time": "18:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Marand",
+        "time": "19:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Sahlan",
+        "time": "20:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabriz",
+        "time": "20:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "karaj-mashhad-train",
+    "train_number": "486",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Karaj",
+        "time": "14:10",
+        "type": "departure"
+      },
+      {
+        "station": "Tehran",
+        "time": "14:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "17:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "19:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "20:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "23:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "00:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "02:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "karaj-mashhad-train",
+    "train_number": "496",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Karaj",
+        "time": "23:25",
+        "type": "departure"
+      },
+      {
+        "station": "Tehran",
+        "time": "00:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "16:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "03:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "06:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "11:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "karun-mehshahr-train",
+    "train_number": "902",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Karun",
+        "time": "06:10",
+        "type": "departure"
+      },
+      {
+        "station": "Miandasht",
+        "time": "06:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Khosravi",
+        "time": "06:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Gargar",
+        "time": "07:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Sar - E Bandar",
+        "time": "07:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Mehshahr",
+        "time": "07:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "kashan-mashhad-train",
+    "train_number": "582",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Kashan",
+        "time": "20:30",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "21:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "02:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "05:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "08:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "09:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "10:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "kerman-mashhad-train",
+    "train_number": "780",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Kerman",
+        "time": "15:05",
+        "type": "departure"
+      },
+      {
+        "station": "Zarand",
+        "time": "16:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Siriz",
+        "time": "17:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh Mobarakeh",
+        "time": "18:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahabad",
+        "time": "19:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Robat - E Posht - E Badam",
+        "time": "21:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "23:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Bajestan",
+        "time": "02:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "04:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashmar",
+        "time": "06:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "07:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "kerman-tehran-train",
+    "train_number": "721",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Kerman",
+        "time": "14:05",
+        "type": "departure"
+      },
+      {
+        "station": "Zarand",
+        "time": "15:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Siriz",
+        "time": "16:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "17:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "19:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "20:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "21:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Nain",
+        "time": "22:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Zavareh",
+        "time": "23:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "00:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "00:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "02:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "04:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "kerman-tehran-train",
+    "train_number": "723",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Kerman",
+        "time": "16:35",
+        "type": "departure"
+      },
+      {
+        "station": "Zarand",
+        "time": "17:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Siriz",
+        "time": "18:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "19:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "22:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "23:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "03:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "04:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "06:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "kermanshah-mashhad-train",
+    "train_number": "198",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Kermanshah",
+        "time": "17:20",
+        "type": "departure"
+      },
+      {
+        "station": "Firouzan",
+        "time": "19:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Malayer",
+        "time": "20:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "22:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "03:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "06:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "09:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "11:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "13:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "15:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "khaf-tehran-train",
+    "train_number": "357",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Khaf",
+        "time": "15:05",
+        "type": "departure"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "16:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashmar",
+        "time": "18:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "18:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzevar",
+        "time": "19:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "20:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "21:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "21:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "22:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "23:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "01:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "02:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "03:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "04:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "khorramshahr-ahvaz-train",
+    "train_number": "910",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Khorramshahr",
+        "time": "06:10",
+        "type": "departure"
+      },
+      {
+        "station": "Hoseyniyeh",
+        "time": "06:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Hamid Moussavi",
+        "time": "07:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Qods",
+        "time": "07:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "08:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "khorramshahr-tehran-train",
+    "train_number": "131",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Khorramshahr",
+        "time": "14:40",
+        "type": "departure"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "16:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Haft Tappeh",
+        "time": "18:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Shush",
+        "time": "18:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "18:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "22:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "23:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Azna",
+        "time": "01:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Shazand",
+        "time": "02:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "02:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "08:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "malayer-mashhad-train",
+    "train_number": "182",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Malayer",
+        "time": "20:40",
+        "type": "departure"
+      },
+      {
+        "station": "Arak",
+        "time": "22:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "06:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "09:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "11:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "13:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "15:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "maragheh-tehran-train",
+    "train_number": "423",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Maragheh",
+        "time": "23:30",
+        "type": "departure"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "01:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "02:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "05:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "02:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "07:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "07:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "08:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "08:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "08:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "09:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-ahvaz-train",
+    "train_number": "181",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "01:25",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "07:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "09:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "18:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Azna",
+        "time": "20:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "21:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "23:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "02:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "05:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-arak-train",
+    "train_number": "179",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "21:45",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "23:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "22:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "03:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "03:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "05:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "07:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "13:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-bandar-abbas-train",
+    "train_number": "881",
+    "operator": "Ksar Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "11:05",
+        "type": "departure"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "14:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "18:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "02:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "03:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "03:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Abbas",
+        "time": "09:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-hamadan-train",
+    "train_number": "193",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "14:55",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "16:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "17:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "20:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "23:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Saveh",
+        "time": "03:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Hamedan",
+        "time": "06:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-isfahan-train",
+    "train_number": "581",
+    "operator": "Noor Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "12:05",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "17:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "20:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "23:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "02:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Esfahan",
+        "time": "07:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-isfahan-train",
+    "train_number": "589",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "10:15",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "11:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "14:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "15:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "16:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "18:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "19:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "21:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "23:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "00:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Esfahan",
+        "time": "05:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-isfahan-train",
+    "train_number": "585",
+    "operator": "Saba Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "14:10",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "19:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "00:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "04:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Esfahan",
+        "time": "08:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-karaj-train",
+    "train_number": "487",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "22:10",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "21:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "01:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "03:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "04:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "06:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "08:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "08:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "10:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-karaj-train",
+    "train_number": "497",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "22:10",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "01:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "06:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "07:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "08:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "10:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-kashan-train",
+    "train_number": "583",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "21:20",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "20:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "21:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "00:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "02:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "05:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "07:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "08:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-kerman-train",
+    "train_number": "781",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "13:55",
+        "type": "departure"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "16:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "20:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahabad",
+        "time": "00:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh Mobarakeh",
+        "time": "01:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarand",
+        "time": "04:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Kerman",
+        "time": "05:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-kermanshah-train",
+    "train_number": "199",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "10:45",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "12:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "14:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "16:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "21:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "22:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "03:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Malayer",
+        "time": "05:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzan",
+        "time": "07:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Kermanshah",
+        "time": "09:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-malayer-train",
+    "train_number": "183",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "21:40",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "23:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "22:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "02:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "05:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "07:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "13:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Malayer",
+        "time": "15:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-qazvin-train",
+    "train_number": "485",
+    "operator": "Mahtab Seir Jam",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "14:30",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "19:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "22:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "00:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "01:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "02:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "03:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "03:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-qom-train",
+    "train_number": "191",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "13:15",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "14:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "16:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "18:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "21:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "23:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "02:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-qom-train",
+    "train_number": "197",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "15:40",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "17:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "18:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "21:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "22:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "23:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "01:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "05:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-qom-train",
+    "train_number": "185",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "11:55",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "18:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "21:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "02:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-qom-train",
+    "train_number": "195",
+    "operator": "Saba Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "18:10",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "19:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "23:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "02:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "07:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-rasht-train",
+    "train_number": "475",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "19:55",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "01:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "07:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "08:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "09:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Rasht",
+        "time": "12:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-sarakhs-train",
+    "train_number": "936",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "10:30",
+        "type": "departure"
+      },
+      {
+        "station": "Salam",
+        "time": "10:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Sarakhs",
+        "time": "13:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-sarakhs-train",
+    "train_number": "938",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "18:55",
+        "type": "departure"
+      },
+      {
+        "station": "Salam",
+        "time": "19:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Sarakhs",
+        "time": "21:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-sari-train",
+    "train_number": "281",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "13:35",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "15:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "16:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "18:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "21:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "23:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "00:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "00:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "01:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Veresk",
+        "time": "02:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "03:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "04:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "04:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "05:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "05:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-shiraz-train",
+    "train_number": "587",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "06:35",
+        "type": "departure"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "09:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Bajestan",
+        "time": "10:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Boshruyeh",
+        "time": "11:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "13:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Varzaneh",
+        "time": "00:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Harand",
+        "time": "00:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Sistan",
+        "time": "01:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahreza",
+        "time": "03:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Abadeh",
+        "time": "04:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Eghlid",
+        "time": "05:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Safashahr",
+        "time": "06:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Saadatshahr",
+        "time": "07:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Shiraz",
+        "time": "08:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tabriz-train",
+    "train_number": "481",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "06:00",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "07:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "08:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "11:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "12:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "14:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "16:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "17:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "19:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "19:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "20:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "21:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "22:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "00:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "01:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "03:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "04:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "05:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarei",
+        "time": "05:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabriz",
+        "time": "06:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tabriz-train",
+    "train_number": "489",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "09:00",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "10:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "11:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "14:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "15:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "17:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "19:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "19:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "21:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "22:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "23:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "23:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "00:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "01:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "03:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "04:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "06:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "07:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "08:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarei",
+        "time": "08:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabriz",
+        "time": "08:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "341",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "17:30",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "19:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "23:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "01:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "02:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "04:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "347",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "21:20",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "22:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "00:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "02:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "05:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "06:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "07:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "08:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "351",
+    "operator": "Mahtab Seir Jam",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "16:25",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "22:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "00:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "03:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "03:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "367",
+    "operator": "Noor Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "19:35",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "21:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "01:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "03:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "06:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "385",
+    "operator": "Parse Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "00:05",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "05:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "08:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "11:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "319",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "07:05",
+        "type": "departure"
+      },
+      {
+        "station": "Kashmar",
+        "time": "08:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "08:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzevar",
+        "time": "09:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Bayhaq",
+        "time": "10:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "10:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Jovin",
+        "time": "10:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "11:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "13:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "14:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "16:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Yatri",
+        "time": "17:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "17:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "18:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "19:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "321",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "17:50",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "19:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "21:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "23:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "02:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "04:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "05:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "331",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "11:30",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "13:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzevar",
+        "time": "14:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Bayhaq",
+        "time": "14:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "14:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Jovin",
+        "time": "15:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "17:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "18:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "20:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "21:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "22:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "22:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "23:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "369",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "20:45",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "22:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "23:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "23:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "00:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "02:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "03:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "05:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "07:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "07:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "381",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "16:45",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "18:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "19:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "22:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "23:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "01:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "03:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "03:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "391",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "00:25",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "01:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "03:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "06:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "07:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "08:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "10:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "11:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-tehran-train",
+    "train_number": "349",
+    "operator": "Saba Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "18:10",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "19:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "21:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "03:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "05:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-yazd-train",
+    "train_number": "681",
+    "operator": "Ksar Rail",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "19:15",
+        "type": "departure"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "22:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabas",
+        "time": "02:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "08:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "10:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-yazd-train",
+    "train_number": "683",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "19:15",
+        "type": "departure"
+      },
+      {
+        "station": "Tabas",
+        "time": "02:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "10:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-zanjan-train",
+    "train_number": "483",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "23:15",
+        "type": "departure"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "00:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "02:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "05:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "07:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "09:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "10:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "11:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "12:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "13:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "13:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "14:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "15:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mashhad-zanjan-train",
+    "train_number": "491",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mashad",
+        "time": "16:05",
+        "type": "departure"
+      },
+      {
+        "station": "Shahrud",
+        "time": "21:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "00:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "02:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "03:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "04:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "05:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "08:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mehshahr-karun-train",
+    "train_number": "903",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Mehshahr",
+        "time": "08:25",
+        "type": "departure"
+      },
+      {
+        "station": "Sar - E Bandar",
+        "time": "08:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Gargar",
+        "time": "09:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Khosravi",
+        "time": "09:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Miandasht",
+        "time": "09:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Karun",
+        "time": "10:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "mianeh-tehran-train",
+    "train_number": "453",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Mianeh",
+        "time": "05:30",
+        "type": "departure"
+      },
+      {
+        "station": "Zanjan",
+        "time": "07:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "08:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "08:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "09:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "10:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "11:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "pishva-tehran-train",
+    "train_number": "917",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Pishva",
+        "time": "05:15",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "05:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "05:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "05:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "06:22",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "pishva-tehran-train",
+    "train_number": "919",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Pishva",
+        "time": "07:10",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "10:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "10:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "07:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "10:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "pishva-tehran-train",
+    "train_number": "995",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Pishva",
+        "time": "15:50",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "16:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Rey",
+        "time": "16:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "16:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "pole---e-sefid-gorgan-train",
+    "train_number": "961",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Pole - E Sefid",
+        "time": "13:00",
+        "type": "departure"
+      },
+      {
+        "station": "Zirab",
+        "time": "13:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "13:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "14:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Guni - Ye Bafi",
+        "time": "14:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "15:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Nowbakht",
+        "time": "15:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Neka",
+        "time": "15:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Rostam Kola",
+        "time": "15:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Behshahr",
+        "time": "15:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Tir Tash",
+        "time": "15:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Galugah",
+        "time": "15:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "16:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "16:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "17:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Gorgan",
+        "time": "17:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "pole---e-sefid-gorgan-train",
+    "train_number": "963",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Pole - E Sefid",
+        "time": "05:25",
+        "type": "departure"
+      },
+      {
+        "station": "Zirab",
+        "time": "05:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "06:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "07:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Nowbakht",
+        "time": "07:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Neka",
+        "time": "07:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Behshahr",
+        "time": "07:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Tir Tash",
+        "time": "08:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "08:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "09:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "09:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Gorgan",
+        "time": "10:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "pole---e-sefid-gorgan-train",
+    "train_number": "791",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Pole - E Sefid",
+        "time": "06:30",
+        "type": "departure"
+      },
+      {
+        "station": "Zirab",
+        "time": "06:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "07:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "08:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Nowbakht",
+        "time": "08:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Rostam Kola",
+        "time": "08:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Behshahr",
+        "time": "09:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Tir Tash",
+        "time": "09:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Galugah",
+        "time": "09:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "09:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "10:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabz Dasht",
+        "time": "10:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Gorgan",
+        "time": "11:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qazvin-mashhad-train",
+    "train_number": "484",
+    "operator": "Mahtab Seir Jam",
+    "stops": [
+      {
+        "station": "Qazvin",
+        "time": "12:25",
+        "type": "departure"
+      },
+      {
+        "station": "Abyek",
+        "time": "12:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "14:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "14:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "17:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "20:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "23:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "02:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qazvin-tehran-train",
+    "train_number": "457",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Qazvin",
+        "time": "04:55",
+        "type": "departure"
+      },
+      {
+        "station": "Abyek",
+        "time": "05:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "06:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "07:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-mashhad-train",
+    "train_number": "184",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "11:15",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "16:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "18:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "19:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "22:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "23:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "00:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-mashhad-train",
+    "train_number": "190",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "16:30",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "19:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "22:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "23:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "00:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "03:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "04:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "06:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-mashhad-train",
+    "train_number": "196",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "15:15",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "20:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "23:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "05:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-mashhad-train",
+    "train_number": "194",
+    "operator": "Saba Rail",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "17:10",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "20:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "22:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "01:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "03:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "05:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "06:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-tehran-train",
+    "train_number": "121",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "09:00",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "10:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "11:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-tehran-train",
+    "train_number": "125",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "14:45",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "16:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "16:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-tehran-train",
+    "train_number": "127",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "18:30",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "20:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "20:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "qom-tehran-train",
+    "train_number": "129",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Qom",
+        "time": "20:45",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "22:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "22:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "rasht-mashhad-train",
+    "train_number": "474",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Rasht",
+        "time": "17:45",
+        "type": "departure"
+      },
+      {
+        "station": "Qazvin",
+        "time": "20:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "21:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "22:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "04:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "10:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "sarakhs-mashhad-train",
+    "train_number": "937",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Sarakhs",
+        "time": "14:45",
+        "type": "departure"
+      },
+      {
+        "station": "Salam",
+        "time": "17:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "17:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "sarakhs-mashhad-train",
+    "train_number": "939",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Sarakhs",
+        "time": "05:05",
+        "type": "departure"
+      },
+      {
+        "station": "Salam",
+        "time": "07:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "07:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "sari-mashhad-train",
+    "train_number": "280",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Sari",
+        "time": "12:40",
+        "type": "departure"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "13:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "15:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "14:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "14:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "16:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "17:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "18:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "20:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "22:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "23:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "01:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "02:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "04:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "sari-tehran-train",
+    "train_number": "219",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Sari",
+        "time": "18:55",
+        "type": "departure"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "19:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "19:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "20:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "20:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Savadkuh",
+        "time": "21:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Sorkhabad",
+        "time": "21:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Veresk",
+        "time": "21:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "22:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "23:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "23:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Kabutardarreh",
+        "time": "00:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Bonakuh",
+        "time": "00:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "00:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "01:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "01:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "02:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "shiraz-tehran-train",
+    "train_number": "525",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Shiraz",
+        "time": "16:40",
+        "type": "departure"
+      },
+      {
+        "station": "Saadatshahr",
+        "time": "18:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Safashahr",
+        "time": "19:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Eghlid",
+        "time": "20:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Abadeh",
+        "time": "20:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahreza",
+        "time": "22:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Sistan",
+        "time": "00:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Charizeh",
+        "time": "01:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Espidan",
+        "time": "02:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "03:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "04:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "05:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "07:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tabriz-jolfa-train",
+    "train_number": "944",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tabriz",
+        "time": "08:30",
+        "type": "departure"
+      },
+      {
+        "station": "Sahlan",
+        "time": "08:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Marand",
+        "time": "09:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Harzand",
+        "time": "10:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Jolfa",
+        "time": "11:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tabriz-mashhad-train",
+    "train_number": "480",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tabriz",
+        "time": "13:20",
+        "type": "departure"
+      },
+      {
+        "station": "Zarei",
+        "time": "13:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "14:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "15:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "15:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "17:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "19:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "20:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "22:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "22:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "23:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "00:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "00:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "01:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "05:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "06:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "07:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "10:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "11:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "13:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tabriz-mashhad-train",
+    "train_number": "488",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tabriz",
+        "time": "14:50",
+        "type": "departure"
+      },
+      {
+        "station": "Zarei",
+        "time": "15:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "15:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "16:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "17:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "19:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "20:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "22:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "23:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "00:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "00:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "01:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "02:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "02:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "06:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "08:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "08:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "11:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "13:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "14:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tabriz-tehran-train",
+    "train_number": "435",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Tabriz",
+        "time": "16:05",
+        "type": "departure"
+      },
+      {
+        "station": "Zarei",
+        "time": "15:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "16:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "16:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "18:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "19:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "21:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "22:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "00:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "00:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "01:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "02:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "04:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tabriz-tehran-train",
+    "train_number": "433",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tabriz",
+        "time": "22:35",
+        "type": "departure"
+      },
+      {
+        "station": "Zarei",
+        "time": "23:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "23:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "00:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "00:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "02:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "04:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "06:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "07:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "08:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "08:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "09:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "10:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "takestan-tehran-train",
+    "train_number": "743",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Takestan",
+        "time": "06:05",
+        "type": "departure"
+      },
+      {
+        "station": "Qazvin",
+        "time": "06:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "07:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "07:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Karaj",
+        "time": "07:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Tehran",
+        "time": "08:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-ahvaz-train",
+    "train_number": "118",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "15:20",
+        "type": "departure"
+      },
+      {
+        "station": "Arak",
+        "time": "19:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Shazand",
+        "time": "20:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Momen Abad",
+        "time": "21:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Azna",
+        "time": "22:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "23:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "00:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "00:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "03:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Shush",
+        "time": "04:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Haft Tappeh",
+        "time": "05:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "06:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-bandar-abbas-train",
+    "train_number": "820",
+    "operator": "Joupar Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "12:20",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "14:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "15:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "16:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Zavareh",
+        "time": "17:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Nain",
+        "time": "18:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "19:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "19:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "20:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "22:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "01:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "02:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "03:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Tezerj",
+        "time": "06:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Zadmahmoud",
+        "time": "06:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Abbas",
+        "time": "08:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-bandar-abbas-train",
+    "train_number": "822",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "14:25",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "16:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "17:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "21:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "22:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "00:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahmadabad",
+        "time": "02:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Khatun Abad",
+        "time": "03:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Sirjan",
+        "time": "04:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Abbas",
+        "time": "10:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-firouzkuh-train",
+    "train_number": "924",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "11:45",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "11:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "12:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "12:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "13:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Bonakuh",
+        "time": "13:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Kabutardarreh",
+        "time": "14:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "14:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "14:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Mahabad",
+        "time": "15:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "15:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-garmsar-train",
+    "train_number": "930",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "06:10",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "06:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "06:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "07:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "07:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-garmsar-train",
+    "train_number": "932",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "17:35",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "17:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "18:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "18:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "19:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-garmsar-train",
+    "train_number": "976",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "19:30",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "19:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "20:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "20:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "21:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-garmsar-train",
+    "train_number": "992",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "11:00",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "11:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "11:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "11:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "12:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-garmsar-train",
+    "train_number": "984",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "15:40",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "15:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "16:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "16:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "17:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-gorgan-train",
+    "train_number": "220",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "21:00",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "21:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "21:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "22:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "23:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "23:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "00:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Veresk",
+        "time": "01:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "02:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "03:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "03:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "03:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "04:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Neka",
+        "time": "04:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Behshahr",
+        "time": "05:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Gaz",
+        "time": "05:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Bandar Torkaman",
+        "time": "06:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Gorgan",
+        "time": "07:25",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-hashtgerd-train",
+    "train_number": "710",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "18:15",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "19:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "19:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-kerman-train",
+    "train_number": "720",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "19:00",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "20:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "22:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "23:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Zavareh",
+        "time": "23:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Nain",
+        "time": "00:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "01:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Meybod",
+        "time": "02:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "03:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "05:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Siriz",
+        "time": "06:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarand",
+        "time": "08:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Kerman",
+        "time": "09:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-kerman-train",
+    "train_number": "722",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "17:10",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "18:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "19:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "20:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Ardekan",
+        "time": "23:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "00:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Bafgh",
+        "time": "03:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Siriz",
+        "time": "04:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Kerman",
+        "time": "07:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-khaf-train",
+    "train_number": "356",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "12:35",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "13:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "14:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "15:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "16:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "17:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "19:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "19:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "20:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzevar",
+        "time": "20:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "21:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashmar",
+        "time": "22:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Torbat - E Heydarieh",
+        "time": "23:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Khaf",
+        "time": "01:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-khorramshahr-train",
+    "train_number": "130",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "16:45",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "17:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Fourudgah",
+        "time": "17:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Moshkabad",
+        "time": "20:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Arak",
+        "time": "21:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Shazand",
+        "time": "22:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Nourabad",
+        "time": "22:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Somayeh",
+        "time": "22:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Momen Abad",
+        "time": "23:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Azna",
+        "time": "23:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Darband",
+        "time": "00:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Dorud",
+        "time": "00:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Bisheh",
+        "time": "01:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Sepiddasht",
+        "time": "01:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Chamsangar",
+        "time": "02:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Haft",
+        "time": "02:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Tang - E Panj",
+        "time": "03:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Mazu",
+        "time": "04:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Balarud",
+        "time": "04:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Gol Mahak",
+        "time": "05:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Andimeshk",
+        "time": "05:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Shush",
+        "time": "06:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Haft Tappeh",
+        "time": "06:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Ahvaz",
+        "time": "07:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramshahr",
+        "time": "09:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-maragheh-train",
+    "train_number": "422",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "23:30",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "00:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "00:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "01:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "01:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "02:19",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "03:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "04:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "06:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "07:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Atash Bagh",
+        "time": "08:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Saraju",
+        "time": "08:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Sahand",
+        "time": "08:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "09:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "340",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "21:05",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "00:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "06:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "08:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "346",
+    "operator": "Fadak Trains",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "21:25",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "23:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "06:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "08:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "366",
+    "operator": "Noor Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "20:35",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "23:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "01:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "03:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "06:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "07:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "384",
+    "operator": "Parse Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "22:05",
+        "type": "departure"
+      },
+      {
+        "station": "Garmsar",
+        "time": "23:25",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "00:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "07:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "08:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "318",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "08:50",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "09:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "10:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Yatri",
+        "time": "10:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "11:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "13:48",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "14:38",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "16:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "16:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Jovin",
+        "time": "17:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "17:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Bayhaq",
+        "time": "18:04",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "19:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashmar",
+        "time": "19:50",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "21:00",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "320",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "20:15",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "23:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "01:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "03:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "05:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "07:10",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "330",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "16:20",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "14:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "16:58",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "15:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "18:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "20:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "21:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Jovin",
+        "time": "00:06",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "00:23",
+        "type": "arrival"
+      },
+      {
+        "station": "Bayhaq",
+        "time": "00:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Sabzevar",
+        "time": "01:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "01:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "03:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "368",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "13:55",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "16:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "18:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "18:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "20:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "20:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "21:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "23:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "00:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "380",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "00:00",
+        "type": "departure"
+      },
+      {
+        "station": "Varamin",
+        "time": "00:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Semnan",
+        "time": "02:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "04:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "05:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "07:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "09:10",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "10:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "390",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "17:20",
+        "type": "departure"
+      },
+      {
+        "station": "Semnan",
+        "time": "19:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "21:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "22:12",
+        "type": "arrival"
+      },
+      {
+        "station": "Jajarm",
+        "time": "23:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Azadur",
+        "time": "00:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "00:40",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "02:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "03:55",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "348",
+    "operator": "Saba Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "19:45",
+        "type": "departure"
+      },
+      {
+        "station": "Garmsar",
+        "time": "22:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "03:30",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "05:15",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "06:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mashhad-train",
+    "train_number": "350",
+    "operator": "Saba Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "22:50",
+        "type": "departure"
+      },
+      {
+        "station": "Garmsar",
+        "time": "00:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Damghan",
+        "time": "03:00",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahrud",
+        "time": "03:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Neqab",
+        "time": "06:29",
+        "type": "arrival"
+      },
+      {
+        "station": "Neyshabur",
+        "time": "07:54",
+        "type": "arrival"
+      },
+      {
+        "station": "Mashad",
+        "time": "09:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-mianeh-train",
+    "train_number": "452",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "17:00",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "17:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "18:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "18:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Ziaran",
+        "time": "18:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "19:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "19:37",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "20:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "21:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "23:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-parand-train",
+    "train_number": "748",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "09:30",
+        "type": "departure"
+      },
+      {
+        "station": "Tappeh Sefid",
+        "time": "09:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "09:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Robat Karim",
+        "time": "10:18",
+        "type": "arrival"
+      },
+      {
+        "station": "Parand",
+        "time": "10:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-pishva-train",
+    "train_number": "916",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "03:00",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "03:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "03:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "04:16",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "03:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-pishva-train",
+    "train_number": "918",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "08:15",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "04:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "05:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "08:56",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "09:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-pishva-train",
+    "train_number": "994",
+    "operator": "RAI (State Railways)",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "14:30",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "14:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Bahram",
+        "time": "14:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "15:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "15:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-qazvin-train",
+    "train_number": "456",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "17:20",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "18:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Hashtgerd",
+        "time": "18:41",
+        "type": "arrival"
+      },
+      {
+        "station": "Abyek",
+        "time": "18:53",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "19:30",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-qom-train",
+    "train_number": "120",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "05:25",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "05:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "07:15",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-qom-train",
+    "train_number": "124",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "10:25",
+        "type": "departure"
+      },
+      {
+        "station": "Qom",
+        "time": "12:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-qom-train",
+    "train_number": "126",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "15:00",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "15:17",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "16:50",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-qom-train",
+    "train_number": "128",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "17:50",
+        "type": "departure"
+      },
+      {
+        "station": "Eslamshahr",
+        "time": "18:07",
+        "type": "arrival"
+      },
+      {
+        "station": "Qom",
+        "time": "19:40",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-sari-train",
+    "train_number": "218",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "08:30",
+        "type": "departure"
+      },
+      {
+        "station": "Rey",
+        "time": "08:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Varamin",
+        "time": "09:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Pishva",
+        "time": "09:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Garmsar",
+        "time": "10:01",
+        "type": "arrival"
+      },
+      {
+        "station": "Bonakuh",
+        "time": "10:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Kabutardarreh",
+        "time": "10:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Simindasht",
+        "time": "11:05",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarrindasht",
+        "time": "11:21",
+        "type": "arrival"
+      },
+      {
+        "station": "Firouzkuh",
+        "time": "12:03",
+        "type": "arrival"
+      },
+      {
+        "station": "Veresk",
+        "time": "13:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Sorkhabad",
+        "time": "13:32",
+        "type": "arrival"
+      },
+      {
+        "station": "Savadkuh",
+        "time": "13:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Pole - E Sefid",
+        "time": "14:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Zirab",
+        "time": "14:46",
+        "type": "arrival"
+      },
+      {
+        "station": "Shirgah",
+        "time": "15:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Qaemshahr",
+        "time": "15:35",
+        "type": "arrival"
+      },
+      {
+        "station": "Sari",
+        "time": "16:05",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-shiraz-train",
+    "train_number": "524",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "20:00",
+        "type": "departure"
+      },
+      {
+        "station": "Qom - Mohammadyeh",
+        "time": "22:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Kashan",
+        "time": "23:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Badrud",
+        "time": "00:33",
+        "type": "arrival"
+      },
+      {
+        "station": "Espidan",
+        "time": "01:24",
+        "type": "arrival"
+      },
+      {
+        "station": "Charizeh",
+        "time": "02:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Sistan",
+        "time": "03:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Shahreza",
+        "time": "06:11",
+        "type": "arrival"
+      },
+      {
+        "station": "Abadeh",
+        "time": "07:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Eghlid",
+        "time": "08:09",
+        "type": "arrival"
+      },
+      {
+        "station": "Safashahr",
+        "time": "09:13",
+        "type": "arrival"
+      },
+      {
+        "station": "Saadatshahr",
+        "time": "10:14",
+        "type": "arrival"
+      },
+      {
+        "station": "Shiraz",
+        "time": "11:35",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-tabriz-train",
+    "train_number": "434",
+    "operator": "Bon Rail",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "15:30",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "20:57",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "22:43",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "19:42",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "21:55",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "00:59",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabriz",
+        "time": "03:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-tabriz-train",
+    "train_number": "432",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "18:45",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "19:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "20:51",
+        "type": "arrival"
+      },
+      {
+        "station": "Takestan",
+        "time": "21:39",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorramdarreh",
+        "time": "22:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "23:27",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "01:26",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "02:52",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "04:45",
+        "type": "arrival"
+      },
+      {
+        "station": "Ajabshir",
+        "time": "05:44",
+        "type": "arrival"
+      },
+      {
+        "station": "Azarshahr",
+        "time": "06:31",
+        "type": "arrival"
+      },
+      {
+        "station": "Zarei",
+        "time": "06:49",
+        "type": "arrival"
+      },
+      {
+        "station": "Tabriz",
+        "time": "07:20",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-urmia-train",
+    "train_number": "424",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "23:30",
+        "type": "departure"
+      },
+      {
+        "station": "Karaj",
+        "time": "00:22",
+        "type": "arrival"
+      },
+      {
+        "station": "Qazvin",
+        "time": "01:47",
+        "type": "arrival"
+      },
+      {
+        "station": "Zanjan",
+        "time": "04:02",
+        "type": "arrival"
+      },
+      {
+        "station": "Mianeh",
+        "time": "06:08",
+        "type": "arrival"
+      },
+      {
+        "station": "Khorasanak",
+        "time": "07:28",
+        "type": "arrival"
+      },
+      {
+        "station": "Maragheh",
+        "time": "09:34",
+        "type": "arrival"
+      },
+      {
+        "station": "Miandoab",
+        "time": "10:36",
+        "type": "arrival"
+      },
+      {
+        "station": "Urmia",
+        "time": "12:45",
+        "type": "arrival"
+      }
+    ]
+  },
+  {
+    "route_slug": "tehran-yazd-train",
+    "train_number": "620",
+    "operator": "Raja Railways",
+    "stops": [
+      {
+        "station": "Tehran",
+        "time": "23:15",
+        "type": "departure"
+      },
+      {
+        "station": "Kashan",
+        "time": "02:20",
+        "type": "arrival"
+      },
+      {
+        "station": "Yazd",
+        "time": "07:45",
+        "type": "arrival"
+      }
+    ]
+  }
+]
