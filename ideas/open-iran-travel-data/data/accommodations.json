@@ -1,5 +1,5 @@
 {
-  "hotels": [
+  "hotel": [
     {
       "name": "Espinas Palace Hotel",
       "name_fa": "هتل اسپیناس پالاس",
@@ -10,6 +10,16 @@
       "lat": 35.7772,
       "lng": 51.4165,
       "address": "Chamran Highway, Shahrak-e Gharb, Tehran",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "parking",
+        "pool",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "Rising above the northern skyline of Tehran, Espinas Palace is the capital's flagship luxury tower, offering panoramic views of the Alborz Mountains from floor-to-ceiling windows. The 28-storey property houses five restaurants ranging from traditional Persian to Japanese teppanyaki, alongside an ind...",
       "rating": 4.6,
       "review_count": 187
     },
@@ -23,6 +33,15 @@
       "lat": 35.6997,
       "lng": 51.3484,
       "address": "Chamran Highway, Purnak Square, Tehran",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "parking",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "The Parsian Azadi has anchored Tehran's hospitality landscape for decades, its brutalist tower softened inside by lush gardens and warm Persian service. Situated in the western Purnak district, the hotel's 527 rooms offer city views and direct freeway access for onward travel. The ground-floor coffe...",
       "rating": 4.1,
       "review_count": 142
     },
@@ -36,6 +55,15 @@
       "lat": 32.6584,
       "lng": 51.6738,
       "address": "Amadegah Street, Isfahan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "restaurant",
+        "garden",
+        "laundry"
+      ],
+      "description": "Few hotels in the world can claim a courtyard garden as magnificent as the Abbasi's — a cascade of wisteria and roses surrounding a turquoise reflecting pool, framed by eight hundred years of Safavid stonework. Originally a caravanserai commissioned by Shah Sultan Husain in 1707, the building was co...",
       "rating": 4.9,
       "review_count": 198
     },
@@ -49,6 +77,14 @@
       "lat": 32.6428,
       "lng": 51.6674,
       "address": "s proximity to Chahar Bagh Avenue means the city",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "Positioned directly on the northern bank of the Zayandeh River, the Kowsar offers what many consider the finest view in Isfahan — the Si-o-Se Pol bridge reflected in the water below, best savored from the fourth-floor breakfast terrace over a glass of freshly squeezed pomegranate juice. The contempo...",
       "rating": 4.3,
       "review_count": 156
     },
@@ -62,6 +98,15 @@
       "lat": 29.61,
       "lng": 52.5324,
       "address": "Lotf Ali Khan Zand Boulevard, Shiraz",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "restaurant",
+        "garden",
+        "rooftop_terrace"
+      ],
+      "description": "Named for the Zand dynasty that made Shiraz one of the Islamic world's great capitals, this boutique property occupies a lovingly restored 19th-century mansion in the city's historic quarter. Eight suites are arranged around a central courtyard where a marble fountain trickles beneath pomegranate tr...",
       "rating": 4.7,
       "review_count": 134
     },
@@ -75,6 +120,15 @@
       "lat": 29.6389,
       "lng": 52.5164,
       "address": "Eram Boulevard, Shiraz",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "parking",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "The Eram Grand sits at the northern approach to Shiraz, a gleaming contemporary tower that has become the first choice for business travelers and tour groups requiring reliable international-standard facilities. The rooms are spacious and consistently maintained, with blackout curtains and deep bath...",
       "rating": 4.0,
       "review_count": 89
     },
@@ -88,6 +142,14 @@
       "lat": 36.2887,
       "lng": 59.6066,
       "address": "Imam Reza Boulevard, Mashhad",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "Located a short walk from the sacred precinct of Imam Reza's shrine, the Dariush Grand serves the millions of pilgrims who travel to Mashhad each year with a combination of genuine hospitality and practical comfort. The hotel's 300 rooms maintain a deliberate quiet — no alcohol, music kept soft — in...",
       "rating": 4.2,
       "review_count": 203
     },
@@ -100,7 +162,17 @@
       "price_per_night_usd": 85.0,
       "lat": 38.0833,
       "lng": 46.3001,
-      "address": "Imam Khomeini Street, Tabriz",
+      "address": "The grandest address in East Azerbaijan, the Tabriz International has defined upmarket hospitality in this historic Silk Road city since its opening in the late Soviet era. Its position opposite the Blue Mosque means guests wake to the extraordinary sight of those cobalt-tiled minarets against the mountain backdrop of the Sahand range. The hotel",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "parking",
+        "pool",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "The grandest address in East Azerbaijan, the Tabriz International has defined upmarket hospitality in this historic Silk Road city since its opening in the late Soviet era. Its position opposite the Blue Mosque means guests wake to the extraordinary sight of those cobalt-tiled minarets against the m...",
       "rating": 4.4,
       "review_count": 118
     },
@@ -114,6 +186,14 @@
       "lat": 31.894,
       "lng": 54.3565,
       "address": "Fahadan Quarter, Old City, Yazd",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "garden",
+        "restaurant"
+      ],
+      "description": "A 19th-century aristocratic garden estate transformed into Yazd's most atmospheric hotel, the Moshir al-Mamalek preserves the Qajar-era layout of symmetrical gardens, wind-catching towers, and deep-shaded iwan porticos that have kept Iranian interiors cool for a thousand years. The rooms are built i...",
       "rating": 4.8,
       "review_count": 167
     },
@@ -127,6 +207,15 @@
       "lat": 33.9857,
       "lng": 51.4374,
       "address": "Alavi Street, Old City, Kashan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "garden",
+        "restaurant",
+        "rooftop_terrace"
+      ],
+      "description": "Restored from a cluster of four interconnected 19th-century merchant mansions, Manouchehri House has set the standard for boutique heritage hospitality in Iran since its meticulous renovation was completed. Each of the fifteen rooms occupies a different section of the original house, from the airy s...",
       "rating": 4.9,
       "review_count": 143
     },
@@ -140,6 +229,14 @@
       "lat": 30.2895,
       "lng": 57.0793,
       "address": "Imam Khomeini Square, Kerman",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "parking",
+        "laundry"
+      ],
+      "description": "Kerman's most reliable mid-range option occupies a quiet street in the city's commercial heart, within walking distance of the extraordinary Ganjali Khan complex and its 17th-century bathhouse. The Akhavan's rooms are consistently clean and well-maintained, and the breakfast spread—featuring the loc...",
       "rating": 3.8,
       "review_count": 74
     },
@@ -153,11 +250,20 @@
       "lat": 37.2809,
       "lng": 49.5832,
       "address": "Imam Khomeini Street, Rasht",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "pool",
+        "restaurant",
+        "laundry"
+      ],
+      "description": "The Kadus sits at the center of Rasht, the culinary capital of the Caspian north, placing guests within easy reach of the city's famed bazaar and the restaurants that have made Gilani food one of Iran's most celebrated regional cuisines. The hotel's own dining room does full justice to the tradition...",
       "rating": 3.9,
       "review_count": 97
     }
   ],
-  "guesthouses": [
+  "guesthouse": [
     {
       "name": "Howzak House",
       "name_fa": "خانه هوزک",
@@ -168,6 +274,12 @@
       "lat": 32.6621,
       "lng": 51.6805,
       "address": "Howzak Lane, Jolfa Quarter, Isfahan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "A quiet guesthouse tucked into one of Isfahan's oldest residential lanes, Howzak House takes its name from the small pool — howz — at the center of its courtyard, around which guests gather in the evenings to share travel stories over glasses of doogh. The seven rooms are simple but lovingly decorat...",
       "rating": 4.7,
       "review_count": 88
     },
@@ -181,6 +293,13 @@
       "lat": 35.6956,
       "lng": 51.4169,
       "address": "Ferdowsi Avenue, Tehran",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "rooftop_terrace",
+        "laundry"
+      ],
+      "description": "Occupying a converted 1940s apartment block on the broad tree-lined avenue that bears Persia's greatest poet, Ferdowsi Grand is the classic Tehran budget-travelers' address that has maintained its reputation for warmth and reliability for two generations. The location — a five-minute walk from the G...",
       "rating": 4.2,
       "review_count": 113
     },
@@ -194,6 +313,13 @@
       "lat": 29.6187,
       "lng": 52.5411,
       "address": "Lot Ali Khan Zand Street, Shiraz",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden",
+        "air_conditioning"
+      ],
+      "description": "A narrow corridor of pomegranate trees leads to the courtyard of Niayesh, a two-storey guesthouse in the shadow of the old city wall where the poet Hafez lived and wrote. The rooms are individually named after Hafez's ghazals, each decorated with calligraphic panels and hand-blocked fabric in the sa...",
       "rating": 4.8,
       "review_count": 102
     },
@@ -206,7 +332,13 @@
       "price_per_night_usd": 22.0,
       "lat": 31.8983,
       "lng": 54.3647,
-      "address": "Fahadan Street, Old City, Yazd",
+      "address": "Silk Road Guesthouse Yazd",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "rooftop_terrace"
+      ],
+      "description": "Deep in the labyrinthine old city of Yazd, Silk Road Guesthouse occupies a restored Qajar-era home with all the architectural complexity that UNESCO recognized when it inscribed the historic city in 2017. The internal wind tower keeps rooms fifteen degrees cooler than the desert streets outside with...",
       "rating": 4.5,
       "review_count": 134
     },
@@ -220,6 +352,12 @@
       "lat": 33.9827,
       "lng": 51.4392,
       "address": "Alavi Street, Kashan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "Adjacent to the famous Tabatabaei and Boroujerdi mansions in Kashan's old quarter, Saraye Ameriha places guests in the same neighborhood where Kashan's wealthy carpet merchants built their extraordinary 19th-century townhouses. This smaller guesthouse preserves all the architectural signatures of th...",
       "rating": 4.6,
       "review_count": 79
     },
@@ -232,7 +370,13 @@
       "price_per_night_usd": 25.0,
       "lat": 36.2862,
       "lng": 59.6135,
-      "address": "",
+      "address": "Beit al-Maqaddas Alley, Mashhad",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "Run by a family from Khorasan for three generations, the Razavi sits on a quiet street one kilometer from the Imam Reza shrine complex and caters primarily to pilgrims who prefer a home atmosphere over an international hotel's anonymity. The guesthouse's twelve rooms are modest but spotlessly clean,...",
       "rating": 4.4,
       "review_count": 88
     },
@@ -246,6 +390,12 @@
       "lat": 38.0803,
       "lng": 46.2941,
       "address": "Imam Street, Old City, Tabriz",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning"
+      ],
+      "description": "A restored Qajar-period townhouse two streets from the UNESCO-listed Tabriz Bazaar, this intimate guesthouse was saved from demolition by an architect-owner who spent seven years sourcing original materials for its reconstruction. The ten rooms each feature carved wooden doors, colored-glass windows...",
       "rating": 4.5,
       "review_count": 66
     },
@@ -259,6 +409,12 @@
       "lat": 32.6519,
       "lng": 51.6697,
       "address": "Jolfa Quarter Guesthouse",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "The Armenian Christian quarter of Jolfa has been Isfahan's most cosmopolitan neighborhood since Shah Abbas resettled Armenian craftsmen here four centuries ago, and this small guesthouse captures that intercultural spirit perfectly. Run by an Armenian-Iranian family, the guesthouse occupies a coloni...",
       "rating": 4.3,
       "review_count": 71
     },
@@ -272,6 +428,12 @@
       "lat": 34.6394,
       "lng": 50.8757,
       "address": "Qom Sacred City Guesthouse",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "laundry"
+      ],
+      "description": "Serving the steady stream of pilgrims who visit the Fatima Masumeh shrine — the most important Shia sanctuary in Iran outside Mashhad — this well-run guesthouse maintains the respectful, unhurried atmosphere appropriate to a city devoted to theological scholarship. Rooms for single-gender groups and...",
       "rating": 4.1,
       "review_count": 54
     },
@@ -285,11 +447,18 @@
       "lat": 37.2741,
       "lng": 49.5812,
       "address": "Golsar Street, Rasht",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden",
+        "parking"
+      ],
+      "description": "A cheerful family-run guesthouse in a verdant Rasht neighborhood, the Caspian Breeze benefits from the kind of perpetual greenery — ferns on the windowsills, jasmine over the gate — that the Caspian's rainfall creates so effortlessly. The host family prepares a legendary breakfast spread of smoked C...",
       "rating": 4.6,
       "review_count": 82
     }
   ],
-  "eco_lodges": [
+  "traditional_house": [
     {
       "name": "Malek Traditional House",
       "name_fa": "خانه سنتی ملک اصفهان",
@@ -300,6 +469,13 @@
       "lat": 32.6597,
       "lng": 51.6771,
       "address": "Malek Street, Old City, Isfahan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden",
+        "air_conditioning"
+      ],
+      "description": "One of Isfahan's finest surviving examples of the Safavid domestic interior, Malek Traditional House wraps its five guest suites around a courtyard where a centuries-old plane tree casts dappled shade over blue-and-white tiling. The owner, a fifth-generation resident, has resisted any temptation to ...",
       "rating": 4.8,
       "review_count": 96
     },
@@ -313,6 +489,13 @@
       "lat": 33.9841,
       "lng": 51.4361,
       "address": "Alavi Alley, Old City, Kashan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden",
+        "rooftop_terrace"
+      ],
+      "description": "Named for the sugar-coated almonds that Kashan produces for weddings across Iran, the Noghli Traditional House is a supremely well-preserved Qajar merchant's mansion that has been in the same family for five generations before opening to guests a decade ago. The central courtyard with its hexagonal ...",
       "rating": 4.9,
       "review_count": 121
     },
@@ -325,7 +508,13 @@
       "price_per_night_usd": 65.0,
       "lat": 31.8972,
       "lng": 54.3621,
-      "address": "",
+      "address": "Fahadan Lane, Yazd",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "Situated in the Fahadan neighborhood — Yazd's oldest surviving residential district and home to some of the finest mud-brick architecture in the Islamic world — this museum-guesthouse hybrid allows guests to sleep inside a living exhibit of Zoroastrian-influenced domestic design. The badgir wind cat...",
       "rating": 4.7,
       "review_count": 108
     },
@@ -339,6 +528,13 @@
       "lat": 29.6125,
       "lng": 52.5377,
       "address": "Lotf Ali Khan Zand Street, Shiraz",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden",
+        "air_conditioning"
+      ],
+      "description": "A lovingly restored Qajar-era townhouse in Shiraz's historic fabric district, just steps from the Nasir al-Mulk \"Pink Mosque\" whose stained-glass windows project kaleidoscopic light across its prayer hall each morning. The four guest rooms open onto a private orange garden where the scent of blossom...",
       "rating": 4.6,
       "review_count": 89
     },
@@ -352,6 +548,12 @@
       "lat": 33.9853,
       "lng": 51.4381,
       "address": "Tabatabaei Alley, Old City, Kashan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "Adjacent to the famous Tabatabaei House that draws crowds of architectural tourists each day, this smaller family property was once owned by a junior branch of the same merchant dynasty and preserves an identical vocabulary of mirror-work salons, painted ceilings, and soaring iwan arches. Staying he...",
       "rating": 4.8,
       "review_count": 77
     },
@@ -364,7 +566,13 @@
       "price_per_night_usd": 55.0,
       "lat": 32.6642,
       "lng": 51.6712,
-      "address": "",
+      "address": "Darb-e Imam Alley, Isfahan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "rooftop_terrace"
+      ],
+      "description": "Located in the alley leading to the 15th-century Darb-e Imam shrine complex, this traditional house offers a remarkably authentic window into Isfahan's residential fabric as it existed before the tourist infrastructure arrived. The three guest rooms share a bathroom tiled in the distinctive blue-and...",
       "rating": 4.5,
       "review_count": 63
     },
@@ -378,6 +586,13 @@
       "lat": 31.8952,
       "lng": 54.3588,
       "address": "Khan Street, Old City, Yazd",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden",
+        "air_conditioning"
+      ],
+      "description": "Of the dozens of traditional houses that have opened their doors to travelers in Yazd in recent years, the Wind Tower House has the most dramatic architectural statement: a single badgir rising fifteen meters above the central courtyard, creating a natural ventilation system powerful enough to cool ...",
       "rating": 4.7,
       "review_count": 114
     },
@@ -391,11 +606,228 @@
       "lat": 29.6158,
       "lng": 52.5298,
       "address": "Zand Street, Shiraz",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "garden"
+      ],
+      "description": "Named for the orange trees that crowd its garden — narenjestan means orange grove — this restored Qajar residence in a quiet Shiraz backstreet is a gentle, unhurried place that suits travelers who want to feel like temporary residents of the city rather than tourists passing through. The five rooms ...",
       "rating": 4.6,
       "review_count": 91
     }
   ],
-  "hostels": [
+  "ecolodge": [
+    {
+      "name": "Lut Desert Ecolodge",
+      "name_fa": "اکولوژ کویر لوت",
+      "slug": "lut-desert-ecolodge",
+      "city": "yazd",
+      "type": "ecolodge",
+      "price_per_night_usd": 55.0,
+      "lat": 30.5744,
+      "lng": 57.3281,
+      "address": "Desert Road, Shahdad, Near Kerman/Yazd",
+      "amenities": [
+        "breakfast",
+        "parking"
+      ],
+      "description": "On the edge of the Lut Desert — recognized by UNESCO as the hottest surface recorded on Earth — this ecolodge offers one of Iran's most extreme and beautiful landscapes from the comfort of well-designed earth-and-thatch shelters that stay cool through the hottest afternoons. Star-gazing from the dun...",
+      "rating": 4.8,
+      "review_count": 74
+    },
+    {
+      "name": "Alborz Jungle Ecolodge",
+      "name_fa": "اکولوژ جنگل البرز",
+      "slug": "alborz-jungle-ecolodge-rasht",
+      "city": "rasht",
+      "type": "ecolodge",
+      "price_per_night_usd": 65.0,
+      "lat": 37.1847,
+      "lng": 49.3761,
+      "address": "Forest Road, Masal District, Gilan",
+      "amenities": [
+        "breakfast",
+        "parking"
+      ],
+      "description": "Forty minutes from Rasht by mountain road, the Alborz Jungle Ecolodge sits inside the temperate Hyrcanian forests that have survived the last forty million years and were inscribed on the UNESCO World Heritage list in 2019 — some of the oldest continuous forest cover on the planet. The eight wooden ...",
+      "rating": 4.7,
+      "review_count": 58
+    },
+    {
+      "name": "Qashqai Nomad Ecolodge",
+      "name_fa": "اکولوژ عشایر قشقایی",
+      "slug": "qashqai-nomad-ecolodge-shiraz",
+      "city": "shiraz",
+      "type": "ecolodge",
+      "price_per_night_usd": 45.0,
+      "lat": 29.8914,
+      "lng": 52.2681,
+      "address": "Zagros Highlands, Mamasani District, Fars Province",
+      "amenities": [
+        "breakfast",
+        "parking"
+      ],
+      "description": "Operating in partnership with a Qashqai tribal family who migrate seasonally through the Zagros foothills above Shiraz, this ecolodge offers guests the chance to spend two or three nights in a traditional black tent while participating in the daily routines of Iran's largest remaining nomadic commun...",
+      "rating": 4.9,
+      "review_count": 43
+    },
+    {
+      "name": "Damavand Basecamp Lodge",
+      "name_fa": "اکولوژ پایگاه دماوند",
+      "slug": "damavand-basecamp-lodge-tehran",
+      "city": "tehran",
+      "type": "ecolodge",
+      "price_per_night_usd": 35.0,
+      "lat": 35.9557,
+      "lng": 52.1143,
+      "address": "Polur Village, Haraz Road, Mazandaran",
+      "amenities": [
+        "breakfast",
+        "parking",
+        "laundry"
+      ],
+      "description": "At 3,050 meters on the lower slopes of Mount Damavand — the highest peak in the Middle East and a dormant volcano of extraordinary geological fascination — this mountain ecolodge serves trekkers heading for the summit and hikers exploring the surrounding Haraz Valley. The stone-and-timber dormitorie...",
+      "rating": 4.5,
+      "review_count": 87
+    },
+    {
+      "name": "Mesr Desert Ecolodge",
+      "name_fa": "اکولوژ بیابان مصر",
+      "slug": "mesr-desert-ecolodge-yazd",
+      "city": "yazd",
+      "type": "ecolodge",
+      "price_per_night_usd": 40.0,
+      "lat": 34.1624,
+      "lng": 54.5417,
+      "address": "Mesr Village, Dasht-e Kavir Desert",
+      "amenities": [
+        "breakfast",
+        "parking"
+      ],
+      "description": "The village of Mesr, a tiny oasis of date palms and mud-brick houses in the heart of the Dasht-e Kavir salt desert, has become one of Iran's most celebrated desert destinations in recent years, and this ecolodge — built from local materials by a collective of village families — was instrumental in e...",
+      "rating": 4.6,
+      "review_count": 112
+    },
+    {
+      "name": "Golestan Forest Ecolodge",
+      "name_fa": "اکولوژ جنگل گلستان",
+      "slug": "golestan-forest-ecolodge-mashhad",
+      "city": "mashhad",
+      "type": "ecolodge",
+      "price_per_night_usd": 50.0,
+      "lat": 37.4817,
+      "lng": 55.7531,
+      "address": "National Park Road, Golestan Province",
+      "amenities": [
+        "breakfast",
+        "parking"
+      ],
+      "description": "A short drive from the Golestan National Park — Iran's oldest protected area and home to Persian leopard, brown bear, and the last populations of Caspian red deer — this ecolodge operates in formal partnership with the park authority to fund anti-poaching patrols and wildlife monitoring. The wooden ...",
+      "rating": 4.7,
+      "review_count": 49
+    }
+  ],
+  "caravanserai": [
+    {
+      "name": "Zein-o-Din Caravanserai",
+      "name_fa": "کاروانسرای زین‌الدین",
+      "slug": "zein-o-din-caravanserai-yazd",
+      "city": "yazd",
+      "type": "caravanserai",
+      "price_per_night_usd": 95.0,
+      "lat": 31.5124,
+      "lng": 54.6841,
+      "address": "Yazd-Kerman Road, Zein-o-Din Village",
+      "amenities": [
+        "breakfast",
+        "parking",
+        "restaurant"
+      ],
+      "description": "Built under Shah Abbas I around 1600 CE, the Zein-o-Din Caravanserai is one of the few Safavid round caravanserais to survive intact, its cylindrical form rising from the desert plain between Yazd and Kerman like a geological feature that has simply been there since the beginning of time. The conver...",
+      "rating": 4.9,
+      "review_count": 127
+    },
+    {
+      "name": "Shah Abbas Caravanserai Inn",
+      "name_fa": "کاروانسرای شاه عباس اصفهان",
+      "slug": "shah-abbas-caravanserai-inn-isfahan",
+      "city": "isfahan",
+      "type": "caravanserai",
+      "price_per_night_usd": 130.0,
+      "lat": 32.6512,
+      "lng": 51.6649,
+      "address": "Chahar Bagh Abbasi Street, Isfahan",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "restaurant",
+        "garden"
+      ],
+      "description": "Standing on the ancient trade road that once connected Isfahan to the Persian Gulf, this 17th-century caravanserai has been meticulously restored to provide twenty guest rooms in the original merchant vaults and portico chambers. The central courtyard — 90 meters square — is the largest of its kind ...",
+      "rating": 4.8,
+      "review_count": 98
+    },
+    {
+      "name": "Aminoddoleh Caravanserai Kashan",
+      "name_fa": "کاروانسرای امین‌الدوله کاشان",
+      "slug": "aminoddoleh-caravanserai-kashan",
+      "city": "kashan",
+      "type": "caravanserai",
+      "price_per_night_usd": 80.0,
+      "lat": 33.9812,
+      "lng": 51.4337,
+      "address": "",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning"
+      ],
+      "description": "Inside the covered bazaar of Kashan — itself a masterpiece of medieval commercial architecture — the Aminoddoleh Caravanserai has traded continuously since its construction in the late Safavid period, evolving from a stopping point for carpet merchants to the city's most characterful boutique accomm...",
+      "rating": 4.6,
+      "review_count": 82
+    },
+    {
+      "name": "Vakil Bazaar Caravanserai",
+      "name_fa": "کاروانسرای بازار وکیل شیراز",
+      "slug": "vakil-bazaar-caravanserai-shiraz",
+      "city": "shiraz",
+      "type": "caravanserai",
+      "price_per_night_usd": 65.0,
+      "lat": 29.6147,
+      "lng": 52.5356,
+      "address": "",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning"
+      ],
+      "description": "Embedded in the great Vakil Bazaar complex that Karim Khan Zand built in the 1760s as the centerpiece of his short-lived Iranian capital, this caravanserai has been operating continuously for two and a half centuries. The twelve guest rooms occupy the upper storey of the original merchants' quarters...",
+      "rating": 4.5,
+      "review_count": 67
+    },
+    {
+      "name": "Masoudieh Caravanserai Tehran",
+      "name_fa": "کاروانسرای مسعودیه تهران",
+      "slug": "masoudieh-caravanserai-tehran",
+      "city": "tehran",
+      "type": "caravanserai",
+      "price_per_night_usd": 100.0,
+      "lat": 35.6893,
+      "lng": 51.4317,
+      "address": "Masoudieh Palace Street, Tehran",
+      "amenities": [
+        "wifi",
+        "breakfast",
+        "air_conditioning",
+        "restaurant",
+        "garden"
+      ],
+      "description": "A rare survivor of 19th-century Qajar Tehran, the Masoudieh Caravanserai has been transformed into a cultural-hospitality complex that operates as both a boutique hotel and an exhibition space for contemporary Iranian art. The twenty rooms wrap around a double-height courtyard where a contemporary w...",
+      "rating": 4.7,
+      "review_count": 93
+    }
+  ],
+  "hostel": [
     {
       "name": "Hi Tehran Hostel",
       "name_fa": "هاستل های تهران",
@@ -406,6 +838,13 @@
       "lat": 35.6964,
       "lng": 51.4101,
       "address": "Hafez Street, Tehran",
+      "amenities": [
+        "wifi",
+        "laundry",
+        "kitchen",
+        "rooftop_terrace"
+      ],
+      "description": "The liveliest social hub for backpackers in the Iranian capital, Hi Tehran operates from a spacious apartment building in the central Hafez district, where the mix of nationalities and the hostel's famous communal dinners — guests take turns cooking dishes from their home countries — create a genuin...",
       "rating": 4.4,
       "review_count": 176
     },
@@ -419,6 +858,12 @@
       "lat": 32.6554,
       "lng": 51.6789,
       "address": " walk from the UNESCO-listed Imam Square — one of the largest public squares in the world and the architectural centerpiece of Safavid Iran — the Naqsh-e Jahan Hostel has been the default gathering place for budget travelers in Isfahan for over a decade. The converted apartment building has been thoughtfully adapted, with dormitory beds that offer genuine privacy through curtained pods and USB charging at every bunk. The common room",
+      "amenities": [
+        "wifi",
+        "laundry",
+        "kitchen"
+      ],
+      "description": "Five minutes' walk from the UNESCO-listed Imam Square — one of the largest public squares in the world and the architectural centerpiece of Safavid Iran — the Naqsh-e Jahan Hostel has been the default gathering place for budget travelers in Isfahan for over a decade. The converted apartment building...",
       "rating": 4.5,
       "review_count": 201
     },
@@ -432,6 +877,13 @@
       "lat": 29.6193,
       "lng": 52.5349,
       "address": "Poets Quarter Hostel",
+      "amenities": [
+        "wifi",
+        "laundry",
+        "kitchen",
+        "garden"
+      ],
+      "description": "Named for the concentration of medieval Persian poets — Hafez, Saadi, Khwaju Kermani — whose tombs and shrines are scattered through Shiraz's old quarter, this hostel occupies a former merchant's house with a garden of bitter orange trees that casts welcome shade in the hot Shiraz summers. The atmos...",
       "rating": 4.6,
       "review_count": 158
     },
@@ -445,8 +897,120 @@
       "lat": 35.6756,
       "lng": 51.4228,
       "address": "",
+      "amenities": [
+        "wifi",
+        "laundry",
+        "kitchen"
+      ],
+      "description": "Positioned at the northern entrance to Tehran's Grand Bazaar — the largest covered market in the world and the commercial heart of the Iranian economy since the Qajar period — Bazaar Gate Hostel is an unglamorous but extremely well-located budget option for travelers who want to wake up inside the c...",
       "rating": 3.9,
       "review_count": 134
+    }
+  ],
+  "unknown": [
+    {
+      "name": "North Tehran Serviced Apartment",
+      "name_fa": "آپارتمان سرویس‌دهی شمال تهران",
+      "slug": "north-tehran-serviced-apartment",
+      "city": "tehran",
+      "type": "unknown",
+      "price_per_night_usd": null,
+      "lat": 35.7828,
+      "lng": 51.4371,
+      "address": "Elahieh Street, North Tehran",
+      "amenities": [
+        "wifi",
+        "air_conditioning",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Situated in Elahieh, one of Tehran's most exclusive northern neighborhoods, this three-bedroom serviced apartment provides the kind of space, equipment, and neighborhood amenities that long-stay travelers and families require. The apartment occupies the fourth floor of a modern residential building ...",
+      "rating": 4.3,
+      "review_count": 47
+    },
+    {
+      "name": "Chahar Bagh Apartment",
+      "name_fa": "آپارتمان چهارباغ اصفهان",
+      "slug": "chahar-bagh-apartment-isfahan",
+      "city": "isfahan",
+      "type": "unknown",
+      "price_per_night_usd": null,
+      "lat": 32.6491,
+      "lng": 51.6692,
+      "address": "s grand Chahar Bagh Avenue — the boulevard that Safavid kings designed as a ceremonial axis connecting their palaces to the Zayandeh River — this two-bedroom apartment offers independence and space in one of the world",
+      "amenities": [
+        "wifi",
+        "air_conditioning",
+        "kitchen"
+      ],
+      "description": "On the upper floor of a converted Qajar-era townhouse directly on Isfahan's grand Chahar Bagh Avenue — the boulevard that Safavid kings designed as a ceremonial axis connecting their palaces to the Zayandeh River — this two-bedroom apartment offers independence and space in one of the world's most a...",
+      "rating": 4.5,
+      "review_count": 53
+    },
+    {
+      "name": "Hafez Garden Apartment",
+      "name_fa": "آپارتمان باغ حافظ شیراز",
+      "slug": "hafez-garden-apartment-shiraz",
+      "city": "shiraz",
+      "type": "unknown",
+      "price_per_night_usd": null,
+      "lat": 29.6231,
+      "lng": 52.5381,
+      "address": "Hafez Avenue, Shiraz",
+      "amenities": [
+        "wifi",
+        "air_conditioning",
+        "kitchen",
+        "garden"
+      ],
+      "description": "A well-appointed one-bedroom apartment above the garden of a Qajar-era house in the literary quarter of Shiraz, within walking distance of Hafez's tomb and the Rose Garden where Shirazis gather on spring evenings for picnics and poetry recitation. The apartment is fully self-contained with a kitchen...",
+      "rating": 4.4,
+      "review_count": 38
+    },
+    {
+      "name": "Caspian Sea Villa",
+      "name_fa": "ویلای دریای خزر",
+      "slug": "caspian-sea-villa-rasht",
+      "city": "rasht",
+      "type": "unknown",
+      "price_per_night_usd": null,
+      "lat": 36.9827,
+      "lng": 50.0341,
+      "address": "Coastal Road, Ramsar, Caspian Shore",
+      "amenities": [
+        "wifi",
+        "air_conditioning",
+        "parking",
+        "pool",
+        "garden",
+        "kitchen"
+      ],
+      "description": "A private four-bedroom villa on the shore of the Caspian Sea — Iran's northern coast, where the country drops from the Alborz Mountains into the world's largest lake with theatrical abruptness — the Caspian Villa offers the kind of exclusive beachfront access that would cost multiples the price anyw...",
+      "rating": 4.8,
+      "review_count": 34
+    },
+    {
+      "name": "Safavid Garden Villa",
+      "name_fa": "ویلای باغ صفوی اصفهان",
+      "slug": "safavid-garden-villa-isfahan",
+      "city": "isfahan",
+      "type": "unknown",
+      "price_per_night_usd": null,
+      "lat": 32.6127,
+      "lng": 51.6841,
+      "address": "Southern Garden District, Isfahan",
+      "amenities": [
+        "wifi",
+        "air_conditioning",
+        "parking",
+        "pool",
+        "garden",
+        "kitchen",
+        "laundry"
+      ],
+      "description": "Set within a two-hectare walled garden in the southern reaches of Isfahan, the Safavid Garden Villa is what the Safavid kings called a chahar bagh — a four-fold garden divided by water channels in the Persian tradition — now operating as an exclusive private rental for groups of up to twelve guests....",
+      "rating": 4.9,
+      "review_count": 28
     }
   ]
 }

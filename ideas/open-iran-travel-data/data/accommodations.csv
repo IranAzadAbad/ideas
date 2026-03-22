@@ -1,35 +1,51 @@
-name,name_fa,slug,city,type,price_usd,lat,lng,address,rating,review_count
-Espinas Palace Hotel,هتل اسپیناس پالاس,espinas-palace-hotel-tehran,tehran,hotel,185.0,35.7772,51.4165,"Chamran Highway, Shahrak-e Gharb, Tehran",4.6,187
-Parsian Azadi Hotel,هتل پارسیان آزادی,parsian-azadi-hotel-tehran,tehran,hotel,120.0,35.6997,51.3484,"Chamran Highway, Purnak Square, Tehran",4.1,142
-Abbasi Hotel,هتل عباسی,abbasi-hotel-isfahan,isfahan,hotel,145.0,32.6584,51.6738,"Amadegah Street, Isfahan",4.9,198
-Kowsar Hotel Isfahan,هتل کوثر اصفهان,kowsar-hotel-isfahan,isfahan,hotel,95.0,32.6428,51.6674,s proximity to Chahar Bagh Avenue means the city,4.3,156
-Zandiyeh Hotel,هتل زندیه,zandiyeh-hotel-shiraz,shiraz,hotel,110.0,29.61,52.5324,"Lotf Ali Khan Zand Boulevard, Shiraz",4.7,134
-Eram Grand Hotel,هتل بزرگ ارم شیراز,eram-grand-hotel-shiraz,shiraz,hotel,75.0,29.6389,52.5164,"Eram Boulevard, Shiraz",4.0,89
-Dariush Grand Hotel Mashhad,هتل بزرگ داریوش مشهد,dariush-grand-hotel-mashhad,mashhad,hotel,60.0,36.2887,59.6066,"Imam Reza Boulevard, Mashhad",4.2,203
-Tabriz International Hotel,هتل بین‌المللی تبریز,tabriz-international-hotel,tabriz,hotel,85.0,38.0833,46.3001,"Imam Khomeini Street, Tabriz",4.4,118
-Moshir al-Mamalek Garden Hotel,هتل باغ موشیرالممالک,moshir-al-mamalek-garden-hotel-yazd,yazd,hotel,90.0,31.894,54.3565,"Fahadan Quarter, Old City, Yazd",4.8,167
-Manouchehri House Hotel,هتل خانه منوچهری,manouchehri-house-hotel-kashan,kashan,hotel,115.0,33.9857,51.4374,"Alavi Street, Old City, Kashan",4.9,143
-Akhavan Hotel Kerman,هتل اخوان کرمان,akhavan-hotel-kerman,kerman,hotel,40.0,30.2895,57.0793,"Imam Khomeini Square, Kerman",3.8,74
-Kadus Hotel Rasht,هتل کادوس رشت,kadus-hotel-rasht,rasht,hotel,55.0,37.2809,49.5832,"Imam Khomeini Street, Rasht",3.9,97
-Howzak House,خانه هوزک,howzak-house-isfahan,isfahan,guesthouse,35.0,32.6621,51.6805,"Howzak Lane, Jolfa Quarter, Isfahan",4.7,88
-Ferdowsi Grand Guesthouse,مهمانخانه بزرگ فردوسی,ferdowsi-grand-guesthouse-tehran,tehran,guesthouse,28.0,35.6956,51.4169,"Ferdowsi Avenue, Tehran",4.2,113
-Niayesh Boutique Guesthouse,مهمانخانه نیایش شیراز,niayesh-boutique-guesthouse-shiraz,shiraz,guesthouse,42.0,29.6187,52.5411,"Lot Ali Khan Zand Street, Shiraz",4.8,102
-Silk Road Guesthouse Yazd,مهمانخانه جاده ابریشم یزد,silk-road-guesthouse-yazd,yazd,guesthouse,22.0,31.8983,54.3647,"Fahadan Street, Old City, Yazd",4.5,134
-Saraye Ameriha Guesthouse,سرای عامری‌ها کاشان,saraye-ameriha-guesthouse-kashan,kashan,guesthouse,38.0,33.9827,51.4392,"Alavi Street, Kashan",4.6,79
-Razavi Pilgrim Guesthouse,مهمانخانه رضوی مشهد,razavi-pilgrim-guesthouse-mashhad,mashhad,guesthouse,25.0,36.2862,59.6135,,4.4,88
-Tabriz Heritage Guesthouse,مهمانخانه میراث تبریز,tabriz-heritage-guesthouse,tabriz,guesthouse,45.0,38.0803,46.2941,"Imam Street, Old City, Tabriz",4.5,66
-Jolfa Quarter Guesthouse,مهمانخانه محله جلفا,jolfa-quarter-guesthouse-isfahan,isfahan,guesthouse,32.0,32.6519,51.6697,Jolfa Quarter Guesthouse,4.3,71
-Qom Sacred City Guesthouse,مهمانخانه شهر مقدس قم,qom-sacred-city-guesthouse,qom,guesthouse,20.0,34.6394,50.8757,Qom Sacred City Guesthouse,4.1,54
-Caspian Breeze Guesthouse,مهمانخانه نسیم خزر رشت,caspian-breeze-guesthouse-rasht,rasht,guesthouse,30.0,37.2741,49.5812,"Golsar Street, Rasht",4.6,82
-Malek Traditional House,خانه سنتی ملک اصفهان,malek-traditional-house-isfahan,isfahan,traditional_house,75.0,32.6597,51.6771,"Malek Street, Old City, Isfahan",4.8,96
-Noghli Traditional House,خانه سنتی نقلی کاشان,noghli-traditional-house-kashan,kashan,traditional_house,85.0,33.9841,51.4361,"Alavi Alley, Old City, Kashan",4.9,121
-Fahadan Museum House,خانه موزه فهادان یزد,fahadan-museum-house-yazd,yazd,traditional_house,65.0,31.8972,54.3621,,4.7,108
-Eram Traditional House Shiraz,خانه سنتی ارم شیراز,eram-traditional-house-shiraz,shiraz,traditional_house,70.0,29.6125,52.5377,"Lotf Ali Khan Zand Street, Shiraz",4.6,89
-Khan-e Tabatabaei Guesthouse,مهمانسرای خانه طباطبایی,khan-e-tabatabaei-guesthouse-kashan,kashan,traditional_house,90.0,33.9853,51.4381,"Tabatabaei Alley, Old City, Kashan",4.8,77
-Darb-e Imam Traditional House,خانه سنتی درب امام اصفهان,darb-e-imam-traditional-house-isfahan,isfahan,traditional_house,55.0,32.6642,51.6712,,4.5,63
-Yazd Wind Tower House,خانه بادگیر یزد,yazd-wind-tower-house,yazd,traditional_house,60.0,31.8952,54.3588,"Khan Street, Old City, Yazd",4.7,114
-Narenjestan Traditional House,خانه سنتی نارنجستان شیراز,narenjestan-traditional-house-shiraz,shiraz,traditional_house,50.0,29.6158,52.5298,"Zand Street, Shiraz",4.6,91
-Hi Tehran Hostel,هاستل های تهران,hi-tehran-hostel,tehran,hostel,12.0,35.6964,51.4101,"Hafez Street, Tehran",4.4,176
-Naqsh-e Jahan Hostel,هاستل نقش جهان اصفهان,naqsh-e-jahan-hostel-isfahan,isfahan,hostel,11.0,32.6554,51.6789," walk from the UNESCO-listed Imam Square — one of the largest public squares in the world and the architectural centerpiece of Safavid Iran — the Naqsh-e Jahan Hostel has been the default gathering place for budget travelers in Isfahan for over a decade. The converted apartment building has been thoughtfully adapted, with dormitory beds that offer genuine privacy through curtained pods and USB charging at every bunk. The common room",4.5,201
-Poets Quarter Hostel,هاستل محله شعرا شیراز,poets-quarter-hostel-shiraz,shiraz,hostel,13.0,29.6193,52.5349,Poets Quarter Hostel,4.6,158
-Bazaar Gate Hostel,هاستل دروازه بازار تهران,bazaar-gate-hostel-tehran,tehran,hostel,9.0,35.6756,51.4228,,3.9,134
+name,name_fa,slug,city,type,price_usd,lat,lng,address,amenities,rating,reviews
+Espinas Palace Hotel,هتل اسپیناس پالاس,espinas-palace-hotel-tehran,tehran,hotel,185.0,35.7772,51.4165,"Chamran Highway, Shahrak-e Gharb, Tehran",wifi|breakfast|air_conditioning|parking|pool|restaurant|laundry,4.6,187
+Parsian Azadi Hotel,هتل پارسیان آزادی,parsian-azadi-hotel-tehran,tehran,hotel,120.0,35.6997,51.3484,"Chamran Highway, Purnak Square, Tehran",wifi|breakfast|air_conditioning|parking|restaurant|laundry,4.1,142
+Abbasi Hotel,هتل عباسی,abbasi-hotel-isfahan,isfahan,hotel,145.0,32.6584,51.6738,"Amadegah Street, Isfahan",wifi|breakfast|air_conditioning|restaurant|garden|laundry,4.9,198
+Kowsar Hotel Isfahan,هتل کوثر اصفهان,kowsar-hotel-isfahan,isfahan,hotel,95.0,32.6428,51.6674,s proximity to Chahar Bagh Avenue means the city,wifi|breakfast|air_conditioning|restaurant|laundry,4.3,156
+Zandiyeh Hotel,هتل زندیه,zandiyeh-hotel-shiraz,shiraz,hotel,110.0,29.61,52.5324,"Lotf Ali Khan Zand Boulevard, Shiraz",wifi|breakfast|air_conditioning|restaurant|garden|rooftop_terrace,4.7,134
+Eram Grand Hotel,هتل بزرگ ارم شیراز,eram-grand-hotel-shiraz,shiraz,hotel,75.0,29.6389,52.5164,"Eram Boulevard, Shiraz",wifi|breakfast|air_conditioning|parking|restaurant|laundry,4.0,89
+Dariush Grand Hotel Mashhad,هتل بزرگ داریوش مشهد,dariush-grand-hotel-mashhad,mashhad,hotel,60.0,36.2887,59.6066,"Imam Reza Boulevard, Mashhad",wifi|breakfast|air_conditioning|restaurant|laundry,4.2,203
+Tabriz International Hotel,هتل بین‌المللی تبریز,tabriz-international-hotel,tabriz,hotel,85.0,38.0833,46.3001,"The grandest address in East Azerbaijan, the Tabriz International has defined upmarket hospitality in this historic Silk Road city since its opening in the late Soviet era. Its position opposite the Blue Mosque means guests wake to the extraordinary sight of those cobalt-tiled minarets against the mountain backdrop of the Sahand range. The hotel",wifi|breakfast|air_conditioning|parking|pool|restaurant|laundry,4.4,118
+Moshir al-Mamalek Garden Hotel,هتل باغ موشیرالممالک,moshir-al-mamalek-garden-hotel-yazd,yazd,hotel,90.0,31.894,54.3565,"Fahadan Quarter, Old City, Yazd",wifi|breakfast|air_conditioning|garden|restaurant,4.8,167
+Manouchehri House Hotel,هتل خانه منوچهری,manouchehri-house-hotel-kashan,kashan,hotel,115.0,33.9857,51.4374,"Alavi Street, Old City, Kashan",wifi|breakfast|air_conditioning|garden|restaurant|rooftop_terrace,4.9,143
+Akhavan Hotel Kerman,هتل اخوان کرمان,akhavan-hotel-kerman,kerman,hotel,40.0,30.2895,57.0793,"Imam Khomeini Square, Kerman",wifi|breakfast|air_conditioning|parking|laundry,3.8,74
+Kadus Hotel Rasht,هتل کادوس رشت,kadus-hotel-rasht,rasht,hotel,55.0,37.2809,49.5832,"Imam Khomeini Street, Rasht",wifi|breakfast|air_conditioning|pool|restaurant|laundry,3.9,97
+Howzak House,خانه هوزک,howzak-house-isfahan,isfahan,guesthouse,35.0,32.6621,51.6805,"Howzak Lane, Jolfa Quarter, Isfahan",wifi|breakfast|garden,4.7,88
+Ferdowsi Grand Guesthouse,مهمانخانه بزرگ فردوسی,ferdowsi-grand-guesthouse-tehran,tehran,guesthouse,28.0,35.6956,51.4169,"Ferdowsi Avenue, Tehran",wifi|breakfast|rooftop_terrace|laundry,4.2,113
+Niayesh Boutique Guesthouse,مهمانخانه نیایش شیراز,niayesh-boutique-guesthouse-shiraz,shiraz,guesthouse,42.0,29.6187,52.5411,"Lot Ali Khan Zand Street, Shiraz",wifi|breakfast|garden|air_conditioning,4.8,102
+Silk Road Guesthouse Yazd,مهمانخانه جاده ابریشم یزد,silk-road-guesthouse-yazd,yazd,guesthouse,22.0,31.8983,54.3647,Silk Road Guesthouse Yazd,wifi|breakfast|rooftop_terrace,4.5,134
+Saraye Ameriha Guesthouse,سرای عامری‌ها کاشان,saraye-ameriha-guesthouse-kashan,kashan,guesthouse,38.0,33.9827,51.4392,"Alavi Street, Kashan",wifi|breakfast|garden,4.6,79
+Razavi Pilgrim Guesthouse,مهمانخانه رضوی مشهد,razavi-pilgrim-guesthouse-mashhad,mashhad,guesthouse,25.0,36.2862,59.6135,"Beit al-Maqaddas Alley, Mashhad",wifi|breakfast|garden,4.4,88
+Tabriz Heritage Guesthouse,مهمانخانه میراث تبریز,tabriz-heritage-guesthouse,tabriz,guesthouse,45.0,38.0803,46.2941,"Imam Street, Old City, Tabriz",wifi|breakfast|air_conditioning,4.5,66
+Jolfa Quarter Guesthouse,مهمانخانه محله جلفا,jolfa-quarter-guesthouse-isfahan,isfahan,guesthouse,32.0,32.6519,51.6697,Jolfa Quarter Guesthouse,wifi|breakfast|garden,4.3,71
+Qom Sacred City Guesthouse,مهمانخانه شهر مقدس قم,qom-sacred-city-guesthouse,qom,guesthouse,20.0,34.6394,50.8757,Qom Sacred City Guesthouse,wifi|breakfast|laundry,4.1,54
+Caspian Breeze Guesthouse,مهمانخانه نسیم خزر رشت,caspian-breeze-guesthouse-rasht,rasht,guesthouse,30.0,37.2741,49.5812,"Golsar Street, Rasht",wifi|breakfast|garden|parking,4.6,82
+Malek Traditional House,خانه سنتی ملک اصفهان,malek-traditional-house-isfahan,isfahan,traditional_house,75.0,32.6597,51.6771,"Malek Street, Old City, Isfahan",wifi|breakfast|garden|air_conditioning,4.8,96
+Noghli Traditional House,خانه سنتی نقلی کاشان,noghli-traditional-house-kashan,kashan,traditional_house,85.0,33.9841,51.4361,"Alavi Alley, Old City, Kashan",wifi|breakfast|garden|rooftop_terrace,4.9,121
+Fahadan Museum House,خانه موزه فهادان یزد,fahadan-museum-house-yazd,yazd,traditional_house,65.0,31.8972,54.3621,"Fahadan Lane, Yazd",wifi|breakfast|garden,4.7,108
+Eram Traditional House Shiraz,خانه سنتی ارم شیراز,eram-traditional-house-shiraz,shiraz,traditional_house,70.0,29.6125,52.5377,"Lotf Ali Khan Zand Street, Shiraz",wifi|breakfast|garden|air_conditioning,4.6,89
+Khan-e Tabatabaei Guesthouse,مهمانسرای خانه طباطبایی,khan-e-tabatabaei-guesthouse-kashan,kashan,traditional_house,90.0,33.9853,51.4381,"Tabatabaei Alley, Old City, Kashan",wifi|breakfast|garden,4.8,77
+Darb-e Imam Traditional House,خانه سنتی درب امام اصفهان,darb-e-imam-traditional-house-isfahan,isfahan,traditional_house,55.0,32.6642,51.6712,"Darb-e Imam Alley, Isfahan",wifi|breakfast|rooftop_terrace,4.5,63
+Yazd Wind Tower House,خانه بادگیر یزد,yazd-wind-tower-house,yazd,traditional_house,60.0,31.8952,54.3588,"Khan Street, Old City, Yazd",wifi|breakfast|garden|air_conditioning,4.7,114
+Narenjestan Traditional House,خانه سنتی نارنجستان شیراز,narenjestan-traditional-house-shiraz,shiraz,traditional_house,50.0,29.6158,52.5298,"Zand Street, Shiraz",wifi|breakfast|garden,4.6,91
+Lut Desert Ecolodge,اکولوژ کویر لوت,lut-desert-ecolodge,yazd,ecolodge,55.0,30.5744,57.3281,"Desert Road, Shahdad, Near Kerman/Yazd",breakfast|parking,4.8,74
+Alborz Jungle Ecolodge,اکولوژ جنگل البرز,alborz-jungle-ecolodge-rasht,rasht,ecolodge,65.0,37.1847,49.3761,"Forest Road, Masal District, Gilan",breakfast|parking,4.7,58
+Qashqai Nomad Ecolodge,اکولوژ عشایر قشقایی,qashqai-nomad-ecolodge-shiraz,shiraz,ecolodge,45.0,29.8914,52.2681,"Zagros Highlands, Mamasani District, Fars Province",breakfast|parking,4.9,43
+Damavand Basecamp Lodge,اکولوژ پایگاه دماوند,damavand-basecamp-lodge-tehran,tehran,ecolodge,35.0,35.9557,52.1143,"Polur Village, Haraz Road, Mazandaran",breakfast|parking|laundry,4.5,87
+Mesr Desert Ecolodge,اکولوژ بیابان مصر,mesr-desert-ecolodge-yazd,yazd,ecolodge,40.0,34.1624,54.5417,"Mesr Village, Dasht-e Kavir Desert",breakfast|parking,4.6,112
+Golestan Forest Ecolodge,اکولوژ جنگل گلستان,golestan-forest-ecolodge-mashhad,mashhad,ecolodge,50.0,37.4817,55.7531,"National Park Road, Golestan Province",breakfast|parking,4.7,49
+Zein-o-Din Caravanserai,کاروانسرای زین‌الدین,zein-o-din-caravanserai-yazd,yazd,caravanserai,95.0,31.5124,54.6841,"Yazd-Kerman Road, Zein-o-Din Village",breakfast|parking|restaurant,4.9,127
+Shah Abbas Caravanserai Inn,کاروانسرای شاه عباس اصفهان,shah-abbas-caravanserai-inn-isfahan,isfahan,caravanserai,130.0,32.6512,51.6649,"Chahar Bagh Abbasi Street, Isfahan",wifi|breakfast|restaurant|garden,4.8,98
+Aminoddoleh Caravanserai Kashan,کاروانسرای امین‌الدوله کاشان,aminoddoleh-caravanserai-kashan,kashan,caravanserai,80.0,33.9812,51.4337,,wifi|breakfast|air_conditioning,4.6,82
+Vakil Bazaar Caravanserai,کاروانسرای بازار وکیل شیراز,vakil-bazaar-caravanserai-shiraz,shiraz,caravanserai,65.0,29.6147,52.5356,,wifi|breakfast|air_conditioning,4.5,67
+Masoudieh Caravanserai Tehran,کاروانسرای مسعودیه تهران,masoudieh-caravanserai-tehran,tehran,caravanserai,100.0,35.6893,51.4317,"Masoudieh Palace Street, Tehran",wifi|breakfast|air_conditioning|restaurant|garden,4.7,93
+Hi Tehran Hostel,هاستل های تهران,hi-tehran-hostel,tehran,hostel,12.0,35.6964,51.4101,"Hafez Street, Tehran",wifi|laundry|kitchen|rooftop_terrace,4.4,176
+Naqsh-e Jahan Hostel,هاستل نقش جهان اصفهان,naqsh-e-jahan-hostel-isfahan,isfahan,hostel,11.0,32.6554,51.6789," walk from the UNESCO-listed Imam Square — one of the largest public squares in the world and the architectural centerpiece of Safavid Iran — the Naqsh-e Jahan Hostel has been the default gathering place for budget travelers in Isfahan for over a decade. The converted apartment building has been thoughtfully adapted, with dormitory beds that offer genuine privacy through curtained pods and USB charging at every bunk. The common room",wifi|laundry|kitchen,4.5,201
+Poets Quarter Hostel,هاستل محله شعرا شیراز,poets-quarter-hostel-shiraz,shiraz,hostel,13.0,29.6193,52.5349,Poets Quarter Hostel,wifi|laundry|kitchen|garden,4.6,158
+Bazaar Gate Hostel,هاستل دروازه بازار تهران,bazaar-gate-hostel-tehran,tehran,hostel,9.0,35.6756,51.4228,,wifi|laundry|kitchen,3.9,134
+North Tehran Serviced Apartment,آپارتمان سرویس‌دهی شمال تهران,north-tehran-serviced-apartment,tehran,unknown,,35.7828,51.4371,"Elahieh Street, North Tehran",wifi|air_conditioning|parking|kitchen,4.3,47
+Chahar Bagh Apartment,آپارتمان چهارباغ اصفهان,chahar-bagh-apartment-isfahan,isfahan,unknown,,32.6491,51.6692,s grand Chahar Bagh Avenue — the boulevard that Safavid kings designed as a ceremonial axis connecting their palaces to the Zayandeh River — this two-bedroom apartment offers independence and space in one of the world,wifi|air_conditioning|kitchen,4.5,53
+Hafez Garden Apartment,آپارتمان باغ حافظ شیراز,hafez-garden-apartment-shiraz,shiraz,unknown,,29.6231,52.5381,"Hafez Avenue, Shiraz",wifi|air_conditioning|kitchen|garden,4.4,38
+Caspian Sea Villa,ویلای دریای خزر,caspian-sea-villa-rasht,rasht,unknown,,36.9827,50.0341,"Coastal Road, Ramsar, Caspian Shore",wifi|air_conditioning|parking|pool|garden|kitchen,4.8,34
+Safavid Garden Villa,ویلای باغ صفوی اصفهان,safavid-garden-villa-isfahan,isfahan,unknown,,32.6127,51.6841,"Southern Garden District, Isfahan",wifi|air_conditioning|parking|pool|garden|kitchen|laundry,4.9,28
