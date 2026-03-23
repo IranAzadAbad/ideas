@@ -1,37 +1,12 @@
-# Project Ideas
+EcoZist-Proposal
+Software Developers & Environmental Enthusiasts
+What it is: A mobile application and logistics platform that connects citizens directly to waste collection networks and recycling facilities.
+Why it matters: In Iran, an extremely low percentage of municipal waste is sorted at the source, leading to massive loss of recyclable materials and severe soil/water pollution.
+Problem Solved: It eliminates inefficient traditional middlemen, increases recycling rates through digital tracking, and provides a financial/social incentive for households to separate their waste.
+Phase 1: Research	Analyzing municipal regulations and partnering with local recycling centers.
+Phase 2: MVP Development	Building a simplified app for pickup requests and waste weighing.
+Phase 3: Pilot Launch	Testing the system within a single large residential complex or a specific district.
+Phase 4: Scaling	Integrating the reward system (wallets/coupons) and expanding the fleet.
 
-An open, bottom up repository of ideas to help build the future of Iran across tech, infrastructure, economy, and society.
 
-Anyone can contribute.
-
-See all discussions here:  (https://github.com/IranAzadAbad/ideas)
-
----
-
-
-## How to Submit an Idea
-
-Each idea should be **1 to a few pages**, clear and actionable.
-
-1. **Title** Short, descriptive name.  
-2. **Author (optional)** Name, brief background, contact.  
-3. **Abstract** What it is, why it matters, problem solved.  
-4. **Why It’s Interesting** Why now, why Iran, expected impact.  
-5. **Approach** Key steps, timeline, methods.  
-6. **Help Needed** Talent, funding, data, partnerships.  
-7. **Supporting Material (recommended)** Charts, images, links, videos.  
-
----
-
-## Guidelines
-
-- Be concise and practical  
-- Focus on solutions, not politics  
-- Prefer clarity over length  
-- Visuals strongly help  
-
----
-
-## Goal
-
-Create a high quality, open set of ideas that can turn into real projects, teams, and companies.
+Add EcoZist Idea
